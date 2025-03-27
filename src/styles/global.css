@@ -1,20 +1,79 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=UnifrakturMaguntia&display=swap');
+:root {
+	--bg: #FAF4E8;
+	--text: #3E3222;
+	--headings: #2E4634;
+	--accent: #C48A84;
+	--link: #5D768A;
+	--border: #C9C6BD;
+  }
 
 body {
-  font-family: 'Inter', sans-serif;
-  margin: 0;
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: var(--bg);
+  color: var(--text);
+  font-size: 1.25rem;         /* ~20px */
+  line-height: 1.75;          /* generous spacing */
+  letter-spacing: 0.015em;    /* gentle tracking */
+  max-width: 65ch;            /* line length ideal */
+  margin: 0 auto;
   padding: 2rem;
-  max-width: 720px;
   margin-inline: auto;
-  line-height: 1.6;
-  background-color: #fff;
-  color: #222;
 }
 
 h1, h2, h3 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: normal;
-  margin-top: 2rem;
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--headings);
+  margin-top: 3rem;
   margin-bottom: 1rem;
   font-size: 2.5rem;
+  line-height: 1.2;
 }
+
+a {
+	color: var(--link);
+	text-decoration: none;
+  }
+  
+  a:hover {
+	color: var(--accent);
+	text-decoration: underline;
+  }
+  
+  hr {
+	border: none;
+	border-top: 1px solid var(--border);
+	margin: 2rem 0;
+  }
+
+  p {
+	margin-bottom: 1.5rem;
+  }
+
+  .intro {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+  }
+  
+  .intro img {
+	max-width: 300px;
+  }
+  
+  .intro h1 {
+	font-size: 2.2rem;
+	font-family: "Boldonse", sans-serif;
+	margin-bottom: 1rem;
+	color: var(--headings);
+  }
+  
+  .intro p {
+	font-size: 1.2rem;
+	color: var(--text);
+	max-width: 40ch;
+  }
+  
