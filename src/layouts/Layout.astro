@@ -1,0 +1,72 @@
+---
+const { title = "Casey Jo's Digital Garden" } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=UnifrakturMaguntia&display=swap"
+/>
+    <title>{title}</title>
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+        max-width: 700px;
+        margin: 4rem auto;
+        padding: 0 1rem;
+        line-height: 1.6;
+      }
+
+      h1, h2, h3 {
+        font-family: 'UnifrakturMaguntia', cursive;
+    }
+
+      nav {
+        margin-bottom: 2rem;
+      }
+
+      nav a {
+        display: inline-block;
+        margin-right: 1rem;
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+      }
+
+      nav a:hover {
+        text-decoration: underline;
+      }
+
+      article {
+        border-top: 1px solid #ccc;
+        padding-top: 1.5rem;
+        margin-top: 2rem;
+      }
+
+      p {
+        margin-bottom: 1rem;
+      }
+
+      blockquote {
+        font-style: italic;
+        border-left: 4px solid #888;
+        padding-left: 1rem;
+        color: #555;
+        margin: 1rem 0;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/reviews">Book Reviews</a>
+      <a href="/writing">Writing</a>
+      <a href="/art">Art</a>
+      <a href="/notes">Notes</a>
+    </nav>
+
+    <slot />
+  </body>
+</html>

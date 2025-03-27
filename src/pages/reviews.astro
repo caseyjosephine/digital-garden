@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const reviews = await getCollection('reviews');
+---
+
+<Layout title="Book Reviews">
+  <h1>Reviews ({reviews.length})</h1>
+  <ul>
+    {await Promise.all(
+      reviews.map(async (review) => {
+        const { Content } = await review.render();
+
+        return (
+          <li>
+            <article>
+              <h2>{review.data.title}</h2>
+              <p>⭐ {review.data.rating}/5</p>
+              <Content />
+            </article>
+          </li>
+        );
+      })
+    )}
+  </ul>
+</Layout>
