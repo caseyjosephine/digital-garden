@@ -1,0 +1,51 @@
+---
+Book Id: 92364
+Title: Eye of the Needle
+Author: Ken Follett
+Author l-f: Follett, Ken
+Additional Authors: null
+ISBN: ="006074815X"
+ISBN13: ="9780060748159"
+My Rating: 4
+Average Rating: 4.21
+Publisher: William Morrow Paperbacks
+Binding: Paperback
+Number of Pages: 368.0
+Year Published: 2004.0
+Original Publication Year: 1978.0
+Date Read: 2016/02/02
+Date Added: 2016/01/28
+Bookshelves: the-not-so-serious-lit
+Bookshelves with positions: the-not-so-serious-lit (#135)
+Exclusive Shelf: read
+My Review: 'I found out about the US Army''s Deception Unit, not from high school
+  history (during which I mostly learned that America is awesome) but from an <a href="http://99percentinvisible.org/episode/show-of-force/">episode
+  of the podcast 99 Percent Invisible</a>, which (broadly) focuses on design. The
+  idea was that German intelligence could be tricked into thinking that the Allies
+  were mounting a huge army to storm Pas-de-Calais, so that they would be surprised
+  by Normandy. They used inflatable tanks and the kind of buildings you''d see on
+  a movie set. They hired artists and writers to make it all seem real and, amazingly,
+  it actually worked. <br/><br/>Turns out, that trickery is the plot of Ken Follett''s
+  "Eye of the Needle," which is a ridiculously riveting spy thriller. The main character
+  is Faber, a German spy who gets his nickname "The Needle" due to his favored weapon:
+  a thin knife called a stiletto. We''re put in the awkward position of caring about
+  him enough to want him to be happy, even though we also don''t want him to provide
+  intelligence to Hitler about the deception unit, because that could lose the war.
+  We also don''t want him to kill our other (well-drawn) characters. <br/><br/>Of
+  course, you know how this story ends. I even learned this one in high school history:
+  the side America was on won, because America is awesome. But, somehow, Follett manages
+  to ratchet up the suspense and keep the reader worrying that Germany will win. Very
+  impressive.<br/><br/>Follett is now more popular for The Pillars of the Earth and
+  related novels, which focus on cathedral building during the middle ages and other
+  themes not involving spies. Having read The Eye of the Needle, I''m pushing The
+  Pillars of the Earth further up my list. Follett is a master of characterization:
+  he''s able to give you a sense of who a character is in just a few paragraphs. Also,
+  he writes surprisingly good sex scenes. I don''t know how many sex scenes there
+  would be in a book about cathedrals, but I hope there are a few.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+I found out about the US Army's Deception Unit, not from high school history (during which I mostly learned that America is awesome) but from an <a href="http://99percentinvisible.org/episode/show-of-force/">episode of the podcast 99 Percent Invisible</a>, which (broadly) focuses on design. The idea was that German intelligence could be tricked into thinking that the Allies were mounting a huge army to storm Pas-de-Calais, so that they would be surprised by Normandy. They used inflatable tanks and the kind of buildings you'd see on a movie set. They hired artists and writers to make it all seem real and, amazingly, it actually worked. <br/><br/>Turns out, that trickery is the plot of Ken Follett's "Eye of the Needle," which is a ridiculously riveting spy thriller. The main character is Faber, a German spy who gets his nickname "The Needle" due to his favored weapon: a thin knife called a stiletto. We're put in the awkward position of caring about him enough to want him to be happy, even though we also don't want him to provide intelligence to Hitler about the deception unit, because that could lose the war. We also don't want him to kill our other (well-drawn) characters. <br/><br/>Of course, you know how this story ends. I even learned this one in high school history: the side America was on won, because America is awesome. But, somehow, Follett manages to ratchet up the suspense and keep the reader worrying that Germany will win. Very impressive.<br/><br/>Follett is now more popular for The Pillars of the Earth and related novels, which focus on cathedral building during the middle ages and other themes not involving spies. Having read The Eye of the Needle, I'm pushing The Pillars of the Earth further up my list. Follett is a master of characterization: he's able to give you a sense of who a character is in just a few paragraphs. Also, he writes surprisingly good sex scenes. I don't know how many sex scenes there would be in a book about cathedrals, but I hope there are a few.

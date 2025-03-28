@@ -1,0 +1,53 @@
+---
+Book Id: 14781453
+Title: The Host
+Author: Stephenie Meyer
+Author l-f: Meyer, Stephenie
+Additional Authors: null
+ISBN: ="0316218502"
+ISBN13: ="9780316218504"
+My Rating: 3
+Average Rating: 3.86
+Publisher: Back Bay Books
+Binding: Paperback
+Number of Pages: 652.0
+Year Published: 2013.0
+Original Publication Year: 2008.0
+Date Read: 2014/03/05
+Date Added: 2014/02/24
+Bookshelves: the-not-so-serious-lit
+Bookshelves with positions: the-not-so-serious-lit (#115)
+Exclusive Shelf: read
+My Review: 'Oh goodness, did I just read a book by Stephanie Meyer and actually enjoy
+  it? How could that be? Based only on the given information I''d normally surmise
+  that I''ve been taken over by space parasites myself, but I do have access to my
+  own consciousness and I''m relatively certain that''s not the case. If you ever
+  encounter me in an Olive Garden, sipping Sutter Home White Zinfandel and gushing
+  about whatever poptard kids are listening to these days, then my body has definitely
+  been invaded, in which case please alert the authorities. Until then, I have to
+  be okay with the fact that my opinions are my own.<br/><br/>The Host actually worked
+  for me because it''s a good story: parasitic space aliens colonize Earth, taking
+  over the bodies of human hosts. Our dear parasitic protagonist, Wanderer, takes
+  the body of Melanie, one of the few remaining resistant humans, only to discover
+  that this human won''t be taken over without a fight. The two turn into reluctant
+  allies when they realize that Melanie''s emotions and experiences have colored the
+  way that Wanderer views her kind. It''s obviously not quality literature, but I
+  thought it was a fun way to kill some time while I was home sick with a cold.<br/><br/>But,
+  lest you think that Stephanie Meyer has somehow morphed into a good writer, let
+  me disabuse you of that silly notion. Meyer has gotten to be a little less eye-gougingly
+  bad, but less bad is not the same as actually good. The story is good, but the writing
+  is annoyingly juvenile (seriously, why does everything have to be a love story?
+  Space aliens are way more interesting than awkward make-out sessions.). What bothers
+  me is that, in the hands of a capable writer, this stuff would be pretty philosophically
+  interesting. I mean, there are connections to be made with what it means to be human,
+  and embodied cognition, and [a:William James|15865|William James|https://d202m5krfqbpi5.cloudfront.net/authors/1236751662p2/15865.jpg]
+  type stuff. But I''m okay settling for amusing, which (let''s be honest) is really
+  a lot more than I expected from the writer whose previous contribution to literature
+  was sparkly vampires.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Oh goodness, did I just read a book by Stephanie Meyer and actually enjoy it? How could that be? Based only on the given information I'd normally surmise that I've been taken over by space parasites myself, but I do have access to my own consciousness and I'm relatively certain that's not the case. If you ever encounter me in an Olive Garden, sipping Sutter Home White Zinfandel and gushing about whatever poptard kids are listening to these days, then my body has definitely been invaded, in which case please alert the authorities. Until then, I have to be okay with the fact that my opinions are my own.<br/><br/>The Host actually worked for me because it's a good story: parasitic space aliens colonize Earth, taking over the bodies of human hosts. Our dear parasitic protagonist, Wanderer, takes the body of Melanie, one of the few remaining resistant humans, only to discover that this human won't be taken over without a fight. The two turn into reluctant allies when they realize that Melanie's emotions and experiences have colored the way that Wanderer views her kind. It's obviously not quality literature, but I thought it was a fun way to kill some time while I was home sick with a cold.<br/><br/>But, lest you think that Stephanie Meyer has somehow morphed into a good writer, let me disabuse you of that silly notion. Meyer has gotten to be a little less eye-gougingly bad, but less bad is not the same as actually good. The story is good, but the writing is annoyingly juvenile (seriously, why does everything have to be a love story? Space aliens are way more interesting than awkward make-out sessions.). What bothers me is that, in the hands of a capable writer, this stuff would be pretty philosophically interesting. I mean, there are connections to be made with what it means to be human, and embodied cognition, and [a:William James|15865|William James|https://d202m5krfqbpi5.cloudfront.net/authors/1236751662p2/15865.jpg] type stuff. But I'm okay settling for amusing, which (let's be honest) is really a lot more than I expected from the writer whose previous contribution to literature was sparkly vampires.

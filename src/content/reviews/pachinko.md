@@ -1,0 +1,54 @@
+---
+Book Id: 29983711
+Title: Pachinko
+Author: Min Jin Lee
+Author l-f: Lee, Min Jin
+Additional Authors: null
+ISBN: ="1455563935"
+ISBN13: ="9781455563937"
+My Rating: 3
+Average Rating: 4.34
+Publisher: Grand Central Publishing
+Binding: Hardcover
+Number of Pages: 490.0
+Year Published: 2017.0
+Original Publication Year: 2017.0
+Date Read: 2018/06/19
+Date Added: 2018/06/12
+Bookshelves: all-around-the-world, audiobook, i-don-t-get-the-hype, quick-reads
+Bookshelves with positions: all-around-the-world (#59), audiobook (#17), i-don-t-get-the-hype
+  (#19), quick-reads (#30)
+Exclusive Shelf: read
+My Review: 'This is a hard book to rate, because there were things I truly enjoyed
+  about it. The Japanese colonized Korea back in the day, if you didn’t know, and
+  the history is pretty fascinating. Plus, Min Jin Lee is a capable writer, the kind
+  that leads book-clubbers to proudly proclaim (while guzzling Pinot Grigio, no doubt)
+  that they actually finished the book.<br/><br/>Actually, I thought this was a solid
+  four-star read — until I was almost finished with it.  But I have to knock off 1/2
+  star for not sticking the landing, and another 1/2 star for Jesus. Because, my fucking
+  god, there are a lot of heavy-handed references to Christianity in this book.  As
+  a point of reference, the majority of Koreans have no religious affiliation (just
+  over 25% are Christian), and Japan is remarkably secular (Christians make up only
+  2.3% of the population). But parts of this book felt like they’d be better suited
+  to a megachurch in Texas.<br/><br/>Not that there’s anything wrong with Christianity
+  in books. One of my favorite books is an epic novel about the building of a cathedral.
+  I once gifted a copy of Dante’s Inferno to a high school crush, in an awkward flirtation
+  only the bookish could understand (I thought it was romantic).  John Donne’s later
+  poems definitely have a “hot for Jesus” thing going on, and I can dig it.<br/><br/>My
+  issue is that Min Jin Lee seems convinced that a person’s moral character is determined
+  by whether they pray to the right imaginary friend. Characters are able to endure
+  hardships because of god: okay, but a better writer would have written about the
+  struggle. Half the major plot points in this book seem to involve the characters
+  dealing with another terrible thing happening — but all the good characters get
+  through it even stronger, because they believe in god.<br/><br/>Maybe that sort
+  of things resonates with Christians, I don’t really know because nothing about Christianity
+  makes any sense. But I thought the writing was lazy when it could least afford to
+  be, and that just doesn’t work for me. I thought this was a good poolside read,
+  but nothing more. <br/>'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+This is a hard book to rate, because there were things I truly enjoyed about it. The Japanese colonized Korea back in the day, if you didn’t know, and the history is pretty fascinating. Plus, Min Jin Lee is a capable writer, the kind that leads book-clubbers to proudly proclaim (while guzzling Pinot Grigio, no doubt) that they actually finished the book.<br/><br/>Actually, I thought this was a solid four-star read — until I was almost finished with it.  But I have to knock off 1/2 star for not sticking the landing, and another 1/2 star for Jesus. Because, my fucking god, there are a lot of heavy-handed references to Christianity in this book.  As a point of reference, the majority of Koreans have no religious affiliation (just over 25% are Christian), and Japan is remarkably secular (Christians make up only 2.3% of the population). But parts of this book felt like they’d be better suited to a megachurch in Texas.<br/><br/>Not that there’s anything wrong with Christianity in books. One of my favorite books is an epic novel about the building of a cathedral. I once gifted a copy of Dante’s Inferno to a high school crush, in an awkward flirtation only the bookish could understand (I thought it was romantic).  John Donne’s later poems definitely have a “hot for Jesus” thing going on, and I can dig it.<br/><br/>My issue is that Min Jin Lee seems convinced that a person’s moral character is determined by whether they pray to the right imaginary friend. Characters are able to endure hardships because of god: okay, but a better writer would have written about the struggle. Half the major plot points in this book seem to involve the characters dealing with another terrible thing happening — but all the good characters get through it even stronger, because they believe in god.<br/><br/>Maybe that sort of things resonates with Christians, I don’t really know because nothing about Christianity makes any sense. But I thought the writing was lazy when it could least afford to be, and that just doesn’t work for me. I thought this was a good poolside read, but nothing more. <br/>

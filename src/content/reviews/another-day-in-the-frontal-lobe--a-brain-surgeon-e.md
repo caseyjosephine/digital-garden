@@ -1,0 +1,51 @@
+---
+Book Id: 643917
+Title: 'Another Day in the Frontal Lobe: A Brain Surgeon Exposes Life on the Inside'
+Author: Katrina Firlik
+Author l-f: Firlik, Katrina
+Additional Authors: null
+ISBN: ="0812973402"
+ISBN13: ="9780812973402"
+My Rating: 3
+Average Rating: 3.78
+Publisher: Random House Publishing Group
+Binding: Paperback
+Number of Pages: 271.0
+Year Published: 2007.0
+Original Publication Year: 2006.0
+Date Read: 2012/05/22
+Date Added: 2012/05/18
+Bookshelves: memoir-writers-this-is-your-life, knowledge-is-good
+Bookshelves with positions: memoir-writers-this-is-your-life (#24), knowledge-is-good
+  (#61)
+Exclusive Shelf: read
+My Review: 'I do research on the mind, which is deeply connected with the brain. However,
+  my experience with the brain is not like Katrina Firlik''s experience with the brain.
+  The brains I''ve gotten to play with have been cadaver brains, which greatly differ
+  in texture from their living counterparts. I find it interesting to see what "lights
+  up" during particular cognitive activities, but I''m far less interested in individual
+  idiosyncrasies than consistences across individuals. <br/><br/>This book provided
+  a fascinating glimpse into what other people think about when they think about the
+  brain. Firlik describes interesting cases in detail. She explains what it''s like
+  to become a neurosurgeon, from medical school to the internship, residency, and
+  beyond. She talks about how she deals with emotional and risky cases, how she balances
+  life, and how her cases cause her to introspect on her own life. Overall, it''s
+  a very human look into a profession where people are more likely to be called "cocky"
+  than "sympathetic."<br/><br/>The only major problem I had with the book was the
+  last chapter. In this final chapter, Firlik speculates on how neurosurgery will
+  change in the future. She claims that people will be able to do things like remove
+  their spatial abilities to become memory savants. In saying this, she makes untenable
+  assumptions: that the mind is a zero-sum machine, and that it''s somehow wonderful
+  to be a memory savant. Of course, we know that having a perfect memory can be completely
+  debilitating (see [b:The Mind of a Mnemonist: A Little Book about a Vast Memory|428157|The
+  Mind of a Mnemonist  A Little Book about a Vast Memory|Alexander R. Luria|http://photo.goodreads.com/books/1174668950s/428157.jpg|911343]
+  for more on this). Thus, while she seems to be a remarkable surgeon, she''s not
+  a research scientist, and her pure research claims should be taken with a grain
+  of salt. '
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+I do research on the mind, which is deeply connected with the brain. However, my experience with the brain is not like Katrina Firlik's experience with the brain. The brains I've gotten to play with have been cadaver brains, which greatly differ in texture from their living counterparts. I find it interesting to see what "lights up" during particular cognitive activities, but I'm far less interested in individual idiosyncrasies than consistences across individuals. <br/><br/>This book provided a fascinating glimpse into what other people think about when they think about the brain. Firlik describes interesting cases in detail. She explains what it's like to become a neurosurgeon, from medical school to the internship, residency, and beyond. She talks about how she deals with emotional and risky cases, how she balances life, and how her cases cause her to introspect on her own life. Overall, it's a very human look into a profession where people are more likely to be called "cocky" than "sympathetic."<br/><br/>The only major problem I had with the book was the last chapter. In this final chapter, Firlik speculates on how neurosurgery will change in the future. She claims that people will be able to do things like remove their spatial abilities to become memory savants. In saying this, she makes untenable assumptions: that the mind is a zero-sum machine, and that it's somehow wonderful to be a memory savant. Of course, we know that having a perfect memory can be completely debilitating (see [b:The Mind of a Mnemonist: A Little Book about a Vast Memory|428157|The Mind of a Mnemonist  A Little Book about a Vast Memory|Alexander R. Luria|http://photo.goodreads.com/books/1174668950s/428157.jpg|911343] for more on this). Thus, while she seems to be a remarkable surgeon, she's not a research scientist, and her pure research claims should be taken with a grain of salt. 

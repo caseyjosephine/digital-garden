@@ -1,0 +1,62 @@
+---
+Book Id: 17899948
+Title: Rebecca
+Author: Daphne du Maurier
+Author l-f: Maurier, Daphne du
+Additional Authors: null
+ISBN: ="0316323705"
+ISBN13: ="9780316323703"
+My Rating: 5
+Average Rating: 4.25
+Publisher: Little, Brown and Company
+Binding: Kindle Edition
+Number of Pages: 449.0
+Year Published: 2013.0
+Original Publication Year: 1938.0
+Date Read: 2014/02/24
+Date Added: 2012/11/14
+Bookshelves: 1001-books, dear-ones, the-serious-lit
+Bookshelves with positions: 1001-books (#114), dear-ones (#40), the-serious-lit (#160)
+Exclusive Shelf: read
+My Review: 'I just want to clarify, in case you thought Rebecca was a bestselling
+  romance novel: it''s not. It''s a serious novel, and it''s seriously good. I find
+  it both interesting and disconcerting that the Hitchcock film still garners respect,
+  while the novel is marketed as a simple romance ([bc:Rebecca|636993|Rebecca|Daphne
+  du Maurier|https://d202m5krfqbpi5.cloudfront.net/books/1348884686s/636993.jpg|46663]).
+  Maybe the book would be more canonical if it were written by David du Maurier (conversely,
+  maybe the film would be dismissed if it were directed by Alexa Hitchcock).<br/><br/>Anyway,
+  this is freaking good. It''s an interesting meditation on identity, possibly the
+  most creative one I''ve experienced since Persona. The second Mrs. de Winter is
+  haunted by Rebecca, the Mrs. de Winter that came before her. She desperately wants
+  to be "a woman of about thirty-six dressed in black satin with a string of pearls.”
+  (so do I, dear, so do I). Instead, she finds herself undermined by the servants
+  who are supposed to answer to her. She begs for maturity in a world where her husband
+  openly admits that he''s attracted to her youth and naivety. She''s interesting,
+  even as her true self completely disappears into the narrative (and into the shadowy
+  recesses of Manderley).<br/><br/>Rebecca is subversive in that <spoiler>the second
+  Mrs. de Winter doesn''t just blindly submit to her role as a retroactive accessory
+  to the murder of the first Mrs. de Winter. Instead, she she actively acquiesces.
+  So does the reader, as they find themselves rooting for the current de Winters.
+  I see what you did there, du Maurier. That was clever of you.<br/><br/>While we''re
+  at it, seriously, when your husband tells you "Yeah, I killed my former wife, but
+  that bitch was <i>cray</i>," the correct response is run away. At the very least,
+  it might not be a terrible idea to at least take what he says with a grain of salt,
+  instead of just saying "Yep, that sounds legit. I''m sure she needed killing." Getting
+  super turned on and then deciding to bang is probably the worst thing thing you
+  can possibly do. Even if the sex is good, it''s a regrettable life decision.</spoiler><br/><br/>Are
+  we supposed to root for the nameless second Mrs. de Winter? Should we care about
+  the fate of Rebecca? What should we make of Beatrice, the more conventional foil
+  for the sundry Mrs. de Winters? Is Mrs. Danvers the protagonist of this novel? <spoiler>Is
+  there any protagonist at all?</spoiler> Who knows. One thing I liked quite a bit
+  about this novel is that it invites an immediate re-read. I''m going to try to hold
+  out until I can convince someone to fund a vacation to Cornwall.<br/><br/>I''m not
+  sure what else to say except that I totally urge you read this. I can''t say that
+  you won''t be disappointed, but I can say that, if you dislike this book, I will
+  seriously second-guess our friendship.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+I just want to clarify, in case you thought Rebecca was a bestselling romance novel: it's not. It's a serious novel, and it's seriously good. I find it both interesting and disconcerting that the Hitchcock film still garners respect, while the novel is marketed as a simple romance ([bc:Rebecca|636993|Rebecca|Daphne du Maurier|https://d202m5krfqbpi5.cloudfront.net/books/1348884686s/636993.jpg|46663]). Maybe the book would be more canonical if it were written by David du Maurier (conversely, maybe the film would be dismissed if it were directed by Alexa Hitchcock).<br/><br/>Anyway, this is freaking good. It's an interesting meditation on identity, possibly the most creative one I've experienced since Persona. The second Mrs. de Winter is haunted by Rebecca, the Mrs. de Winter that came before her. She desperately wants to be "a woman of about thirty-six dressed in black satin with a string of pearls.” (so do I, dear, so do I). Instead, she finds herself undermined by the servants who are supposed to answer to her. She begs for maturity in a world where her husband openly admits that he's attracted to her youth and naivety. She's interesting, even as her true self completely disappears into the narrative (and into the shadowy recesses of Manderley).<br/><br/>Rebecca is subversive in that <spoiler>the second Mrs. de Winter doesn't just blindly submit to her role as a retroactive accessory to the murder of the first Mrs. de Winter. Instead, she she actively acquiesces. So does the reader, as they find themselves rooting for the current de Winters. I see what you did there, du Maurier. That was clever of you.<br/><br/>While we're at it, seriously, when your husband tells you "Yeah, I killed my former wife, but that bitch was <i>cray</i>," the correct response is run away. At the very least, it might not be a terrible idea to at least take what he says with a grain of salt, instead of just saying "Yep, that sounds legit. I'm sure she needed killing." Getting super turned on and then deciding to bang is probably the worst thing thing you can possibly do. Even if the sex is good, it's a regrettable life decision.</spoiler><br/><br/>Are we supposed to root for the nameless second Mrs. de Winter? Should we care about the fate of Rebecca? What should we make of Beatrice, the more conventional foil for the sundry Mrs. de Winters? Is Mrs. Danvers the protagonist of this novel? <spoiler>Is there any protagonist at all?</spoiler> Who knows. One thing I liked quite a bit about this novel is that it invites an immediate re-read. I'm going to try to hold out until I can convince someone to fund a vacation to Cornwall.<br/><br/>I'm not sure what else to say except that I totally urge you read this. I can't say that you won't be disappointed, but I can say that, if you dislike this book, I will seriously second-guess our friendship.

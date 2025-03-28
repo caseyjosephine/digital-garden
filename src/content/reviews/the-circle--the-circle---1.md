@@ -1,0 +1,79 @@
+---
+Book Id: 18302455
+Title: 'The Circle (The Circle, #1)'
+Author: Dave Eggers
+Author l-f: Eggers, Dave
+Additional Authors: null
+ISBN: =""
+ISBN13: =""
+My Rating: 4
+Average Rating: 3.43
+Publisher: Knopf
+Binding: Hardcover
+Number of Pages: 493.0
+Year Published: 2013.0
+Original Publication Year: 2013.0
+Date Read: 2013/11/17
+Date Added: 2013/10/10
+Bookshelves: audiobook, the-not-so-serious-lit
+Bookshelves with positions: audiobook (#13), the-not-so-serious-lit (#108)
+Exclusive Shelf: read
+My Review: 'Consider this quote from a <a href="http://www.wired.com/business/2009/06/mark-zuckerberg-speaks/">Wired
+  Interview with Facebook CEO Mark Zuckerberg</a>:<br/><br/><blockquote>"The structural
+  change comes from this point of openness. We talk about this concept of openness
+  and transparency as the high level ideal that we’re moving towards at Facebook.
+  The way that we get there is by empowering people to share and connect. The combination
+  of those two things leads the world to become more open. And so as time has gone
+  on, we’ve actually shifted a bit more of a focus not just on directly making it
+  so people can use Facebook and share and be open on Facebook, but instead on making
+  it so that the systems themselves have open properties.<br/><br/>So, one analogy
+  that we think about is a government or a nation. If you want to be free, or you
+  want to preserve freedom for people, you both need to have laws that make it so
+  people have freedom of speech and all the freedoms that they need. You also need
+  to have an open governance system where people can vote and people have representation.<br/><br/>And
+  we think that over the long-term the way that we actually create the most openness
+  and transparency in the world (at Facebook) is both by creating the most powerful
+  applications ourselves and creating a platform that is fundamentally moving more
+  in the direction of being an open platform itself, right?<br/><br/>So we’re aiming
+  for openness on two levels: One on the fact that there’s more sharing, and another
+  on the fact that by having these open standards, you’re constantly moving towards
+  a place in the industry where there will be more and more sharing, right? So people
+  can bring their information anywhere they want. Anyone can use the platform."</blockquote><br/><br/>One
+  of the interesting aspects of The Circle is that Dave Eggers isn''t speculating
+  about some sort of dystopian future; we''re living in it. There has been a lot of
+  media attention paid to government spying recently (for good reason), but people
+  seem to forget about the fact that they''ve willingly given Facebook far more information
+  about themselves. Facebook knows which events I''ve been invited to, which parties
+  I''ve attended, whom I''ve taken pictures with, which restaurants I''ve gone to,
+  what books I''ve read, which news articles I''ve read, and who my family members
+  are. Even more creepily, it can forecast information to predict who I''m likely
+  to tag in a picture, and whose posts I''m likely to find relevant.<br/><br/>Yeah,
+  so the whole thing is pretty disconcerting, all things considered (the irony of
+  the fact that I''m posting about this on a social network and allowing this social
+  network to automatically connect with Facebook is not lost on me).<br/><br/>Connecting
+  with people is great, but we''ve also created this strange society in which it''s
+  almost impossible to opt-out. Don''t go on Facebook, and you won''t get invited
+  to karaoke. You won''t get the announcement that one of your college buddies just
+  had a baby. There will be pictures of you posted that you will be completely unaware
+  of, probably with comments or likes, possibly timestamped and geotagged with the
+  exact location of your house.<br/><br/>Here''s another quote from that Zuckerberg
+  interview:<br/><br/><blockquote>"Think about what people are doing on Facebook today.
+  They’re keeping up with their friends and family, but they’re also building an image
+  and identity for themselves, which in a sense is their brand. They’re connecting
+  with the audience that they want to connect to. It’s almost a disadvantage if you’re
+  not on it now."</blockquote><br/><br/>The Circle is about this, mostly, and it''s
+  pretty damn fun. Small town California girl Mae Holland lands a job at The Circle,
+  and quickly learns that just doing her job well isn''t enough. She''s expected to
+  keep up with a deluge of "zings" about whatever inane topic is trending at the time.
+  She has to sift through information about events to find the ones that she''s expected
+  to attend. She has to "smile" or "frown" and comment on thousands of daily Circle-related
+  posts just to keep her participation score up. If it sounds exhausting, that''s
+  because it is. And the worst part is that Mae eventually convinces herself that
+  this is all worthwhile.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Consider this quote from a <a href="http://www.wired.com/business/2009/06/mark-zuckerberg-speaks/">Wired Interview with Facebook CEO Mark Zuckerberg</a>:<br/><br/><blockquote>"The structural change comes from this point of openness. We talk about this concept of openness and transparency as the high level ideal that we’re moving towards at Facebook. The way that we get there is by empowering people to share and connect. The combination of those two things leads the world to become more open. And so as time has gone on, we’ve actually shifted a bit more of a focus not just on directly making it so people can use Facebook and share and be open on Facebook, but instead on making it so that the systems themselves have open properties.<br/><br/>So, one analogy that we think about is a government or a nation. If you want to be free, or you want to preserve freedom for people, you both need to have laws that make it so people have freedom of speech and all the freedoms that they need. You also need to have an open governance system where people can vote and people have representation.<br/><br/>And we think that over the long-term the way that we actually create the most openness and transparency in the world (at Facebook) is both by creating the most powerful applications ourselves and creating a platform that is fundamentally moving more in the direction of being an open platform itself, right?<br/><br/>So we’re aiming for openness on two levels: One on the fact that there’s more sharing, and another on the fact that by having these open standards, you’re constantly moving towards a place in the industry where there will be more and more sharing, right? So people can bring their information anywhere they want. Anyone can use the platform."</blockquote><br/><br/>One of the interesting aspects of The Circle is that Dave Eggers isn't speculating about some sort of dystopian future; we're living in it. There has been a lot of media attention paid to government spying recently (for good reason), but people seem to forget about the fact that they've willingly given Facebook far more information about themselves. Facebook knows which events I've been invited to, which parties I've attended, whom I've taken pictures with, which restaurants I've gone to, what books I've read, which news articles I've read, and who my family members are. Even more creepily, it can forecast information to predict who I'm likely to tag in a picture, and whose posts I'm likely to find relevant.<br/><br/>Yeah, so the whole thing is pretty disconcerting, all things considered (the irony of the fact that I'm posting about this on a social network and allowing this social network to automatically connect with Facebook is not lost on me).<br/><br/>Connecting with people is great, but we've also created this strange society in which it's almost impossible to opt-out. Don't go on Facebook, and you won't get invited to karaoke. You won't get the announcement that one of your college buddies just had a baby. There will be pictures of you posted that you will be completely unaware of, probably with comments or likes, possibly timestamped and geotagged with the exact location of your house.<br/><br/>Here's another quote from that Zuckerberg interview:<br/><br/><blockquote>"Think about what people are doing on Facebook today. They’re keeping up with their friends and family, but they’re also building an image and identity for themselves, which in a sense is their brand. They’re connecting with the audience that they want to connect to. It’s almost a disadvantage if you’re not on it now."</blockquote><br/><br/>The Circle is about this, mostly, and it's pretty damn fun. Small town California girl Mae Holland lands a job at The Circle, and quickly learns that just doing her job well isn't enough. She's expected to keep up with a deluge of "zings" about whatever inane topic is trending at the time. She has to sift through information about events to find the ones that she's expected to attend. She has to "smile" or "frown" and comment on thousands of daily Circle-related posts just to keep her participation score up. If it sounds exhausting, that's because it is. And the worst part is that Mae eventually convinces herself that this is all worthwhile.

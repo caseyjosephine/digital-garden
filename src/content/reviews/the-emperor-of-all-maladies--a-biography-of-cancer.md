@@ -1,0 +1,63 @@
+---
+Book Id: 7170627
+Title: 'The Emperor of All Maladies: A Biography of Cancer'
+Author: Siddhartha Mukherjee
+Author l-f: Mukherjee, Siddhartha
+Additional Authors: null
+ISBN: =""
+ISBN13: =""
+My Rating: 5
+Average Rating: 4.34
+Publisher: Scribner
+Binding: Hardcover
+Number of Pages: 571.0
+Year Published: 2010.0
+Original Publication Year: 2010.0
+Date Read: 2013/08/04
+Date Added: 2013/05/24
+Bookshelves: knowledge-is-good, veridical, pull-it-surprise
+Bookshelves with positions: knowledge-is-good (#104), veridical (#28), pull-it-surprise
+  (#14)
+Exclusive Shelf: read
+My Review: 'I never understood why intelligent, well-rounded people would want to
+  become oncologists. On television, such doctors were the James Wilson type: damaged,
+  overly empathetic, the kind of person who gets off on guilt. I was never particularly
+  interested in medicine, but I always thought it would be more fun to be an obstetrician
+  or plastic surgeon, helping perfectly healthy people fulfill their dreams of having
+  cute babies or big boobs, and never really dealing with issues as macabre as telling
+  someone they only had a few months live.<br/><br/>Everyone has a personal story
+  about the impact of cancer on their own lives, and I am no exception: when I was
+  in college, my mother was diagnosed with an aggressive form of breast cancer. The
+  prognosis wasn''t good, although I didn''t know how bad it was at the time: my mom
+  asked her oncologist not to reveal her staging. We were lucky, for a number of reasons.
+  My mom had fantastic health insurance through the school where she taught, and she
+  received treatment at a highly-ranked research hospital that just happened to be
+  located close to my nowheresville hometown. The cancer was driven by a particular
+  gene that had recently been discovered, and that was receiving an intense amount
+  of research interest. If the cancer had developed a few years earlier, things might
+  not have gone quite so well.<br/><br/>Things really did go well, though: my mom
+  is now in remission, although she still sees her oncologist for regular check-ups.
+  One thing that surprised me was the deep relationship she developed with the oncologist
+  who oversaw her treatment. He was focused on research, but not to such a myopic
+  extent that he failed to support his patients. He was optimistic, but honest. My
+  mom told me that he claimed to have stopped trying to estimate who would live and
+  who would die, because his estimates failed to take into account the ephemeral human
+  factors that cannot be measured. Although I never met this doctor, he didn''t sound
+  like the stereotype of an oncologist I had pictured. Instead, he was a well-adjusted
+  doctor who cared about his patients and was passionate about his job.<br/><br/>This
+  is all a long windup to the simple fact that I totally get it now: I understand
+  why people would devote their life to oncology. As Mukherjee writes, the root of
+  the word oncology can be translated as "burden," and it would be disingenuous to
+  say that doctors treating cancer patients do not feel this burden on their shoulders.
+  However, cancer is also fascinating. Before reading this book, I had no idea how
+  cancer manipulated genes, setting off cascades that ultimately lead to uninhibited
+  growth of tissue. Cancers are wily and manipulative, taking advantage of the human
+  body in order to proliferate. The group of diseases we call cancer are darkly human
+  in their intelligence and sheer desire to multiply.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+I never understood why intelligent, well-rounded people would want to become oncologists. On television, such doctors were the James Wilson type: damaged, overly empathetic, the kind of person who gets off on guilt. I was never particularly interested in medicine, but I always thought it would be more fun to be an obstetrician or plastic surgeon, helping perfectly healthy people fulfill their dreams of having cute babies or big boobs, and never really dealing with issues as macabre as telling someone they only had a few months live.<br/><br/>Everyone has a personal story about the impact of cancer on their own lives, and I am no exception: when I was in college, my mother was diagnosed with an aggressive form of breast cancer. The prognosis wasn't good, although I didn't know how bad it was at the time: my mom asked her oncologist not to reveal her staging. We were lucky, for a number of reasons. My mom had fantastic health insurance through the school where she taught, and she received treatment at a highly-ranked research hospital that just happened to be located close to my nowheresville hometown. The cancer was driven by a particular gene that had recently been discovered, and that was receiving an intense amount of research interest. If the cancer had developed a few years earlier, things might not have gone quite so well.<br/><br/>Things really did go well, though: my mom is now in remission, although she still sees her oncologist for regular check-ups. One thing that surprised me was the deep relationship she developed with the oncologist who oversaw her treatment. He was focused on research, but not to such a myopic extent that he failed to support his patients. He was optimistic, but honest. My mom told me that he claimed to have stopped trying to estimate who would live and who would die, because his estimates failed to take into account the ephemeral human factors that cannot be measured. Although I never met this doctor, he didn't sound like the stereotype of an oncologist I had pictured. Instead, he was a well-adjusted doctor who cared about his patients and was passionate about his job.<br/><br/>This is all a long windup to the simple fact that I totally get it now: I understand why people would devote their life to oncology. As Mukherjee writes, the root of the word oncology can be translated as "burden," and it would be disingenuous to say that doctors treating cancer patients do not feel this burden on their shoulders. However, cancer is also fascinating. Before reading this book, I had no idea how cancer manipulated genes, setting off cascades that ultimately lead to uninhibited growth of tissue. Cancers are wily and manipulative, taking advantage of the human body in order to proliferate. The group of diseases we call cancer are darkly human in their intelligence and sheer desire to multiply.

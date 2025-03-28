@@ -1,0 +1,47 @@
+---
+Book Id: 16160797
+Title: 'The Cuckoo''s Calling (Cormoran Strike, #1)'
+Author: Robert Galbraith
+Author l-f: Galbraith, Robert
+Additional Authors: null
+ISBN: ="0316206849"
+ISBN13: ="9780316206846"
+My Rating: 4
+Average Rating: 3.89
+Publisher: Mulholland Books
+Binding: Hardcover
+Number of Pages: 456.0
+Year Published: 2013.0
+Original Publication Year: 2013.0
+Date Read: 2013/10/10
+Date Added: 2013/07/19
+Bookshelves: the-not-so-serious-lit, audiobook
+Bookshelves with positions: the-not-so-serious-lit (#103), audiobook (#12)
+Exclusive Shelf: read
+My Review: 'Now this is the kind of J.K. Rowling book I''m used to!<br/><br/>Alright,
+  so if you read <a href="https://www.goodreads.com/review/show/413712461">my review
+  of The Casual Vacancy</a>, you know I thought it was a hot mess. I felt as if Rowling
+  had examined all her strengths as a writer (pacing, absorbing plots, realistic yet
+  flawed characters), and then played to none of them. Maybe she put too much pressure
+  on herself to do something brilliant, I don''t know. It just didn''t work for me,
+  and, given the conversation about it at my book club, most people felt the same
+  way.<br/><br/>The Cuckoo''s Calling, on the other hand, completely works. It would
+  be disingenuous to say that this is not your typical mystery novel, because in many
+  ways it exemplifies the mystery novel. It would be better to say that this is your
+  typical mystery novel done very, very well. There are twists and turns, but it''s
+  not full of ridiculously unbelievable cliffhangers a la [a:Dan Brown|630|Dan Brown|https://d202m5krfqbpi5.cloudfront.net/authors/1206553442p2/630.jpg].
+  The characters are multi-faceted, even the ones who only play bit parts. And the
+  set-up is pretty cool: a model falls to her death, and though the police determine
+  that she committed suicide, her brother isn''t convinced. I won''t say more, because
+  the less you know, the better.<br/><br/>If you were worried about reading Rowling''s
+  adult fiction after being disappointed by [b:The Casual Vacancy|13497818|The Casual
+  Vacancy|J.K. Rowling|https://d202m5krfqbpi5.cloudfront.net/books/1358266832s/13497818.jpg|19926990],
+  I urge you to give this one a shot. Meanwhile, I''ll be sitting here anxiously awaiting
+  the next Cormoran Strike book. '
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Now this is the kind of J.K. Rowling book I'm used to!<br/><br/>Alright, so if you read <a href="https://www.goodreads.com/review/show/413712461">my review of The Casual Vacancy</a>, you know I thought it was a hot mess. I felt as if Rowling had examined all her strengths as a writer (pacing, absorbing plots, realistic yet flawed characters), and then played to none of them. Maybe she put too much pressure on herself to do something brilliant, I don't know. It just didn't work for me, and, given the conversation about it at my book club, most people felt the same way.<br/><br/>The Cuckoo's Calling, on the other hand, completely works. It would be disingenuous to say that this is not your typical mystery novel, because in many ways it exemplifies the mystery novel. It would be better to say that this is your typical mystery novel done very, very well. There are twists and turns, but it's not full of ridiculously unbelievable cliffhangers a la [a:Dan Brown|630|Dan Brown|https://d202m5krfqbpi5.cloudfront.net/authors/1206553442p2/630.jpg]. The characters are multi-faceted, even the ones who only play bit parts. And the set-up is pretty cool: a model falls to her death, and though the police determine that she committed suicide, her brother isn't convinced. I won't say more, because the less you know, the better.<br/><br/>If you were worried about reading Rowling's adult fiction after being disappointed by [b:The Casual Vacancy|13497818|The Casual Vacancy|J.K. Rowling|https://d202m5krfqbpi5.cloudfront.net/books/1358266832s/13497818.jpg|19926990], I urge you to give this one a shot. Meanwhile, I'll be sitting here anxiously awaiting the next Cormoran Strike book. 

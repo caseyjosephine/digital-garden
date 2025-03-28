@@ -1,0 +1,60 @@
+---
+Book Id: 18143977
+Title: All the Light We Cannot See
+Author: Anthony Doerr
+Author l-f: Doerr, Anthony
+Additional Authors: null
+ISBN: ="1476746583"
+ISBN13: ="9781476746586"
+My Rating: 3
+Average Rating: 4.31
+Publisher: Scribner
+Binding: Hardcover
+Number of Pages: 544.0
+Year Published: 2014.0
+Original Publication Year: 2014.0
+Date Read: 2016/03/29
+Date Added: 2016/03/22
+Bookshelves: null
+Bookshelves with positions: null
+Exclusive Shelf: read
+My Review: 'I’ve read quite a few literary historical novels that use non-linear converging
+  storylines to explore big themes; All the Light We Cannot See is one such novel.
+  It’s good, too. The descriptions may tend towards the flowery, but the writing never
+  gets overly precious. The characters are well drawn and the pacing is quite excellent.
+  There are even a few moments of profundity. Exhibit A:<br/><br/>“To men like that,
+  time was a surfeit, a barrel they watched slowly drain. When really, he thinks,
+  it’s a glowing puddle you carry in your hands; you should spend all your energy
+  protecting it. Fighting for it. Working so hard not to spill one single drop.”<br/><br/>Anyway,
+  All the Light We Cannot See strikes me as a particularly well-crafted novel, and
+  that’s definitely a good thing. So you might be surprised to hear that I feel just
+  a soupçon let down by this book. It’s not that there’s anything wrong with it: like
+  I said, it’s extraordinarily well-written. However, as I look a bit deeper I’m not
+  sure that there’s anything particularly right about it either. This felt so much
+  like an exercise in writing within a particular structure, which made the characters
+  come across as if they existed to fit the structure. They walk around in it, they
+  speak, they act, but I can’t help but feel that everything is very convenient. The
+  threads exist to weave themselves together. Doerr writes himself a perfect little
+  nail, so that he can use exactly the hammer that he prefers.<br/><br/>My problem
+  with this is that life doesn’t usually get wrapped up into neat little presents
+  with lovely little bows, especially during wartime. I can’t help but compare this
+  to both [b:The Orphan Master''s Son|11529868|The Orphan Master''s Son|Adam Johnson|https://d.gr-assets.com/books/1327878601s/11529868.jpg|16467838]
+  and [b:A Constellation of Vital Phenomena|18428067|A Constellation of Vital Phenomena|Anthony
+  Marra|https://d.gr-assets.com/books/1408313066s/18428067.jpg|19926928], both of
+  which share a similarly disjointed narrative structure. The difference is that these
+  books are disjointed because the characters lives are jarring, because the situations
+  are completely shattered to begin with. I never felt that Marie-Laure’s life was
+  particularly shattered, nor Werner’s. The narrative structure felt forced. The writing
+  process made itself apparent throughout the novel, and not in a good way.<br/><br/>I’m
+  not surprised that a lot of people enjoyed this book; I enjoyed it too. I thought
+  it was a great exercise in a particular literary style. I don’t think it’s great
+  literature, though. I’d consider this a typical young adult story adorned with literary
+  trappings. This is the opposite of the case of The Emperor’s New Clothes: the brocade
+  is lovely, but the emperor is nowhere to be seen.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+I’ve read quite a few literary historical novels that use non-linear converging storylines to explore big themes; All the Light We Cannot See is one such novel. It’s good, too. The descriptions may tend towards the flowery, but the writing never gets overly precious. The characters are well drawn and the pacing is quite excellent. There are even a few moments of profundity. Exhibit A:<br/><br/>“To men like that, time was a surfeit, a barrel they watched slowly drain. When really, he thinks, it’s a glowing puddle you carry in your hands; you should spend all your energy protecting it. Fighting for it. Working so hard not to spill one single drop.”<br/><br/>Anyway, All the Light We Cannot See strikes me as a particularly well-crafted novel, and that’s definitely a good thing. So you might be surprised to hear that I feel just a soupçon let down by this book. It’s not that there’s anything wrong with it: like I said, it’s extraordinarily well-written. However, as I look a bit deeper I’m not sure that there’s anything particularly right about it either. This felt so much like an exercise in writing within a particular structure, which made the characters come across as if they existed to fit the structure. They walk around in it, they speak, they act, but I can’t help but feel that everything is very convenient. The threads exist to weave themselves together. Doerr writes himself a perfect little nail, so that he can use exactly the hammer that he prefers.<br/><br/>My problem with this is that life doesn’t usually get wrapped up into neat little presents with lovely little bows, especially during wartime. I can’t help but compare this to both [b:The Orphan Master's Son|11529868|The Orphan Master's Son|Adam Johnson|https://d.gr-assets.com/books/1327878601s/11529868.jpg|16467838] and [b:A Constellation of Vital Phenomena|18428067|A Constellation of Vital Phenomena|Anthony Marra|https://d.gr-assets.com/books/1408313066s/18428067.jpg|19926928], both of which share a similarly disjointed narrative structure. The difference is that these books are disjointed because the characters lives are jarring, because the situations are completely shattered to begin with. I never felt that Marie-Laure’s life was particularly shattered, nor Werner’s. The narrative structure felt forced. The writing process made itself apparent throughout the novel, and not in a good way.<br/><br/>I’m not surprised that a lot of people enjoyed this book; I enjoyed it too. I thought it was a great exercise in a particular literary style. I don’t think it’s great literature, though. I’d consider this a typical young adult story adorned with literary trappings. This is the opposite of the case of The Emperor’s New Clothes: the brocade is lovely, but the emperor is nowhere to be seen.

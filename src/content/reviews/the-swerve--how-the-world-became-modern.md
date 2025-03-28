@@ -1,0 +1,57 @@
+---
+Book Id: 10954979
+Title: 'The Swerve: How the World Became Modern'
+Author: Stephen Greenblatt
+Author l-f: Greenblatt, Stephen
+Additional Authors: null
+ISBN: ="0393064476"
+ISBN13: ="9780393064476"
+My Rating: 5
+Average Rating: 3.87
+Publisher: W. W. Norton & Company
+Binding: Hardcover
+Number of Pages: 356.0
+Year Published: 2011.0
+Original Publication Year: 2011.0
+Date Read: 2012/10/08
+Date Added: 2012/10/05
+Bookshelves: knowledge-is-good, pull-it-surprise, veridical
+Bookshelves with positions: knowledge-is-good (#78), pull-it-surprise (#10), veridical
+  (#12)
+Exclusive Shelf: read
+My Review: 'Before reading this book, I hadn''t thought much about the renaissance.
+  Sure, a few college French courses helped drive home the point that it literally
+  means "rebirth," and I kind of knew that old books were involved, but I didn''t
+  think much about the logistics. I imagined ancient texts were found in much the
+  same way anything else gets found, as in "Oh, by the way, I was going through storage
+  looking for the Christmas decorations, and guess what I found: some poem by this
+  dude Lucretius!"<br/><br/>Imagine a world in which people stop caring about books.
+  Personal libraries deteriorate, public libraries are destroyed. Some books survive,
+  while others aren''t so lucky, and there is no rhyme or reason to which books stand
+  the test of time. The worst part, though, is that people are not outraged. They
+  take the lack of books in stride, as intellectual life has given way to "spiritual"
+  life. After awhile, the major books (and the writers who created them) are forgotten;
+  worst of all, no one seems to mind.<br/><br/>It sounds like one of those post-apocalyptic
+  novels that have become so popular recently, but this actually happened. It was
+  not until the humanists began to recover Greek and Latin texts that ideas from antiquity
+  were rediscovered. The way Greenblatt describes book hunting, it sounds more like
+  the plot of an Indiana Jones film than the digging around in the basement scenario
+  I had previously imagined. Humanists did their best to liberate books from monasteries,
+  although, sadly, many had slowly deteriorated (or were erased and written over).
+  Who knows how many ancient Tolstoys and Shakespeares have been lost to history.<br/><br/>Turns
+  out Lucretius was a pretty cool dude. An admirer of Epicurus, Lucretius wrote that
+  the universe as we know it is made up solely of atoms and void. Gods, if they did
+  exist, would be too busy with their divine existence to care about the obedience
+  and suffering of humans. Thus, the purpose of life is maximize pleasure, and minimize
+  pain. You can see why the church would not be too pleased to see this poem circulating.
+  <br/><br/>The Swerve is a surprisingly compelling history of Poggio Bracciolini,
+  the 15th century papal secretary turned book hunter who discovered On the Nature
+  of Things. The poem, at once scientific and philosophical, ancient and astonishingly
+  modern, helped to change our conception of the human experience. '
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Before reading this book, I hadn't thought much about the renaissance. Sure, a few college French courses helped drive home the point that it literally means "rebirth," and I kind of knew that old books were involved, but I didn't think much about the logistics. I imagined ancient texts were found in much the same way anything else gets found, as in "Oh, by the way, I was going through storage looking for the Christmas decorations, and guess what I found: some poem by this dude Lucretius!"<br/><br/>Imagine a world in which people stop caring about books. Personal libraries deteriorate, public libraries are destroyed. Some books survive, while others aren't so lucky, and there is no rhyme or reason to which books stand the test of time. The worst part, though, is that people are not outraged. They take the lack of books in stride, as intellectual life has given way to "spiritual" life. After awhile, the major books (and the writers who created them) are forgotten; worst of all, no one seems to mind.<br/><br/>It sounds like one of those post-apocalyptic novels that have become so popular recently, but this actually happened. It was not until the humanists began to recover Greek and Latin texts that ideas from antiquity were rediscovered. The way Greenblatt describes book hunting, it sounds more like the plot of an Indiana Jones film than the digging around in the basement scenario I had previously imagined. Humanists did their best to liberate books from monasteries, although, sadly, many had slowly deteriorated (or were erased and written over). Who knows how many ancient Tolstoys and Shakespeares have been lost to history.<br/><br/>Turns out Lucretius was a pretty cool dude. An admirer of Epicurus, Lucretius wrote that the universe as we know it is made up solely of atoms and void. Gods, if they did exist, would be too busy with their divine existence to care about the obedience and suffering of humans. Thus, the purpose of life is maximize pleasure, and minimize pain. You can see why the church would not be too pleased to see this poem circulating. <br/><br/>The Swerve is a surprisingly compelling history of Poggio Bracciolini, the 15th century papal secretary turned book hunter who discovered On the Nature of Things. The poem, at once scientific and philosophical, ancient and astonishingly modern, helped to change our conception of the human experience. 

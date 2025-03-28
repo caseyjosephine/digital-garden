@@ -1,0 +1,84 @@
+---
+Book Id: 16071764
+Title: 'Lean In: Women, Work, and the Will to Lead'
+Author: Sheryl Sandberg
+Author l-f: Sandberg, Sheryl
+Additional Authors: null
+ISBN: ="0385349947"
+ISBN13: ="9780385349949"
+My Rating: 4
+Average Rating: 3.95
+Publisher: Knopf
+Binding: Hardcover
+Number of Pages: 217.0
+Year Published: 2013.0
+Original Publication Year: 2013.0
+Date Read: 2013/10/17
+Date Added: 2013/10/15
+Bookshelves: knowledge-is-good
+Bookshelves with positions: knowledge-is-good (#110)
+Exclusive Shelf: read
+My Review: 'Lean In is feminism lite, but mostly in a good way. I don''t know that
+  I''m the ideal audience for this book: it seems to me that it''s directed towards
+  women who want the same opportunities as men, but don''t want to be labeled with
+  the dreaded f-word. I''m proud to be a feminist, because it means I can drink scotch
+  and make Star Wars references while wearing 4 inch heels and not feel any gender
+  conflict. However, I think popular books like Lean In are important in that they
+  get people who might be reluctant to talk about feminist issues to talk about feminist
+  issues.<br/><br/><b>The Good:</> Facebook COO Sheryl Sandberg has a bad-ass resume
+  and a commitment to using actual data to support her arguments about women in the
+  workplace. Data! These data are pretty disheartening: although more bachelors degrees
+  are awarded to women than men, few women obtain leadership positions. People (including
+  women) are more likely to rate career-driven women as "not team players" and "probably
+  difficult to get along with." I got pretty angry when I read that women start turning
+  down career opportunities so that they can prioritize family long before they even
+  think about having kids. Then, when they finally do have babies, they don''t go
+  back to work because they don''t find their own sloppy seconds fulfilling.<br/><br/>I
+  see a lot of the issues Sandberg addresses fairly often. I''m a women in science,
+  and I attend research talks every week. I make it a point to get there early, sit
+  at the conference table, and ask questions. Others sit at the periphery and elect
+  to be neither seen nor heard. Those Milford Academy-esque wallflowers tend to be
+  women. I''m sure they have things to say; the problem is that they don''t speak
+  up. Sadly, it seems to be the same pretty much everywhere. Sandberg encourages women
+  to sit at the table, and I wholeheartedly agree. <br/><br/>Sandberg also does a
+  great job addressing the myth that women can "have it all." Newsflash: no one has
+  it all, not even Mick Jagger. Life is full of trade-off''s, which means that every
+  time we decide to do <i>x</i>, we''ve also elected not to do an infinite number
+  of <i>y</i>''s. <a href="http://www.youtube.com/watch?v=7S94ohyErSw">You can''t
+  always get what you want</a> and all that, and anyone who seems to have it all probably
+  doesn''t.<br/><br/><b>The Bad:</i> The differing expectations for men and women
+  are both endemic and systemic: they''re more than the sum of our individual decisions.
+  I''m sure that Sandberg''s goal is to empower women to succeed, but it feels disingenuous
+  to me to place a burden on individuals to solve societal issues. <br/><br/>Sandberg
+  also (probably inadvertently) reenforces some of the gender stereotypes that have
+  been holding women back in the first place. She mentions that women should allow
+  their husbands to do the housework, even if they''re not "doing it right." But,
+  you know what, I''m terrible at housework, and I know plenty of men who can out-clean
+  me. Similarly, Sandberg talks about cooking and food shopping being "mundane." I''m
+  sure some people find these tasks to be boring, but not me. I love going to the
+  grocery store the way other people love going to the mall, and making dinner is
+  usually the highlight of my day. Being a feminist means that I get to enjoy cooking
+  because it''s freaking awesome, and not because I have a vagina.<br/><br/>Speaking
+  of husbands, the whole thing comes across as heteronormative and marriage/family
+  centric. I guess that''s the demographic Sandberg is writing for, but it''s a good
+  thing to be aware of.<br/><br/>Of course, it''s also worth noting that "leaning
+  into your career" is a pretty freaking privileged thing to be able to do. Hell,
+  having a career that you find fulfilling also requires a fair amount of privilege.
+  I''m not going to hate on Sandberg because she went to Harvard (I''m not one to
+  talk), but it''s something to think about.<br/><br/><b>The Ugly?</b> I don''t accept
+  the pervasive idea that our careers define us. My culture places far too much value
+  on <i>doing</i>, and too little value on <i>being</i>. But we don''t just become
+  who we are by adding activities to our lives; it''s just as correct to say that
+  we become who we are by subtracting the activities that don''t add value. Subtraction
+  takes reflection and insight: we don''t get there by constantly checking our email.
+  At the risk of sounding like a hippie yogi shouting "down with the hegemony!" I
+  think things would be much better if we all got out of our offices more often. Truly,
+  there would be less pressure to "lean in" if we all gave ourselves permission to
+  lean out once in awhile.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Lean In is feminism lite, but mostly in a good way. I don't know that I'm the ideal audience for this book: it seems to me that it's directed towards women who want the same opportunities as men, but don't want to be labeled with the dreaded f-word. I'm proud to be a feminist, because it means I can drink scotch and make Star Wars references while wearing 4 inch heels and not feel any gender conflict. However, I think popular books like Lean In are important in that they get people who might be reluctant to talk about feminist issues to talk about feminist issues.<br/><br/><b>The Good:</> Facebook COO Sheryl Sandberg has a bad-ass resume and a commitment to using actual data to support her arguments about women in the workplace. Data! These data are pretty disheartening: although more bachelors degrees are awarded to women than men, few women obtain leadership positions. People (including women) are more likely to rate career-driven women as "not team players" and "probably difficult to get along with." I got pretty angry when I read that women start turning down career opportunities so that they can prioritize family long before they even think about having kids. Then, when they finally do have babies, they don't go back to work because they don't find their own sloppy seconds fulfilling.<br/><br/>I see a lot of the issues Sandberg addresses fairly often. I'm a women in science, and I attend research talks every week. I make it a point to get there early, sit at the conference table, and ask questions. Others sit at the periphery and elect to be neither seen nor heard. Those Milford Academy-esque wallflowers tend to be women. I'm sure they have things to say; the problem is that they don't speak up. Sadly, it seems to be the same pretty much everywhere. Sandberg encourages women to sit at the table, and I wholeheartedly agree. <br/><br/>Sandberg also does a great job addressing the myth that women can "have it all." Newsflash: no one has it all, not even Mick Jagger. Life is full of trade-off's, which means that every time we decide to do <i>x</i>, we've also elected not to do an infinite number of <i>y</i>'s. <a href="http://www.youtube.com/watch?v=7S94ohyErSw">You can't always get what you want</a> and all that, and anyone who seems to have it all probably doesn't.<br/><br/><b>The Bad:</i> The differing expectations for men and women are both endemic and systemic: they're more than the sum of our individual decisions. I'm sure that Sandberg's goal is to empower women to succeed, but it feels disingenuous to me to place a burden on individuals to solve societal issues. <br/><br/>Sandberg also (probably inadvertently) reenforces some of the gender stereotypes that have been holding women back in the first place. She mentions that women should allow their husbands to do the housework, even if they're not "doing it right." But, you know what, I'm terrible at housework, and I know plenty of men who can out-clean me. Similarly, Sandberg talks about cooking and food shopping being "mundane." I'm sure some people find these tasks to be boring, but not me. I love going to the grocery store the way other people love going to the mall, and making dinner is usually the highlight of my day. Being a feminist means that I get to enjoy cooking because it's freaking awesome, and not because I have a vagina.<br/><br/>Speaking of husbands, the whole thing comes across as heteronormative and marriage/family centric. I guess that's the demographic Sandberg is writing for, but it's a good thing to be aware of.<br/><br/>Of course, it's also worth noting that "leaning into your career" is a pretty freaking privileged thing to be able to do. Hell, having a career that you find fulfilling also requires a fair amount of privilege. I'm not going to hate on Sandberg because she went to Harvard (I'm not one to talk), but it's something to think about.<br/><br/><b>The Ugly?</b> I don't accept the pervasive idea that our careers define us. My culture places far too much value on <i>doing</i>, and too little value on <i>being</i>. But we don't just become who we are by adding activities to our lives; it's just as correct to say that we become who we are by subtracting the activities that don't add value. Subtraction takes reflection and insight: we don't get there by constantly checking our email. At the risk of sounding like a hippie yogi shouting "down with the hegemony!" I think things would be much better if we all got out of our offices more often. Truly, there would be less pressure to "lean in" if we all gave ourselves permission to lean out once in awhile.

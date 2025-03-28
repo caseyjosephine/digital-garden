@@ -1,0 +1,62 @@
+---
+Book Id: 7324357
+Title: 'Last Call: The Rise and Fall of Prohibition'
+Author: Daniel Okrent
+Author l-f: Okrent, Daniel
+Additional Authors: null
+ISBN: ="0743277023"
+ISBN13: ="9780743277020"
+My Rating: 5
+Average Rating: 3.88
+Publisher: Scribner
+Binding: Hardcover
+Number of Pages: 480.0
+Year Published: 2010.0
+Original Publication Year: 2010.0
+Date Read: 2014/03/16
+Date Added: 2013/06/10
+Bookshelves: knowledge-is-good, veridical
+Bookshelves with positions: knowledge-is-good (#121), veridical (#33)
+Exclusive Shelf: read
+My Review: 'Almost a hundred years after the fact, I think it''s safe to say that
+  prohibition was a pretty bad idea. Some good things came from it: women''s suffrage
+  was tangled up in the issue, and we also got some damn good cocktails out of the
+  deal. I mean, they had to cover up that bathtub gin somehow, and, well into college,
+  I continued that fair tradition with off-brand gin of approximately the same quality.
+  But, generally, prohibition didn''t go well.<br/><br/>Mostly, prohibition shows
+  off the worst that the good ole'' U S of A has to offer. There''s the obvious paternalistic
+  religious wackjobs, the "seriously, I can''t believe they even got away with being
+  this racist" white dudes (Germans, Irish, and Catholics need not apply, of course),
+  and the gangsters that are still the subject of countless films (Al Capone, anyone?).
+  But, beneath the mythology, there was some deeply interesting and messed stuff going
+  on. One thing I wasn''t aware of was the blatant disregard for redistricting, meaning
+  that white protestants living in, say. Iowa districts had relatively more representation
+  than the largely immigrant populations of the largest cities.<br/><br/>Last Call
+  covers everything: Frances Willard, the WCTU, the ASL, rum runners (did you know
+  that prohibition helped to turn the Bahamas into a modern country? If you''ve ever
+  been to awesome resorts and beaches in Nassau, you can thank prohibition; if you
+  took a booze-cruise to get there, you can thank it doubly), "medicinal" alcohol
+  hawkers, grape sellers, and loads more. Once you get past the boring political stuff
+  (which takes up the first part of the book), it''s hard to put down.<br/><br/>The
+  cool thing about reading about prohibition is that it is actually pretty timely.
+  Right now, marijuana legalization is gaining popularity amongst the country, with
+  two states legalizing it for recreational purposes and (hopefully) more on the way.
+  It''s been an interesting change in rhetoric from "the war on drugs" (remember D.A.R.E.?
+  Remember <a href="http://en.wikipedia.org/wiki/Drug_Abuse_Resistance_Education#cite_note-surgeongeneral-4">how
+  ineffective that was?</a>) to a realization that marijuana <a href="http://www.cnn.com/2013/08/08/health/gupta-changed-mind-marijuana/">is
+  actually medically useful</a> (not to mention non-addictive, not harmful to health,
+  possibly able to <a href="http://www.cnn.com/2013/05/23/health/time-marijuana-diabetes/index.html">regulate
+  blood sugar</a>, and generally awesome). And yeah, while there are still wackjobs
+  that will tell you that <a href="https://www.youtube.com/watch?v=Azf320JDdqU">getting
+  high will turn us all into crazy stoners</a>, it''s hard to argue with the <a href="http://www.forbes.com/sites/kellyphillipserb/2014/03/11/its-no-toke-colorado-pulls-in-millions-in-marijuana-tax-revenue/">millions
+  of dollars in tax revenue Colorado pulled in during January 2014</a>.<br/><br/>So
+  yeah, I recommend this, not only to those who want to understand what was happening
+  in the U.S.A. in the 1920''s, but also those who want to understand what''s going
+  on right now.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Almost a hundred years after the fact, I think it's safe to say that prohibition was a pretty bad idea. Some good things came from it: women's suffrage was tangled up in the issue, and we also got some damn good cocktails out of the deal. I mean, they had to cover up that bathtub gin somehow, and, well into college, I continued that fair tradition with off-brand gin of approximately the same quality. But, generally, prohibition didn't go well.<br/><br/>Mostly, prohibition shows off the worst that the good ole' U S of A has to offer. There's the obvious paternalistic religious wackjobs, the "seriously, I can't believe they even got away with being this racist" white dudes (Germans, Irish, and Catholics need not apply, of course), and the gangsters that are still the subject of countless films (Al Capone, anyone?). But, beneath the mythology, there was some deeply interesting and messed stuff going on. One thing I wasn't aware of was the blatant disregard for redistricting, meaning that white protestants living in, say. Iowa districts had relatively more representation than the largely immigrant populations of the largest cities.<br/><br/>Last Call covers everything: Frances Willard, the WCTU, the ASL, rum runners (did you know that prohibition helped to turn the Bahamas into a modern country? If you've ever been to awesome resorts and beaches in Nassau, you can thank prohibition; if you took a booze-cruise to get there, you can thank it doubly), "medicinal" alcohol hawkers, grape sellers, and loads more. Once you get past the boring political stuff (which takes up the first part of the book), it's hard to put down.<br/><br/>The cool thing about reading about prohibition is that it is actually pretty timely. Right now, marijuana legalization is gaining popularity amongst the country, with two states legalizing it for recreational purposes and (hopefully) more on the way. It's been an interesting change in rhetoric from "the war on drugs" (remember D.A.R.E.? Remember <a href="http://en.wikipedia.org/wiki/Drug_Abuse_Resistance_Education#cite_note-surgeongeneral-4">how ineffective that was?</a>) to a realization that marijuana <a href="http://www.cnn.com/2013/08/08/health/gupta-changed-mind-marijuana/">is actually medically useful</a> (not to mention non-addictive, not harmful to health, possibly able to <a href="http://www.cnn.com/2013/05/23/health/time-marijuana-diabetes/index.html">regulate blood sugar</a>, and generally awesome). And yeah, while there are still wackjobs that will tell you that <a href="https://www.youtube.com/watch?v=Azf320JDdqU">getting high will turn us all into crazy stoners</a>, it's hard to argue with the <a href="http://www.forbes.com/sites/kellyphillipserb/2014/03/11/its-no-toke-colorado-pulls-in-millions-in-marijuana-tax-revenue/">millions of dollars in tax revenue Colorado pulled in during January 2014</a>.<br/><br/>So yeah, I recommend this, not only to those who want to understand what was happening in the U.S.A. in the 1920's, but also those who want to understand what's going on right now.

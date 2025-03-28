@@ -1,0 +1,54 @@
+---
+Book Id: 1673934
+Title: 'Intern: A Doctor''s Initiation'
+Author: Sandeep Jauhar
+Author l-f: Jauhar, Sandeep
+Additional Authors: null
+ISBN: ="0374146594"
+ISBN13: ="9780374146597"
+My Rating: 4
+Average Rating: 3.73
+Publisher: Farrar, Straus and Giroux
+Binding: Hardcover
+Number of Pages: 320.0
+Year Published: 2008.0
+Original Publication Year: 2007.0
+Date Read: 2014/08/31
+Date Added: 2014/08/27
+Bookshelves: knowledge-is-good, memoir-writers-this-is-your-life
+Bookshelves with positions: knowledge-is-good (#130), memoir-writers-this-is-your-life
+  (#41)
+Exclusive Shelf: read
+My Review: 'I didn’t expect to relate to Dr. Sandeep Jauhar: he’s a physician, while
+  I’m an (arguably) failed academic who never considered a career in medicine because
+  it didn’t intellectually engaging. Turns out, I’m kind of an asshole, but so is
+  Dr. Jauhar, who got his PhD in Physics from UC Berkeley before becoming a failed
+  academic himself, packing up, and matriculating at Washington University in Saint
+  Louis’ Medical School. His issue with medicine is the same thing that kept me from
+  really thinking about it: he worried about a cookbook career, in which would never
+  really have to do much more than recall some memorized diagnoses. Some reviewers
+  scoff at his existential ennui; I love him all the more for it.<br/><br/>This is
+  probably the appropriate time for me to talk about my unmitigated obsession with
+  medical television shows. I watch them, and then I complain about them because they’re
+  so ludicrous. I mean, have you seen the story arc on Grey’s Anatomy where they do
+  cutting edge research without training or control groups or informed consent. I
+  mean, really! And then they bang in the on call room. I don’t know that much about
+  the lives of doctors, but I can recognize that Grey’s Anatomy is probably not an
+  accurate portrayal.<br/><br/>Anyway, Jauhur doesn’t bang anyone in the on call room,
+  nor does he attempt to glamorize his chosen career in any real way. Instead, he
+  deals with the reality of medicine: its structural issues (which are myriad), its
+  occasional futility, and the joy found in its practice despite its flaws. Jauhar
+  published some of the same ideas in the New York Times during his internship and
+  residency, which is a ballsy and incredibly stupid thing to do. He got a Cardiology
+  fellowship anyway, though, and has continued his advocacy for change in the American
+  health care system.<br/><br/>I’m looking forward to reading Jauhur’s more recent
+  book, Doctored, which considers the issues with health care in more detail. If it’s
+  anything like the detailed discussion of the issues with informed consent in Intern,
+  it’s sure to bring a nuanced argument to the table.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+I didn’t expect to relate to Dr. Sandeep Jauhar: he’s a physician, while I’m an (arguably) failed academic who never considered a career in medicine because it didn’t intellectually engaging. Turns out, I’m kind of an asshole, but so is Dr. Jauhar, who got his PhD in Physics from UC Berkeley before becoming a failed academic himself, packing up, and matriculating at Washington University in Saint Louis’ Medical School. His issue with medicine is the same thing that kept me from really thinking about it: he worried about a cookbook career, in which would never really have to do much more than recall some memorized diagnoses. Some reviewers scoff at his existential ennui; I love him all the more for it.<br/><br/>This is probably the appropriate time for me to talk about my unmitigated obsession with medical television shows. I watch them, and then I complain about them because they’re so ludicrous. I mean, have you seen the story arc on Grey’s Anatomy where they do cutting edge research without training or control groups or informed consent. I mean, really! And then they bang in the on call room. I don’t know that much about the lives of doctors, but I can recognize that Grey’s Anatomy is probably not an accurate portrayal.<br/><br/>Anyway, Jauhur doesn’t bang anyone in the on call room, nor does he attempt to glamorize his chosen career in any real way. Instead, he deals with the reality of medicine: its structural issues (which are myriad), its occasional futility, and the joy found in its practice despite its flaws. Jauhar published some of the same ideas in the New York Times during his internship and residency, which is a ballsy and incredibly stupid thing to do. He got a Cardiology fellowship anyway, though, and has continued his advocacy for change in the American health care system.<br/><br/>I’m looking forward to reading Jauhur’s more recent book, Doctored, which considers the issues with health care in more detail. If it’s anything like the detailed discussion of the issues with informed consent in Intern, it’s sure to bring a nuanced argument to the table.

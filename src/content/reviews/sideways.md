@@ -1,0 +1,75 @@
+---
+Book Id: 15781
+Title: Sideways
+Author: Rex Pickett
+Author l-f: Pickett, Rex
+Additional Authors: null
+ISBN: ="0312342519"
+ISBN13: ="9780312342517"
+My Rating: 3
+Average Rating: 3.72
+Publisher: St. Martin's Griffin
+Binding: Paperback
+Number of Pages: 354.0
+Year Published: 2004.0
+Original Publication Year: 2004.0
+Date Read: 2013/12/28
+Date Added: 2012/05/18
+Bookshelves: in-vino-veritas, the-not-so-serious-lit
+Bookshelves with positions: in-vino-veritas (#2), the-not-so-serious-lit (#112)
+Exclusive Shelf: read
+My Review: 'Let''s get this out of the way up front: the movie was much better than
+  the book. Objectively, Sideways deserves only two stars, and that''s really pushing
+  it. I mean, this is a book that contains this sentence: "Maudlin classic rock for
+  the 70''s saccharined [sic] the emptiness with its plangent strains, further sickening
+  me." Seriously, come on. However, for completely subjective reasons that really
+  have nothing to do with the book, I''m giving it three stars. I''m just that kind
+  of reviewer.<br/><br/>Sideways is a book about wine grown in Santa Barbara county,
+  on the central coast of California. I spent five years of my life in Santa Barbara,
+  attending social events that involved copious amounts of wine. But, lest you think
+  I was swilling the finest pinot, let me disclose the fact that social events at
+  UCSB (an acronym, I am told, for "u can study buzzed") looked something like this:<br/><br/><a
+  href="http://imgur.com/IjAjS0p"><img src="http://i.imgur.com/IjAjS0p.jpg" title="Hosted
+  by imgur.com" /></a><br/><br/>Also, again in the spirit of full disclosure, our
+  wine looked a little something like this:<br/><br/><a href="http://imgur.com/DmOxFED"><img
+  src="http://i.imgur.com/DmOxFED.jpg" title="Hosted by imgur.com"/></a><br/><br/>Serious
+  wine geeks will tell you that wines really deserve <a href="http://www.riedelusa.net">varietal
+  specific stemware</a>. As something of a connoisseur, I do recommend a red solo
+  cup for two buck chuck. It really brings out the cloying, unbalanced sweetness of
+  the White Zinfandel like nothing else.<br/><br/>Alright, so reason number 1 for
+  giving Sideways more stars than it deserves: the Santa Barbara connection. Reason
+  number 2, perhaps unsurprisingly, is pinot noir.<br/><br/>At this point in my adult
+  life I''m something of a snob. Not a wine snob in particular, just a snob in general.
+  I do like wine, though. A lot. Given that I have a lot more taste than money, I
+  mostly explore as many different grapes and regions as possible. This means I''m
+  happy trying out the "quality red wines" from Hungary that I can score at my local
+  Eastern European Mexican grocer. However, if given the option, I''m gonna splurge
+  on Pinot Noir.<br/><br/>Side note: yeah, there are some fantastic pinots coming
+  out of central California, no question about that. However, in terms of new world
+  wine, I''m really partial to the Willamette Valley pinots: I seem to be able to
+  get a more complex wine at similar price points with wines coming out of Oregon,
+  and they also seem to have more of a sense of place than those coming out of California
+  (I try not to use the word terroir because it''s hard to pronounce and makes me
+  sound like an asshole). Although, when I have my hands on some serious cash money,
+  I''m definitely getting a straight up Burgundy, because, I mean, come on.<br/><br/>Actually,
+  with money to burn, I''m probably going to buy a nice single-vineyard Willamette
+  pinot for about $40, then I''m going to buy a bunch of ducks because duck pairs
+  perfectly with pinot AND it''s my favorite thing to eat in the entire world. Then
+  I''m gonna buy some Champagne, because hey, pinot noir is pretty common in Champagne
+  and in this strange world where I can buy whatever I want I think it makes sense
+  to keep everything pinot themed.<br/><br/>So yeah, I like pinot.<br/><br/>The third,
+  and final, reason that I''m arbitrarily boosting the rating on this book: merlot.<br/><br/><a
+  href="http://imgur.com/r1mi1mp"><img src="http://i.imgur.com/r1mi1mp.jpg" title="Hosted
+  by imgur.com" /></a><br/><br/>That''s right: thanks to Sideways, people think that
+  if they proclaim a hatred of merlot, they can trick other people into thinking that
+  they possess an infinite font of wine wisdom. That means that decent merlot is a
+  seriously good value. Have fun with your Yellow Tail Pinot Noir, winetards. I''ll
+  be sippin'' on a single vineyard Napa Merlot and eating a medium rare rib-eye with
+  my home-prepared horseradish butter, feeling quietly smug.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Let's get this out of the way up front: the movie was much better than the book. Objectively, Sideways deserves only two stars, and that's really pushing it. I mean, this is a book that contains this sentence: "Maudlin classic rock for the 70's saccharined [sic] the emptiness with its plangent strains, further sickening me." Seriously, come on. However, for completely subjective reasons that really have nothing to do with the book, I'm giving it three stars. I'm just that kind of reviewer.<br/><br/>Sideways is a book about wine grown in Santa Barbara county, on the central coast of California. I spent five years of my life in Santa Barbara, attending social events that involved copious amounts of wine. But, lest you think I was swilling the finest pinot, let me disclose the fact that social events at UCSB (an acronym, I am told, for "u can study buzzed") looked something like this:<br/><br/><a href="http://imgur.com/IjAjS0p"><img src="http://i.imgur.com/IjAjS0p.jpg" title="Hosted by imgur.com" /></a><br/><br/>Also, again in the spirit of full disclosure, our wine looked a little something like this:<br/><br/><a href="http://imgur.com/DmOxFED"><img src="http://i.imgur.com/DmOxFED.jpg" title="Hosted by imgur.com"/></a><br/><br/>Serious wine geeks will tell you that wines really deserve <a href="http://www.riedelusa.net">varietal specific stemware</a>. As something of a connoisseur, I do recommend a red solo cup for two buck chuck. It really brings out the cloying, unbalanced sweetness of the White Zinfandel like nothing else.<br/><br/>Alright, so reason number 1 for giving Sideways more stars than it deserves: the Santa Barbara connection. Reason number 2, perhaps unsurprisingly, is pinot noir.<br/><br/>At this point in my adult life I'm something of a snob. Not a wine snob in particular, just a snob in general. I do like wine, though. A lot. Given that I have a lot more taste than money, I mostly explore as many different grapes and regions as possible. This means I'm happy trying out the "quality red wines" from Hungary that I can score at my local Eastern European Mexican grocer. However, if given the option, I'm gonna splurge on Pinot Noir.<br/><br/>Side note: yeah, there are some fantastic pinots coming out of central California, no question about that. However, in terms of new world wine, I'm really partial to the Willamette Valley pinots: I seem to be able to get a more complex wine at similar price points with wines coming out of Oregon, and they also seem to have more of a sense of place than those coming out of California (I try not to use the word terroir because it's hard to pronounce and makes me sound like an asshole). Although, when I have my hands on some serious cash money, I'm definitely getting a straight up Burgundy, because, I mean, come on.<br/><br/>Actually, with money to burn, I'm probably going to buy a nice single-vineyard Willamette pinot for about $40, then I'm going to buy a bunch of ducks because duck pairs perfectly with pinot AND it's my favorite thing to eat in the entire world. Then I'm gonna buy some Champagne, because hey, pinot noir is pretty common in Champagne and in this strange world where I can buy whatever I want I think it makes sense to keep everything pinot themed.<br/><br/>So yeah, I like pinot.<br/><br/>The third, and final, reason that I'm arbitrarily boosting the rating on this book: merlot.<br/><br/><a href="http://imgur.com/r1mi1mp"><img src="http://i.imgur.com/r1mi1mp.jpg" title="Hosted by imgur.com" /></a><br/><br/>That's right: thanks to Sideways, people think that if they proclaim a hatred of merlot, they can trick other people into thinking that they possess an infinite font of wine wisdom. That means that decent merlot is a seriously good value. Have fun with your Yellow Tail Pinot Noir, winetards. I'll be sippin' on a single vineyard Napa Merlot and eating a medium rare rib-eye with my home-prepared horseradish butter, feeling quietly smug.

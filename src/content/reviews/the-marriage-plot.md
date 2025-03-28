@@ -1,0 +1,51 @@
+---
+Book Id: 13218192
+Title: The Marriage Plot
+Author: Jeffrey Eugenides
+Author l-f: Eugenides, Jeffrey
+Additional Authors: null
+ISBN: ="125001476X"
+ISBN13: ="9781250014764"
+My Rating: 5
+Average Rating: 3.47
+Publisher: Picador
+Binding: Paperback
+Number of Pages: 406.0
+Year Published: 2012.0
+Original Publication Year: 2011.0
+Date Read: 2014/05/01
+Date Added: 2014/04/30
+Bookshelves: the-serious-lit
+Bookshelves with positions: the-serious-lit (#165)
+Exclusive Shelf: read
+My Review: 'At this point, the desire to read Barthes is irresistible. Two days ago,
+  I one-click purchased [b:A Lover''s Discourse: Fragments|380994|A Lover''s Discourse  Fragments|Roland
+  Barthes|https://d202m5krfqbpi5.cloudfront.net/books/1311994658s/380994.jpg|1856185],
+  which should be arriving on my doorstop imminently. Just yesterday, I thumbed through
+  [b:Mythologies|51715|Mythologies|Roland Barthes|https://d202m5krfqbpi5.cloudfront.net/books/1386925396s/51715.jpg|882883]
+  at the bookstore, contemplating, of all things, wrestling (metaphorically, it seems,
+  though I didn''t get far enough to figure out what the metaphor may be). I almost
+  purchased that one too, before I realized that one Barthes book is probably enough
+  (I don''t want to get too far down the rabbit hole of semiotics and structuralism,
+  do I?). Thanks to Eugenides, I''m regressing into the wannabe literary critic I
+  was as an English major in college. I can''t say I''m not enjoying it.<br/><br/>I
+  have a hard time understanding the mixed reviews on this one: it''s a quiet, clever
+  book that takes its characters just seriously enough for the reader to care about
+  them, but ultimately spends more time using them to play with narrative structure
+  and question the marriage plot as a relevant literary device. It''s not a modern
+  version of [b:Middlemarch|19089|Middlemarch|George Eliot|https://d202m5krfqbpi5.cloudfront.net/books/1386924110s/19089.jpg|1461747]
+  or [b:Pride and Prejudice|1885|Pride and Prejudice|Jane Austen|https://d202m5krfqbpi5.cloudfront.net/books/1320399351s/1885.jpg|3060926],
+  and it''s not meant to be. Instead, I liken it to Borges'' story of the man who
+  attempts to recreate Don Quixote, word for word, but from his own experiences. Throughout
+  the book, the characters actively create their own 20th century marriage plot, then
+  allow to whole thing to unfold around them.<br/><br/>That said, if that sounds pretentious,
+  which appears to be a common complaint (remember, it''s only pretentious if it''s
+  pretending to be something greater than it is; Eugenides isn''t pretending, he''s
+  actually got chops), maybe this isn''t the novel for you.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+At this point, the desire to read Barthes is irresistible. Two days ago, I one-click purchased [b:A Lover's Discourse: Fragments|380994|A Lover's Discourse  Fragments|Roland Barthes|https://d202m5krfqbpi5.cloudfront.net/books/1311994658s/380994.jpg|1856185], which should be arriving on my doorstop imminently. Just yesterday, I thumbed through [b:Mythologies|51715|Mythologies|Roland Barthes|https://d202m5krfqbpi5.cloudfront.net/books/1386925396s/51715.jpg|882883] at the bookstore, contemplating, of all things, wrestling (metaphorically, it seems, though I didn't get far enough to figure out what the metaphor may be). I almost purchased that one too, before I realized that one Barthes book is probably enough (I don't want to get too far down the rabbit hole of semiotics and structuralism, do I?). Thanks to Eugenides, I'm regressing into the wannabe literary critic I was as an English major in college. I can't say I'm not enjoying it.<br/><br/>I have a hard time understanding the mixed reviews on this one: it's a quiet, clever book that takes its characters just seriously enough for the reader to care about them, but ultimately spends more time using them to play with narrative structure and question the marriage plot as a relevant literary device. It's not a modern version of [b:Middlemarch|19089|Middlemarch|George Eliot|https://d202m5krfqbpi5.cloudfront.net/books/1386924110s/19089.jpg|1461747] or [b:Pride and Prejudice|1885|Pride and Prejudice|Jane Austen|https://d202m5krfqbpi5.cloudfront.net/books/1320399351s/1885.jpg|3060926], and it's not meant to be. Instead, I liken it to Borges' story of the man who attempts to recreate Don Quixote, word for word, but from his own experiences. Throughout the book, the characters actively create their own 20th century marriage plot, then allow to whole thing to unfold around them.<br/><br/>That said, if that sounds pretentious, which appears to be a common complaint (remember, it's only pretentious if it's pretending to be something greater than it is; Eugenides isn't pretending, he's actually got chops), maybe this isn't the novel for you.

@@ -1,0 +1,81 @@
+---
+Book Id: 6101996
+Title: 'Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible & Why
+  We Don''t Know About Them'
+Author: Bart D. Ehrman
+Author l-f: Ehrman, Bart D.
+Additional Authors: null
+ISBN: ="0061173932"
+ISBN13: ="9780061173936"
+My Rating: 5
+Average Rating: 3.99
+Publisher: HarperCollins (NY)
+Binding: Hardcover
+Number of Pages: 304.0
+Year Published: 2009.0
+Original Publication Year: 2009.0
+Date Read: 2013/11/19
+Date Added: 2013/06/04
+Bookshelves: knowledge-is-good, veridical
+Bookshelves with positions: knowledge-is-good (#112), veridical (#30)
+Exclusive Shelf: read
+My Review: 'So when I bought this book on a whim who knows how long ago, I expected
+  it to be a collection of interesting contradictions in Biblical statements. I thought
+  that Ehrman might do something like contrast 1 Corinthians 14:33 ("For God is not
+  a God of disorder but of peace") with Matthew 10:34 ("I come not to bring peace,
+  but to bring a sword"). Then we''d all get a good laugh out of the ridiculous of
+  it all.<br/><br/>Jesus, Interrupted is not a book about these surface level contradictions.
+  In fact, it was far more compelling than I expected, because Ehrman actually focused
+  on what certain contradictions can teach us about the early Christian church and
+  the historical context. The result was seriously mind-blowing, because the book
+  lead me to doubt whether the bible actually teaches some seemingly foundational
+  ideas, like whether Jesus saw himself as the Messiah or whether the church has any
+  real reason to accept the idea of a holy trinity.<br/><br/>This feels like the correct
+  time for an obligatory disclosure: I am an atheist/humanist who was raised Catholic,
+  so I have no strong ties to metaphysical biblical teachings and I''ve never given
+  serious thought to the idea that the bible could be the inerrant word of God. I
+  sometimes wish that I could be a secular Catholic, because some of the traditions
+  are super fun, but apparently that''s not allowed. Whatev. However, considering
+  that I like literature, I have to admit that the bible is a pretty important historical
+  document (I mean, try to read [b:Moby-Dick; or, The Whale|153747|Moby-Dick; or,
+  The Whale|Herman Melville|https://d202m5krfqbpi5.cloudfront.net/books/1327940656s/153747.jpg|2409320]
+  without biblical background knowledge. I dare you.). Anyway, I thought that I had
+  a fairly decent understanding of the bible, given that I''ve read large swaths of
+  it in a few different contexts. But, as it turns out, I really had no idea.<br/><br/>The
+  cool thing about Jesus, Interrupted is that it''s epistemologically interesting.
+  Ehrman first explains how contradictions in the bible can be found: by reading "horizontally,"
+  which pretty much means reading the same stories as they appear in different gospels,
+  back to back. What happens is that you start to see some weird stuff, like Mathew
+  claiming that Jesus cried out on the cross "My god, my god, why you have forsaken
+  me?" while Luke claims he said "Father into your hands I commit my spirit." And,
+  if you think about it, the two different gospels are actually pretty irreconcilable,
+  in terms of the type of Jesus that they depict. So a careful reader might think,
+  yo, what''s up with that? If these two gospel writers were both there, and both
+  knew Jesus intimately, then why would they report the event in such completely different
+  ways.<br/><br/>Well, that brings us to the fact that the apostles didn''t actually
+  write the gospels (something that I knew, but that doesn''t seem to be widespread
+  knowledge). And the writers of the bible had different viewpoints. The ways that
+  they switch up the stories can tell us about the viewpoints, but only if we look
+  closely. Through a close reading, with careful attention paid to the contradictions,
+  scholars can get a sense of who the gospel writers were, and why they created the
+  type of christianity that they did. The whole story is completely fascinating.<br/><br/>I
+  recommend this book for everyone, both people of faith and nonbelievers. While it''s
+  true that Erhman is now an agnostic, the contradictions in the bible didn''t cause
+  him to lose his faith, a fact that he repeatedly points out throughout the book
+  (he lost faith because he couldn''t reconcile the amount of suffering in the world
+  with the teachings of Christianity, which he details in [b:God''s Problem: How the
+  Bible Fails to Answer Our Most Important Question-Why We Suffer|1976714|God''s Problem  How
+  the Bible Fails to Answer Our Most Important Question-Why We Suffer|Bart D. Ehrman|https://d202m5krfqbpi5.cloudfront.net/books/1348084856s/1976714.jpg|1980049],
+  which I now want to read). So believers shouldn''t be scared to understand what
+  the bible truly says, although I expect that some (particularly evangelicals) may
+  not be comfortable with this information. Strangely, I feel better about the bible
+  after reading this: it''s clearly the product of humans, but much of the dogma isn''t
+  as clear-cut as I thought it was. I''ll definitely be reading more of Erhman''s
+  books in the future.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+So when I bought this book on a whim who knows how long ago, I expected it to be a collection of interesting contradictions in Biblical statements. I thought that Ehrman might do something like contrast 1 Corinthians 14:33 ("For God is not a God of disorder but of peace") with Matthew 10:34 ("I come not to bring peace, but to bring a sword"). Then we'd all get a good laugh out of the ridiculous of it all.<br/><br/>Jesus, Interrupted is not a book about these surface level contradictions. In fact, it was far more compelling than I expected, because Ehrman actually focused on what certain contradictions can teach us about the early Christian church and the historical context. The result was seriously mind-blowing, because the book lead me to doubt whether the bible actually teaches some seemingly foundational ideas, like whether Jesus saw himself as the Messiah or whether the church has any real reason to accept the idea of a holy trinity.<br/><br/>This feels like the correct time for an obligatory disclosure: I am an atheist/humanist who was raised Catholic, so I have no strong ties to metaphysical biblical teachings and I've never given serious thought to the idea that the bible could be the inerrant word of God. I sometimes wish that I could be a secular Catholic, because some of the traditions are super fun, but apparently that's not allowed. Whatev. However, considering that I like literature, I have to admit that the bible is a pretty important historical document (I mean, try to read [b:Moby-Dick; or, The Whale|153747|Moby-Dick; or, The Whale|Herman Melville|https://d202m5krfqbpi5.cloudfront.net/books/1327940656s/153747.jpg|2409320] without biblical background knowledge. I dare you.). Anyway, I thought that I had a fairly decent understanding of the bible, given that I've read large swaths of it in a few different contexts. But, as it turns out, I really had no idea.<br/><br/>The cool thing about Jesus, Interrupted is that it's epistemologically interesting. Ehrman first explains how contradictions in the bible can be found: by reading "horizontally," which pretty much means reading the same stories as they appear in different gospels, back to back. What happens is that you start to see some weird stuff, like Mathew claiming that Jesus cried out on the cross "My god, my god, why you have forsaken me?" while Luke claims he said "Father into your hands I commit my spirit." And, if you think about it, the two different gospels are actually pretty irreconcilable, in terms of the type of Jesus that they depict. So a careful reader might think, yo, what's up with that? If these two gospel writers were both there, and both knew Jesus intimately, then why would they report the event in such completely different ways.<br/><br/>Well, that brings us to the fact that the apostles didn't actually write the gospels (something that I knew, but that doesn't seem to be widespread knowledge). And the writers of the bible had different viewpoints. The ways that they switch up the stories can tell us about the viewpoints, but only if we look closely. Through a close reading, with careful attention paid to the contradictions, scholars can get a sense of who the gospel writers were, and why they created the type of christianity that they did. The whole story is completely fascinating.<br/><br/>I recommend this book for everyone, both people of faith and nonbelievers. While it's true that Erhman is now an agnostic, the contradictions in the bible didn't cause him to lose his faith, a fact that he repeatedly points out throughout the book (he lost faith because he couldn't reconcile the amount of suffering in the world with the teachings of Christianity, which he details in [b:God's Problem: How the Bible Fails to Answer Our Most Important Question-Why We Suffer|1976714|God's Problem  How the Bible Fails to Answer Our Most Important Question-Why We Suffer|Bart D. Ehrman|https://d202m5krfqbpi5.cloudfront.net/books/1348084856s/1976714.jpg|1980049], which I now want to read). So believers shouldn't be scared to understand what the bible truly says, although I expect that some (particularly evangelicals) may not be comfortable with this information. Strangely, I feel better about the bible after reading this: it's clearly the product of humans, but much of the dogma isn't as clear-cut as I thought it was. I'll definitely be reading more of Erhman's books in the future.

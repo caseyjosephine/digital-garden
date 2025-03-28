@@ -1,0 +1,60 @@
+---
+Book Id: 13562891
+Title: 'Harry Potter and the Sorcerer''s Stone (Harry Potter, # 1)'
+Author: J.K. Rowling
+Author l-f: Rowling, J.K.
+Additional Authors: Mary GrandPré
+ISBN: =""
+ISBN13: =""
+My Rating: 5
+Average Rating: 4.47
+Publisher: 'Pottermore Limited '
+Binding: Kindle Edition
+Number of Pages: 322.0
+Year Published: 2012.0
+Original Publication Year: 1997.0
+Date Read: 2014/07/21
+Date Added: 2014/07/22
+Bookshelves: null
+Bookshelves with positions: null
+Exclusive Shelf: read
+My Review: '<b>In 2014, I''m rereading Harry Potter, again, for the umpteenth time,
+  and writing about my experiences.</b><br/><br/>What can you say about a book that
+  you''ve read over and over again, countless times, for more than a decade?<br/><br/>I
+  can''t review the content of Harry Potter and the Sorcerer''s Stone, anymore than
+  I can review my mother''s face or the back of my hand. Some things are just too
+  personal to write about critically. So, I''ll do the only thing I can do: I''ll
+  write a story.<br/><br/>My paternal grandmother passed away when I was in eighth
+  grade. When my family found out, we took the first plane from Los Angeles to Houston,
+  to get her affairs in order. For my parents, I''m sure this was an eventful and
+  stressful time; I, on the other hand, was completely bored. I was away from the
+  skating rink, which meant that I suddenly had more free time than usual. I didn''t
+  have any homework to do, couldn''t call my friends long-distance, couldn''t even
+  practice the trumpet. After a few too many games of solitaire on my Uncle''s (fancy)
+  laptop, I asked my mom for something to do.<br/><br/>She handed me a book I''d never
+  heard of before: Harry Potter and the Sorcerer''s Stone. She had heard good things
+  about it, and there was even a sequel! Now, I was 13 going on 30, and I regularly
+  turned up my nose at young adult novels. At this point, I was more interested in
+  Stephen King, Ray Bradbury, and Michael Crichton: I didn''t have time for that kid
+  stuff. But I didn''t have any other reading material, so I reluctantly picked up
+  Harry Potter.<br/><br/>To say I was blown away would be an understatement. The best
+  word to use is transported: for the first time in a long time I felt as if I were
+  actually in another world. I worried when Harry put on the sorting cap, and wished
+  he would end up in Gryffindor. I rooted for him during the quidditch matches, and
+  gasped when he found the three-headed dog. I was honestly shocked when <spoiler>Snape
+  turned out to be a good guy. This was supposed to be a children''s story, right?
+  How did that plot point get past me?</spoiler><br/><br/>When we arrived in Washington
+  D.C. for my grandmother''s burial at Arlington, I asked my mom to buy the second
+  book. Instead, she started reading the first book aloud to my younger brother, who
+  was nine at the time. I expected to be annoyed, but it turns out I was just excited:
+  excited to be at Hogwarts again, to hear the story, to experience the magic. And
+  so, my Harry Potter obsession began, and it defined most of my adolescence. Which
+  is why I can''t review this book, because it <i>is</i> who I am, in some ineffable
+  way. All I can do is thank J.K. Rowling. For everything.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+<b>In 2014, I'm rereading Harry Potter, again, for the umpteenth time, and writing about my experiences.</b><br/><br/>What can you say about a book that you've read over and over again, countless times, for more than a decade?<br/><br/>I can't review the content of Harry Potter and the Sorcerer's Stone, anymore than I can review my mother's face or the back of my hand. Some things are just too personal to write about critically. So, I'll do the only thing I can do: I'll write a story.<br/><br/>My paternal grandmother passed away when I was in eighth grade. When my family found out, we took the first plane from Los Angeles to Houston, to get her affairs in order. For my parents, I'm sure this was an eventful and stressful time; I, on the other hand, was completely bored. I was away from the skating rink, which meant that I suddenly had more free time than usual. I didn't have any homework to do, couldn't call my friends long-distance, couldn't even practice the trumpet. After a few too many games of solitaire on my Uncle's (fancy) laptop, I asked my mom for something to do.<br/><br/>She handed me a book I'd never heard of before: Harry Potter and the Sorcerer's Stone. She had heard good things about it, and there was even a sequel! Now, I was 13 going on 30, and I regularly turned up my nose at young adult novels. At this point, I was more interested in Stephen King, Ray Bradbury, and Michael Crichton: I didn't have time for that kid stuff. But I didn't have any other reading material, so I reluctantly picked up Harry Potter.<br/><br/>To say I was blown away would be an understatement. The best word to use is transported: for the first time in a long time I felt as if I were actually in another world. I worried when Harry put on the sorting cap, and wished he would end up in Gryffindor. I rooted for him during the quidditch matches, and gasped when he found the three-headed dog. I was honestly shocked when <spoiler>Snape turned out to be a good guy. This was supposed to be a children's story, right? How did that plot point get past me?</spoiler><br/><br/>When we arrived in Washington D.C. for my grandmother's burial at Arlington, I asked my mom to buy the second book. Instead, she started reading the first book aloud to my younger brother, who was nine at the time. I expected to be annoyed, but it turns out I was just excited: excited to be at Hogwarts again, to hear the story, to experience the magic. And so, my Harry Potter obsession began, and it defined most of my adolescence. Which is why I can't review this book, because it <i>is</i> who I am, in some ineffable way. All I can do is thank J.K. Rowling. For everything.

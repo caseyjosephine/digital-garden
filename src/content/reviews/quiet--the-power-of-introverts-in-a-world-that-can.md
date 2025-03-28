@@ -1,0 +1,59 @@
+---
+Book Id: 10313931
+Title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
+Author: Susan Cain
+Author l-f: Cain, Susan
+Additional Authors: null
+ISBN: =""
+ISBN13: =""
+My Rating: 5
+Average Rating: 4.08
+Publisher: Crown
+Binding: ebook
+Number of Pages: 370.0
+Year Published: 2012.0
+Original Publication Year: 2012.0
+Date Read: 2012/10/04
+Date Added: 2012/09/29
+Bookshelves: cognitive-scientists-do-it-in-lab, knowledge-is-good, relevant-for-teachers
+Bookshelves with positions: cognitive-scientists-do-it-in-lab (#28), knowledge-is-good
+  (#77), relevant-for-teachers (#30)
+Exclusive Shelf: read
+My Review: 'Although the United States is the most extroverted country in the world,
+  one third to one half of people are introverts. Introverts are often quiet people,
+  the ones who would rather stay in on a weekend than go out to a party, the ones
+  that need to recharge with solitude after giving presentations. Introverts are often
+  deep thinkings and intimate friends, although our society (incorrectly) views them
+  as passive and anti-social. In Quiet: The Power of Introverts in a World that Can''t
+  Stop Talking, Susan Cain explains how Western society misunderstands the quiet among
+  us.<br/><br/>I do not count myself as one of the quiet ones. Indeed, I''m one of
+  the extroverts, and I''ll go so far as to say that no one has ever called me quiet.
+  I know I''m an extrovert, because I look forward to giving presentations (the bigger
+  the audience, the better). I get antsy when I don''t have a party to go to on Friday
+  night, and I recharge after a long day of work by socializing. Plus, I''m going
+  to spend a large portion of this review talking about myself. <br/><br/>Cain''s
+  book makes me realize that I also possess some traits that are more characteristic
+  of introverts. I spend a fair amount of time with my nose buried in a book, and
+  I''m hopelessly bad at multitasking. I''m not a fan of group work (unless I can
+  be completely in control of the group), and I would certainly consider myself an
+  intellectual. As Cain points out, no one is completely an extrovert, nor is anyone
+  completely an introvert. Extroverts, however, flourish in American society, while
+  introverts are often forced to pretend to be extroverts.<br/><br/>Particularly interesting
+  is the chapter on raising introverted children. I don''t have children, nor do I
+  have plans to gestate a human being anytime soon, so I was surprised at how much
+  I got from this section. After reading it, I realized how difficult school must
+  have been for the shy ones, the ones that "never spoke up" in class. It''s clear
+  that I got undue praised for being bossy and talkative. Who knows how many kids
+  my teachers ignored while I blabbed on endlessly about who knows what.<br/><br/>Throughout
+  the book, Cain argues that introverts should be cultivated, that their unique abilities
+  (such as the deep focus that so often eludes me) should be valued. I agree, and
+  I think she should take her argument one step further: extroverts should try to
+  bring out their introverted sides. Maybe, instead of telling introverts to be louder,
+  we should all try to become more quiet.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Although the United States is the most extroverted country in the world, one third to one half of people are introverts. Introverts are often quiet people, the ones who would rather stay in on a weekend than go out to a party, the ones that need to recharge with solitude after giving presentations. Introverts are often deep thinkings and intimate friends, although our society (incorrectly) views them as passive and anti-social. In Quiet: The Power of Introverts in a World that Can't Stop Talking, Susan Cain explains how Western society misunderstands the quiet among us.<br/><br/>I do not count myself as one of the quiet ones. Indeed, I'm one of the extroverts, and I'll go so far as to say that no one has ever called me quiet. I know I'm an extrovert, because I look forward to giving presentations (the bigger the audience, the better). I get antsy when I don't have a party to go to on Friday night, and I recharge after a long day of work by socializing. Plus, I'm going to spend a large portion of this review talking about myself. <br/><br/>Cain's book makes me realize that I also possess some traits that are more characteristic of introverts. I spend a fair amount of time with my nose buried in a book, and I'm hopelessly bad at multitasking. I'm not a fan of group work (unless I can be completely in control of the group), and I would certainly consider myself an intellectual. As Cain points out, no one is completely an extrovert, nor is anyone completely an introvert. Extroverts, however, flourish in American society, while introverts are often forced to pretend to be extroverts.<br/><br/>Particularly interesting is the chapter on raising introverted children. I don't have children, nor do I have plans to gestate a human being anytime soon, so I was surprised at how much I got from this section. After reading it, I realized how difficult school must have been for the shy ones, the ones that "never spoke up" in class. It's clear that I got undue praised for being bossy and talkative. Who knows how many kids my teachers ignored while I blabbed on endlessly about who knows what.<br/><br/>Throughout the book, Cain argues that introverts should be cultivated, that their unique abilities (such as the deep focus that so often eludes me) should be valued. I agree, and I think she should take her argument one step further: extroverts should try to bring out their introverted sides. Maybe, instead of telling introverts to be louder, we should all try to become more quiet.

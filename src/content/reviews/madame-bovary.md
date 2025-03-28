@@ -1,0 +1,57 @@
+---
+Book Id: 19075
+Title: Madame Bovary
+Author: Gustave Flaubert
+Author l-f: Flaubert, Gustave
+Additional Authors: Geoffrey Wall, Michèle Roberts
+ISBN: ="0140449124"
+ISBN13: ="9780140449129"
+My Rating: 5
+Average Rating: 3.71
+Publisher: Penguin Classics
+Binding: Paperback
+Number of Pages: 335.0
+Year Published: 2003.0
+Original Publication Year: 1856.0
+Date Read: 2013/10/26
+Date Added: 2013/06/10
+Bookshelves: 1001-books, all-around-the-world, dear-ones, the-serious-lit
+Bookshelves with positions: 1001-books (#106), all-around-the-world (#41), dear-ones
+  (#37), the-serious-lit (#152)
+Exclusive Shelf: read
+My Review: 'Oh, Emma Bovary, you kill me! On the one hand, I think of you as a sophisticate
+  stuck out in the country. In my mind, you''re somewhat like Belle from the Disney
+  version of Beauty and the Beast, nose in a book, singing "There must be more than
+  this provincial life!" Comme ça:<br/><br/><img src="http://i.imgur.com/FoJJ9WP.gif"
+  /><br/><br/>But life is not a Disney novel, and Emma Bovary is a much darker character
+  than that. She''s a woman with unrealistic expectations, who desires a life that
+  no one could give her. She wants the kind of passion that only exists in romance
+  novels, which means that she fails to see the love that she has right in front of
+  her. She buys everything on credit, with little thought given to how she''ll pay
+  it back (and whether she really needs new silk drapes in the first place). And,
+  in her many affairs, she makes insane, outlandish demands. She kind of comes across
+  as that crazy lady in the attic, minus the attic. <br/><br/>In the words of Thom
+  Yorke, Emma, <a href="http://www.youtube.com/watch?v=TDYtMt5IJpg">You do it to yourself,
+  you do/ And that''s what really hurts/ Is that you do it to yourself/ Just you and
+  no one else</a>.<br/><br/>Amazingly, though, Madame Bovary doesn''t exactly come
+  across as a cautionary tale. In this respect, it reminded me quite a bit of [b:The
+  House of Mirth|17728|The House of Mirth|Edith Wharton|https://d202m5krfqbpi5.cloudfront.net/books/1328729186s/17728.jpg|1652564].
+  Both Emma Bovary and Lily Bart aspire to a life that, frankly, they can''t afford.
+  But they also suffer from a complete lack of agency and some pretty intense psychological
+  demons that, given that they''re of "the weaker sex," no one would take seriously.
+  I wonder what they would be like today: maybe they''d have kick-ass corporate jobs,
+  and they''d be able to buy their Louboutins in cash. However, it''s just as likely
+  that they''d be crippled by an expectation that they should be able to "have it
+  all" and struggling with an overwhelming amount of credit card debit. <br/><br/>Even
+  though this novel was published in 1856, it''s pretty timely. When I think about
+  all those women who obsess about [b:Pride and Prejudice|1885|Pride and Prejudice|Jane
+  Austen|https://d202m5krfqbpi5.cloudfront.net/books/1320399351s/1885.jpg|3060926]
+  and aspire to land their own Mr. Darcy, I want to hand them this. Not as a cautionary
+  tale, exactly. Just as a counterpoint. '
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Oh, Emma Bovary, you kill me! On the one hand, I think of you as a sophisticate stuck out in the country. In my mind, you're somewhat like Belle from the Disney version of Beauty and the Beast, nose in a book, singing "There must be more than this provincial life!" Comme ça:<br/><br/><img src="http://i.imgur.com/FoJJ9WP.gif" /><br/><br/>But life is not a Disney novel, and Emma Bovary is a much darker character than that. She's a woman with unrealistic expectations, who desires a life that no one could give her. She wants the kind of passion that only exists in romance novels, which means that she fails to see the love that she has right in front of her. She buys everything on credit, with little thought given to how she'll pay it back (and whether she really needs new silk drapes in the first place). And, in her many affairs, she makes insane, outlandish demands. She kind of comes across as that crazy lady in the attic, minus the attic. <br/><br/>In the words of Thom Yorke, Emma, <a href="http://www.youtube.com/watch?v=TDYtMt5IJpg">You do it to yourself, you do/ And that's what really hurts/ Is that you do it to yourself/ Just you and no one else</a>.<br/><br/>Amazingly, though, Madame Bovary doesn't exactly come across as a cautionary tale. In this respect, it reminded me quite a bit of [b:The House of Mirth|17728|The House of Mirth|Edith Wharton|https://d202m5krfqbpi5.cloudfront.net/books/1328729186s/17728.jpg|1652564]. Both Emma Bovary and Lily Bart aspire to a life that, frankly, they can't afford. But they also suffer from a complete lack of agency and some pretty intense psychological demons that, given that they're of "the weaker sex," no one would take seriously. I wonder what they would be like today: maybe they'd have kick-ass corporate jobs, and they'd be able to buy their Louboutins in cash. However, it's just as likely that they'd be crippled by an expectation that they should be able to "have it all" and struggling with an overwhelming amount of credit card debit. <br/><br/>Even though this novel was published in 1856, it's pretty timely. When I think about all those women who obsess about [b:Pride and Prejudice|1885|Pride and Prejudice|Jane Austen|https://d202m5krfqbpi5.cloudfront.net/books/1320399351s/1885.jpg|3060926] and aspire to land their own Mr. Darcy, I want to hand them this. Not as a cautionary tale, exactly. Just as a counterpoint. 

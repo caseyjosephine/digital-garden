@@ -1,0 +1,58 @@
+---
+Book Id: 18693789
+Title: 'American Catch: The Fight for Our Local Seafood'
+Author: Paul   Greenberg
+Author l-f: Greenberg, Paul
+Additional Authors: null
+ISBN: ="1594204489"
+ISBN13: ="9781594204487"
+My Rating: 4
+Average Rating: 4.13
+Publisher: Penguin Press
+Binding: Hardcover
+Number of Pages: 320.0
+Year Published: 2014.0
+Original Publication Year: 2014.0
+Date Read: 2014/07/07
+Date Added: 2014/07/01
+Bookshelves: knowledge-is-good, the-word-unctuous-is-over-rated
+Bookshelves with positions: knowledge-is-good (#125), the-word-unctuous-is-over-rated
+  (#26)
+Exclusive Shelf: read
+My Review: 'The huge salmon filet that I bought and cooked for my family a few nights
+  ago was both incredibly delicious and simple. I seasoned it with some kosher salt,
+  freshly ground pepper, and Californian extra virgin olive oil. I then broiled it
+  for a just a few minutes, until the skin started crackling, then topped it with
+  more olive oil and fresh dill. Of course, it would have been a sin to cook it all
+  the way through: I like my salmon fairly rare in the center. And there''s the rub:
+  I only feel comfortable cooking salmon this way when I can find wild Alaskan salmon
+  that has been processed in the US. Sadly, this high quality fish (which is critically
+  important if we want to improve the health of the millions of Americans who are
+  overweight or obese) can be difficult to find in American grocery stores. I''m lucky
+  to have a wonderful grocer down the street, that sources many different types of
+  wild Alaskan salmon. Sadly, a large number of stores only stock imported farmed
+  salmon, which obtains its pink hue from artificial food coloring.<br/><br/>American
+  Catch deals with the shocking fact that the United States exports most of its high
+  quality wild fish to more discerning countries (mostly in Southeast Asia). Most
+  of the seafood that Americans eat is imported from questionable farmed sources in
+  Asia. Yes, this is complete madness that''s bad for health, and bad for taste. Farmed
+  tilapia is increasingly popular throughout the US: it''s main appeal is that it
+  doesn''t really taste like fish. In reality, it doesn''t really taste like anything.
+  It''s the boneless, skinless chicken breast of seafood, and it''s not even particularly
+  healthy. The omega-3 rich wild salmon we catch in droves in Alaska is, apparently,
+  "too fishy" for the American palate.<br/><br/>This is a book that makes me increasingly
+  angry with the American proclivity to value price and quantity over quality. Even
+  though I live in a city that borders the ocean, with many people who are obsessed
+  with good food, I don''t frequent a good fishmonger. I have to carefully examine
+  my fish purchases, because many grocery stores stock fish that''s not sustainable.
+  I''d love to catch some San Francisco Bay oysters, but we kind of ended up screwing
+  up their entire ecosystem. Oops. This is doubly bad because bivalves filter the
+  water, making it clean and safe.<br/><br/>I recommend American Catch to anyone who
+  eats seafood; it''s shocking how screwed up the seafood system is in the US. '
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+The huge salmon filet that I bought and cooked for my family a few nights ago was both incredibly delicious and simple. I seasoned it with some kosher salt, freshly ground pepper, and Californian extra virgin olive oil. I then broiled it for a just a few minutes, until the skin started crackling, then topped it with more olive oil and fresh dill. Of course, it would have been a sin to cook it all the way through: I like my salmon fairly rare in the center. And there's the rub: I only feel comfortable cooking salmon this way when I can find wild Alaskan salmon that has been processed in the US. Sadly, this high quality fish (which is critically important if we want to improve the health of the millions of Americans who are overweight or obese) can be difficult to find in American grocery stores. I'm lucky to have a wonderful grocer down the street, that sources many different types of wild Alaskan salmon. Sadly, a large number of stores only stock imported farmed salmon, which obtains its pink hue from artificial food coloring.<br/><br/>American Catch deals with the shocking fact that the United States exports most of its high quality wild fish to more discerning countries (mostly in Southeast Asia). Most of the seafood that Americans eat is imported from questionable farmed sources in Asia. Yes, this is complete madness that's bad for health, and bad for taste. Farmed tilapia is increasingly popular throughout the US: it's main appeal is that it doesn't really taste like fish. In reality, it doesn't really taste like anything. It's the boneless, skinless chicken breast of seafood, and it's not even particularly healthy. The omega-3 rich wild salmon we catch in droves in Alaska is, apparently, "too fishy" for the American palate.<br/><br/>This is a book that makes me increasingly angry with the American proclivity to value price and quantity over quality. Even though I live in a city that borders the ocean, with many people who are obsessed with good food, I don't frequent a good fishmonger. I have to carefully examine my fish purchases, because many grocery stores stock fish that's not sustainable. I'd love to catch some San Francisco Bay oysters, but we kind of ended up screwing up their entire ecosystem. Oops. This is doubly bad because bivalves filter the water, making it clean and safe.<br/><br/>I recommend American Catch to anyone who eats seafood; it's shocking how screwed up the seafood system is in the US. 

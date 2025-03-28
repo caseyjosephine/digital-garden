@@ -1,0 +1,67 @@
+---
+Book Id: 18736925
+Title: Capital in the Twenty First Century
+Author: Thomas Piketty
+Author l-f: Piketty, Thomas
+Additional Authors: Arthur Goldhammer
+ISBN: ="067443000X"
+ISBN13: ="9780674430006"
+My Rating: 4
+Average Rating: 4.06
+Publisher: 'Belknap Press: An Imprint of Harvard University Press'
+Binding: Hardcover
+Number of Pages: 685.0
+Year Published: 2014.0
+Original Publication Year: 2013.0
+Date Read: 2015/02/04
+Date Added: 2015/01/14
+Bookshelves: knowledge-is-good
+Bookshelves with positions: knowledge-is-good (#135)
+Exclusive Shelf: read
+My Review: 'This is going to be a beast to review because, while I’ve got a good head
+  for numbers, I’m most certainly not an econometrician and I don’t know how well
+  I can explain the capital/income ratio that underlies the main arguments of the
+  book. Luckily, author Thomas Piketty is French, and peppers his book with lots of
+  information about capital in literature, with a particular focus on the work of
+  Austen and Blazac. According to Piketty, the reason that Austen found it perfectly
+  reasonable to talk specifically about Mr. Darcy’s £10,000 a year is that, up until
+  the 20th century, inflation wasn’t really a thing and income from rents was pretty
+  stable. At that time, wealth was extremely concentrated, with a small group holding
+  a vast majority of capital. Disturbingly, extant economic forces seem to be returning
+  us to this type of model. If this doesn’t disturb you, it should (unless you’re
+  the holder of vast amounts of capital, in which case, carry on).<br/><br/>The crux
+  of Piketty’s argument is that current market forces are pushing the global economy
+  towards divergence, meaning that wealth is becoming increasingly concentrated. To
+  make this argument, Piketty spends quite a bit of time talking about the capital/income
+  ration. Piketty explores the idea that, when income from capital outpaces income
+  from wages, holders of capital can increase their wealth far faster than wage earners
+  can accumulate their own wealth. Piketty doesn’t solely look at capital as the major
+  problem; indeed, he examines the case of super-managers earning incomes of well
+  over $1,000,000 per year. The argument is well researched, supported by a ton of
+  statistical data, and Piketty is quick to admit to the limitations of his work.
+  He doesn’t believe in the invisible hand of the market as some magical being bringing
+  prosperity to everyone by helping the rich get richer (I like to imagine the invisible
+  hand of the market as Ronald Reagan riding a magical unicorn that shits golden eagles).
+  What he does believe is that there needs to be more transparency in banking and
+  a global tax on capital. Which is a lovely idea, although probably also a non-starter.
+  <br/><br/>One major point that I found interesting was the extent to which World
+  War II temporarily changed economic reality. According to Piketty, World War II
+  effectively wiped the economic slate clean, making inherited wealth much less important
+  than it had been at the end of the 19th and beginning of the 20th century. This
+  meant that the Baby Boomer generation lived in a far more meritocratic and egalitarian
+  society. That simple fact has helped me gain some peace with the fact that previous
+  generations seem to be blind to the issues of skyrocketing rents and crippling student
+  loan debt. So when I see something like this:<br/><br/><img src="http://i.imgur.com/Fe3t9Igl.jpg"
+  title="source: imgur.com" /></a><br/><br/>I remember I’m living in a world more
+  like this one:<br/><br/><a href="http://imgur.com/qE7yIH8"><img src="http://i.imgur.com/qE7yIH8.jpg"
+  title="source: imgur.com" /></a><br/><br/>And that doesn''t make me feel better,
+  really, but millennials with poor economic outlooks can at least take some solace
+  in the universally acknowledged fact that a super-manager in possession of a good
+  fortune must be in want of a wife. Possibly.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+This is going to be a beast to review because, while I’ve got a good head for numbers, I’m most certainly not an econometrician and I don’t know how well I can explain the capital/income ratio that underlies the main arguments of the book. Luckily, author Thomas Piketty is French, and peppers his book with lots of information about capital in literature, with a particular focus on the work of Austen and Blazac. According to Piketty, the reason that Austen found it perfectly reasonable to talk specifically about Mr. Darcy’s £10,000 a year is that, up until the 20th century, inflation wasn’t really a thing and income from rents was pretty stable. At that time, wealth was extremely concentrated, with a small group holding a vast majority of capital. Disturbingly, extant economic forces seem to be returning us to this type of model. If this doesn’t disturb you, it should (unless you’re the holder of vast amounts of capital, in which case, carry on).<br/><br/>The crux of Piketty’s argument is that current market forces are pushing the global economy towards divergence, meaning that wealth is becoming increasingly concentrated. To make this argument, Piketty spends quite a bit of time talking about the capital/income ration. Piketty explores the idea that, when income from capital outpaces income from wages, holders of capital can increase their wealth far faster than wage earners can accumulate their own wealth. Piketty doesn’t solely look at capital as the major problem; indeed, he examines the case of super-managers earning incomes of well over $1,000,000 per year. The argument is well researched, supported by a ton of statistical data, and Piketty is quick to admit to the limitations of his work. He doesn’t believe in the invisible hand of the market as some magical being bringing prosperity to everyone by helping the rich get richer (I like to imagine the invisible hand of the market as Ronald Reagan riding a magical unicorn that shits golden eagles). What he does believe is that there needs to be more transparency in banking and a global tax on capital. Which is a lovely idea, although probably also a non-starter. <br/><br/>One major point that I found interesting was the extent to which World War II temporarily changed economic reality. According to Piketty, World War II effectively wiped the economic slate clean, making inherited wealth much less important than it had been at the end of the 19th and beginning of the 20th century. This meant that the Baby Boomer generation lived in a far more meritocratic and egalitarian society. That simple fact has helped me gain some peace with the fact that previous generations seem to be blind to the issues of skyrocketing rents and crippling student loan debt. So when I see something like this:<br/><br/><img src="http://i.imgur.com/Fe3t9Igl.jpg" title="source: imgur.com" /></a><br/><br/>I remember I’m living in a world more like this one:<br/><br/><a href="http://imgur.com/qE7yIH8"><img src="http://i.imgur.com/qE7yIH8.jpg" title="source: imgur.com" /></a><br/><br/>And that doesn't make me feel better, really, but millennials with poor economic outlooks can at least take some solace in the universally acknowledged fact that a super-manager in possession of a good fortune must be in want of a wife. Possibly.

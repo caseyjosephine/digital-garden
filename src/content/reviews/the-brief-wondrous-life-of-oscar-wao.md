@@ -1,0 +1,71 @@
+---
+Book Id: 2629628
+Title: The Brief Wondrous Life of Oscar Wao
+Author: Junot Díaz
+Author l-f: Díaz, Junot
+Additional Authors: null
+ISBN: =""
+ISBN13: =""
+My Rating: 4
+Average Rating: 3.89
+Publisher: Riverhead Trade
+Binding: Paperback
+Number of Pages: 335.0
+Year Published: 2008.0
+Original Publication Year: 2007.0
+Date Read: 2013/12/09
+Date Added: 2012/05/18
+Bookshelves: all-around-the-world, 1001-books, pull-it-surprise, the-serious-lit,
+  reading-for-style
+Bookshelves with positions: all-around-the-world (#43), 1001-books (#108), pull-it-surprise
+  (#16), the-serious-lit (#155), reading-for-style (#20)
+Exclusive Shelf: read
+My Review: 'Oh Oscar. Even though I felt that the plot was uneven (ranging from brilliant
+  to almost-but-not-quite-brilliant) and some of the sections worked much better than
+  others, Oscar is a character that will be with me for a long time. And not because
+  he''s a nerd that obsesses maybe a bit too much over [b:The Lord of the Rings|33|The
+  Lord of the Rings (The Lord of the Rings, #1-3)|J.R.R. Tolkien|https://d202m5krfqbpi5.cloudfront.net/books/1347257199s/33.jpg|3462456].
+  No. I''ll remember Oscar because he can''t cope with the fact that life isn''t what
+  he expected, plus he doesn''t feel like he belongs, either in the culture where
+  he came from or the culture he came to.<br/><br/>But it''s not just Oscar, because
+  really the most compelling character in this thing is Yunior. I know that Yunior''s
+  narration has been a point of contention among people who read this book, with some
+  loving it and some thinking that it detracts. Count me among the "love it" camp.
+  His voice is just so incredible, especially in contrast to Oscar''s actively-stitlted
+  style. I''ll definitely be reading more about Yunior.<br/><br/>People should read
+  this, not least because it clarifies some of the terrible shit that was going down
+  in the Dominican Republic (ever heard of it? It''s that country that''s connected
+  to Haiti. You know the one, maybe.). Trujillo was a bad dude. Before I read this,
+  what I knew what that he was a horribly violent dude that, somewhat incongruously,
+  planted a bunch of trees. But I knew about Trujillo in the abstract: Dominican dictator,
+  Americans pretty much let him be, he killed a lot of people, and the whole thing
+  is pretty complicated. The story of Oscar''s family made this all feel more concrete,
+  and my understanding is better for it. If you''re one of those people who has only
+  thought about the Dominican in terms of the all-inclusive beach resorts, you should
+  definitely read this book.<br/><br/>And, okay, I was really into the fact that this
+  is full of references. And Spanish. Throughout the novel, Diaz drops geek references
+  and Spanish phrases with about equal frequency. I thought I had mad geek skillz,
+  but it turns out that I ended up having to google comic book characters galore.
+  Even though I''m a total gringa, I had no problem with the Spanish slang. I''ve
+  seen a lot of complaints about the untranslated Spanish from those who aren''t hispanohablantes,
+  but newsflash, we''ve got these nifty things called Spanish-English dictionaries,
+  you can find them by using the google. Yeah, Diaz is trying to keep you at arm''s
+  length and make you feel like you''re not part of his community, which is pretty
+  fair since you probably aren''t (unless you happen to be Dominican). However, everything''s
+  pretty clear from context. Tolstoy pulls this kind of shit all the time, and I don''t
+  hear anyone complaining.<br/><br/>As an aside, Spanish is the primary language of
+  more than 38 million people in the United States alone. The complaints from Americans
+  (yes, yes, I assume) about a few Spanish phrases here and there are kind of ridiculous.
+  Perhaps my attitude stems from being born and raised in California, but I''m pretty
+  incredulous about the fact that so many people seem to actively avoid the language
+  that is spoken everyday by a sizable minority of their compatriots. Perhaps the
+  xenophobes don''t realize that their ignorance is showing. My advice? Recuerda,
+  en boca cerrada, no entran moscas.<br/><br/>I''ll stop rambling now. Read this!
+  You (probably) won''t be disappointed.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+Oh Oscar. Even though I felt that the plot was uneven (ranging from brilliant to almost-but-not-quite-brilliant) and some of the sections worked much better than others, Oscar is a character that will be with me for a long time. And not because he's a nerd that obsesses maybe a bit too much over [b:The Lord of the Rings|33|The Lord of the Rings (The Lord of the Rings, #1-3)|J.R.R. Tolkien|https://d202m5krfqbpi5.cloudfront.net/books/1347257199s/33.jpg|3462456]. No. I'll remember Oscar because he can't cope with the fact that life isn't what he expected, plus he doesn't feel like he belongs, either in the culture where he came from or the culture he came to.<br/><br/>But it's not just Oscar, because really the most compelling character in this thing is Yunior. I know that Yunior's narration has been a point of contention among people who read this book, with some loving it and some thinking that it detracts. Count me among the "love it" camp. His voice is just so incredible, especially in contrast to Oscar's actively-stitlted style. I'll definitely be reading more about Yunior.<br/><br/>People should read this, not least because it clarifies some of the terrible shit that was going down in the Dominican Republic (ever heard of it? It's that country that's connected to Haiti. You know the one, maybe.). Trujillo was a bad dude. Before I read this, what I knew what that he was a horribly violent dude that, somewhat incongruously, planted a bunch of trees. But I knew about Trujillo in the abstract: Dominican dictator, Americans pretty much let him be, he killed a lot of people, and the whole thing is pretty complicated. The story of Oscar's family made this all feel more concrete, and my understanding is better for it. If you're one of those people who has only thought about the Dominican in terms of the all-inclusive beach resorts, you should definitely read this book.<br/><br/>And, okay, I was really into the fact that this is full of references. And Spanish. Throughout the novel, Diaz drops geek references and Spanish phrases with about equal frequency. I thought I had mad geek skillz, but it turns out that I ended up having to google comic book characters galore. Even though I'm a total gringa, I had no problem with the Spanish slang. I've seen a lot of complaints about the untranslated Spanish from those who aren't hispanohablantes, but newsflash, we've got these nifty things called Spanish-English dictionaries, you can find them by using the google. Yeah, Diaz is trying to keep you at arm's length and make you feel like you're not part of his community, which is pretty fair since you probably aren't (unless you happen to be Dominican). However, everything's pretty clear from context. Tolstoy pulls this kind of shit all the time, and I don't hear anyone complaining.<br/><br/>As an aside, Spanish is the primary language of more than 38 million people in the United States alone. The complaints from Americans (yes, yes, I assume) about a few Spanish phrases here and there are kind of ridiculous. Perhaps my attitude stems from being born and raised in California, but I'm pretty incredulous about the fact that so many people seem to actively avoid the language that is spoken everyday by a sizable minority of their compatriots. Perhaps the xenophobes don't realize that their ignorance is showing. My advice? Recuerda, en boca cerrada, no entran moscas.<br/><br/>I'll stop rambling now. Read this! You (probably) won't be disappointed.

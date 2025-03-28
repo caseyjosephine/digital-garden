@@ -1,0 +1,49 @@
+---
+Book Id: 15797715
+Title: A Constellation of Vital Phenomena
+Author: Anthony Marra
+Author l-f: Marra, Anthony
+Additional Authors: null
+ISBN: ="0770436404"
+ISBN13: ="9780770436407"
+My Rating: 5
+Average Rating: 4.12
+Publisher: Hogarth
+Binding: Hardcover
+Number of Pages: 384.0
+Year Published: 2013.0
+Original Publication Year: 2013.0
+Date Read: 2014/03/25
+Date Added: 2013/05/25
+Bookshelves: all-around-the-world, the-serious-lit
+Bookshelves with positions: all-around-the-world (#50), the-serious-lit (#163)
+Exclusive Shelf: read
+My Review: 'A Constellation of Vital Phenomena is a difficult book. By difficult I
+  don''t mean it''s Joycean, although it is non-linear and fairly experimental; rather,
+  it''s hard to read because the characters have to deal with a relentless barrage
+  of suffering. The things that make it a darkly enchanting book to read are also
+  those that make it difficult to review. It jumps back and forth in time, meaning
+  that some pieces of the story don''t get resolved until much later. It centers around
+  a group of characters, all of which the reader comes to know well, but none of which
+  can be called a protagonist. Mostly, though, it''s a slice of life, and a sad one:
+  this slice is a burnt piece of toast with no butter to spread on it, shared by too
+  many people who have been hungry for too long.<br/><br/>I don''t know why, but I
+  can only speak in metaphors today, so here''s one more. To me, the book felt like
+  a figure skater''s spin. It starts slowly, with a wind up that''s full of the anticipation
+  of motion, then slowly begins to be build speed. Once the skater starts to pull
+  her arms in, the spin goes faster and faster. It sometimes appears to stop, but
+  a position change adds more energy. Faster and faster, pulling more and more, until
+  it ends with a brief flourish. It''s a common misconception that skaters don''t
+  get dizzy when they spin, but they do. They can''t spot, like ballerina dancers:
+  on a low-friction surface, they simply go too fast to do anything other than give
+  into the spin. They get dizzy, but they just get used to it.<br/><br/>Am I selling
+  the book well? I hope so. It''s worth reading, both for the beautiful writing, and
+  also because getting dizzy provides a wonderful reminder of how good it feels to
+  be still.'
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+A Constellation of Vital Phenomena is a difficult book. By difficult I don't mean it's Joycean, although it is non-linear and fairly experimental; rather, it's hard to read because the characters have to deal with a relentless barrage of suffering. The things that make it a darkly enchanting book to read are also those that make it difficult to review. It jumps back and forth in time, meaning that some pieces of the story don't get resolved until much later. It centers around a group of characters, all of which the reader comes to know well, but none of which can be called a protagonist. Mostly, though, it's a slice of life, and a sad one: this slice is a burnt piece of toast with no butter to spread on it, shared by too many people who have been hungry for too long.<br/><br/>I don't know why, but I can only speak in metaphors today, so here's one more. To me, the book felt like a figure skater's spin. It starts slowly, with a wind up that's full of the anticipation of motion, then slowly begins to be build speed. Once the skater starts to pull her arms in, the spin goes faster and faster. It sometimes appears to stop, but a position change adds more energy. Faster and faster, pulling more and more, until it ends with a brief flourish. It's a common misconception that skaters don't get dizzy when they spin, but they do. They can't spot, like ballerina dancers: on a low-friction surface, they simply go too fast to do anything other than give into the spin. They get dizzy, but they just get used to it.<br/><br/>Am I selling the book well? I hope so. It's worth reading, both for the beautiful writing, and also because getting dizzy provides a wonderful reminder of how good it feels to be still.

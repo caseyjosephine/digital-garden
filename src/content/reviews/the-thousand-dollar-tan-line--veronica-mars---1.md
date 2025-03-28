@@ -1,0 +1,52 @@
+---
+Book Id: 18209454
+Title: 'The Thousand-Dollar Tan Line (Veronica Mars, #1)'
+Author: Rob Thomas
+Author l-f: Thomas, Rob
+Additional Authors: Jennifer Graham
+ISBN: ="0804170703"
+ISBN13: ="9780804170703"
+My Rating: 3
+Average Rating: 3.98
+Publisher: Vintage Books
+Binding: Paperback
+Number of Pages: 324.0
+Year Published: 2014.0
+Original Publication Year: 2014.0
+Date Read: 2014/05/17
+Date Added: 2014/03/25
+Bookshelves: to-read, the-not-so-serious-lit
+Bookshelves with positions: to-read (#290), the-not-so-serious-lit (#120)
+Exclusive Shelf: to-read
+My Review: When the first season of Veronica Mars aired in 2004, I thought it was
+  the single best season of television since Twin Peaks (I still do). Naturally, I
+  was sure it would be cancelled, and we'd never get to find out who came to the door.
+  Miraculously, it survived to air another spectacular season, followed by a third,
+  less spectacular season. It got cancelled, I mourned for a bit, then decided that
+  I would do my best to share the series with friends. I guess millions of other people
+  had the same idea, because word of mouth turned into a kickstarter campaign, which
+  turned into a movie, and now a book series.<br/><br/>Success for Marshmallows everywhere!<br/><br/>But
+  you already knew all that. Anyway, The Thousand-Dollar Tan Line isn't particularly
+  well written, nor is it particularly poorly written. It reads like an episode of
+  Veronica Mars, which is great, but without the visuals and acting, which is part
+  of what made the show so wonderful in the first place. It's also awkwardly in third
+  person, so no voice overs (can voice overs exist in novels? I'll go with yes). I
+  assume that most readers will be picking up this book, not for a literary experience,
+  but because they want to find out what happens next in the Veronica Mars canon.
+  So the quality of the writing isn't that important.<br/><br/>I'm realizing it's
+  hard to review the book. The mystery is interesting, but it feels a lot more like
+  a "mystery of the week" without much character development. There's a sad lack of
+  Logan, and Keith mostly stays in the background (which is surprising, especially
+  since <spoiler>Lianne Mars plays a big role in the plot</spoiler>. Mac and Wallace
+  make appearances, but we never really get in their heads. <br/><br/>Still, though,
+  I enjoyed it. It was a fun way to spend a few hours, and I didn't really expect
+  it to be particularly good. I wish it had been better, though. Maybe next time.<br/><br/>If
+  you want a review that's more useful than this one, the <a href="http://www.avclub.com/review/first-book-veronica-mars-mystery-series-doesnt-qui-202539">AV
+  Club has one.</a>
+Spoiler: null
+Private Notes: null
+Read Count: 1
+Owned Copies: 0
+---
+
+When the first season of Veronica Mars aired in 2004, I thought it was the single best season of television since Twin Peaks (I still do). Naturally, I was sure it would be cancelled, and we'd never get to find out who came to the door. Miraculously, it survived to air another spectacular season, followed by a third, less spectacular season. It got cancelled, I mourned for a bit, then decided that I would do my best to share the series with friends. I guess millions of other people had the same idea, because word of mouth turned into a kickstarter campaign, which turned into a movie, and now a book series.<br/><br/>Success for Marshmallows everywhere!<br/><br/>But you already knew all that. Anyway, The Thousand-Dollar Tan Line isn't particularly well written, nor is it particularly poorly written. It reads like an episode of Veronica Mars, which is great, but without the visuals and acting, which is part of what made the show so wonderful in the first place. It's also awkwardly in third person, so no voice overs (can voice overs exist in novels? I'll go with yes). I assume that most readers will be picking up this book, not for a literary experience, but because they want to find out what happens next in the Veronica Mars canon. So the quality of the writing isn't that important.<br/><br/>I'm realizing it's hard to review the book. The mystery is interesting, but it feels a lot more like a "mystery of the week" without much character development. There's a sad lack of Logan, and Keith mostly stays in the background (which is surprising, especially since <spoiler>Lianne Mars plays a big role in the plot</spoiler>. Mac and Wallace make appearances, but we never really get in their heads. <br/><br/>Still, though, I enjoyed it. It was a fun way to spend a few hours, and I didn't really expect it to be particularly good. I wish it had been better, though. Maybe next time.<br/><br/>If you want a review that's more useful than this one, the <a href="http://www.avclub.com/review/first-book-veronica-mars-mystery-series-doesnt-qui-202539">AV Club has one.</a>
