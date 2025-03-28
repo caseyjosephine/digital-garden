@@ -1,71 +1,9 @@
 ---
-Book Id: 15811513
-Title: 'Present Shock: When Everything Happens Now'
-Author: Douglas Rushkoff
-Author l-f: Rushkoff, Douglas
-Additional Authors: null
-ISBN: ="1591844762"
-ISBN13: ="9781591844761"
-My Rating: 4
-Average Rating: 3.66
-Publisher: Current
-Binding: Hardcover
-Number of Pages: 296.0
-Year Published: 2013.0
-Original Publication Year: 2013.0
-Date Read: 2013/05/05
-Date Added: 2013/04/18
-Bookshelves: knowledge-is-good, relevant-for-teachers
-Bookshelves with positions: knowledge-is-good (#94), relevant-for-teachers (#36)
-Exclusive Shelf: read
-My Review: 'A word of warning: if you read this book, you''re going to have to accept
-  that media theorists do not have to present empirical evidence to argue a point.
-  Examples here are cherry-picked from a vast landscape of television shows and websites
-  and films, without mention of base rates, variance, statistical significance, and
-  other figures that scientific types (such as myself) rely on to make sense of data.
-  Of course, lack of any real evidence doesn''t stop Rushkoff from making claims about
-  causality. If only doing science were so easy.<br/><br/>Bottom line: there''s no
-  science in this book, despite what goodreads might lead to you believe. Indeed,
-  the library of congress shelved it under "technology - social aspects" and "technology
-  - philosophy." (If the library of congress had a heading for "curmudgeony polemics
-  against kids these days" it might go under that too, although Rushkoff loves technology
-  enough that no LOC librarian worth his or her salt would file this under "luddite.")
-  <br/><br/>Anyway, it''s best to get over the lack of data, because Rushkoff compellingly
-  argues that our post-narrative, post-structuralist, post-everything, <a href="http://open.spotify.com/album/3kj4r0F8AWJ4Udlln6zMIi">post-nothing</a>
-  world is always going on in the present, even as none of us really live in the moment.
-  <br/><br/>An aside (in a post-narrative world, my writing is not required to be
-  linear, or even informative: the most important thing is to capture attention):
-  I''m often impressed by my own facility with pop-culture references in popular media.
-  I don''t have cable, I spend most of my summer actively avoiding invitations to
-  inane sequels to even more inane blockbusters, and I couldn''t pick of-the-moment
-  pop hacks like Justin Bieber or Adele out of a lineup. But, "meta" shows like Community
-  seem to be aimed at me, because I do know a Goodfellas reference or a parody of
-  a narrative trope when I see one. In creating a corps of viewers who won''t bother
-  with the history of cinema (or music, or art, or anything), who stare blankly when
-  they hear names like "Ingmar Bergman" or "David O. Selznick" or "Laura Palmer,"
-  popular satirical television shows have, ironically, selected for exactly the audience
-  that won''t get the jokes.<br/><br/>Back to the book. Rushkoff''s argument is presented
-  in a few broad strokes, which resemble the colorful, self-contained rectangles of
-  a Mondrian painting. He jumps all over the place, talking about investment banking,
-  post-narrative collapse, digiphrenia (being more than one digital being at once),
-  Facebook, conspiracy theorists, and the apocalypse. I was surprised to hear about
-  the benefits of barter economies and alternative currencies, although I''m not sure
-  how that fits in with anything. The book is about as rambling as this review, albeit
-  more successful at conveying actual information.<br/><br/>What''s the solution to
-  present shock? Perhaps the 21st century version of Walden consists of simply unplugging
-  the modem, switching the iPhone to "do not disturb," cracking open a book, and listening
-  to Highway 61 Revisited on vinyl. Maybe reconnecting with nature means strolling
-  along Clark street without listening to music through headphones. Just typing that
-  makes the future seem bleak, not least because I know few people would deign to
-  exist apart from the electronic crutch of Facebook profiles and Twitter feeds. The
-  only solution I can offer is a personal refusal to become a blankly-buzzing drone.<br/><br/>If
-  you''re interested in this book, you may want to check out <a href="http://podcasts.joerogan.net/podcasts/douglas-rushkoff">this
-  interview with the author on the Joe Rogan Experience</a>, which I found rather
-  enjoyable.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Present Shock: When Everything Happens Now'
+author: Douglas Rushkoff
+rating: 4
+date_read: 2013/05/05
+number_of_pages: 296
 ---
 
 A word of warning: if you read this book, you're going to have to accept that media theorists do not have to present empirical evidence to argue a point. Examples here are cherry-picked from a vast landscape of television shows and websites and films, without mention of base rates, variance, statistical significance, and other figures that scientific types (such as myself) rely on to make sense of data. Of course, lack of any real evidence doesn't stop Rushkoff from making claims about causality. If only doing science were so easy.<br/><br/>Bottom line: there's no science in this book, despite what goodreads might lead to you believe. Indeed, the library of congress shelved it under "technology - social aspects" and "technology - philosophy." (If the library of congress had a heading for "curmudgeony polemics against kids these days" it might go under that too, although Rushkoff loves technology enough that no LOC librarian worth his or her salt would file this under "luddite.") <br/><br/>Anyway, it's best to get over the lack of data, because Rushkoff compellingly argues that our post-narrative, post-structuralist, post-everything, <a href="http://open.spotify.com/album/3kj4r0F8AWJ4Udlln6zMIi">post-nothing</a> world is always going on in the present, even as none of us really live in the moment. <br/><br/>An aside (in a post-narrative world, my writing is not required to be linear, or even informative: the most important thing is to capture attention): I'm often impressed by my own facility with pop-culture references in popular media. I don't have cable, I spend most of my summer actively avoiding invitations to inane sequels to even more inane blockbusters, and I couldn't pick of-the-moment pop hacks like Justin Bieber or Adele out of a lineup. But, "meta" shows like Community seem to be aimed at me, because I do know a Goodfellas reference or a parody of a narrative trope when I see one. In creating a corps of viewers who won't bother with the history of cinema (or music, or art, or anything), who stare blankly when they hear names like "Ingmar Bergman" or "David O. Selznick" or "Laura Palmer," popular satirical television shows have, ironically, selected for exactly the audience that won't get the jokes.<br/><br/>Back to the book. Rushkoff's argument is presented in a few broad strokes, which resemble the colorful, self-contained rectangles of a Mondrian painting. He jumps all over the place, talking about investment banking, post-narrative collapse, digiphrenia (being more than one digital being at once), Facebook, conspiracy theorists, and the apocalypse. I was surprised to hear about the benefits of barter economies and alternative currencies, although I'm not sure how that fits in with anything. The book is about as rambling as this review, albeit more successful at conveying actual information.<br/><br/>What's the solution to present shock? Perhaps the 21st century version of Walden consists of simply unplugging the modem, switching the iPhone to "do not disturb," cracking open a book, and listening to Highway 61 Revisited on vinyl. Maybe reconnecting with nature means strolling along Clark street without listening to music through headphones. Just typing that makes the future seem bleak, not least because I know few people would deign to exist apart from the electronic crutch of Facebook profiles and Twitter feeds. The only solution I can offer is a personal refusal to become a blankly-buzzing drone.<br/><br/>If you're interested in this book, you may want to check out <a href="http://podcasts.joerogan.net/podcasts/douglas-rushkoff">this interview with the author on the Joe Rogan Experience</a>, which I found rather enjoyable.

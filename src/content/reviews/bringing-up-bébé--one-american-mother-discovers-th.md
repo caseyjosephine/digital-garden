@@ -1,74 +1,9 @@
 ---
-Book Id: 13152287
-Title: 'Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting'
-Author: Pamela Druckerman
-Author l-f: Druckerman, Pamela
-Additional Authors: Abby Craden
-ISBN: ="0449010880"
-ISBN13: ="9780449010884"
-My Rating: 4
-Average Rating: 4.02
-Publisher: Random House Audio
-Binding: Audiobook
-Number of Pages: 10.0
-Year Published: 2012.0
-Original Publication Year: 2012.0
-Date Read: 2012/07/10
-Date Added: 2012/07/10
-Bookshelves: knowledge-is-good, relevant-for-teachers
-Bookshelves with positions: knowledge-is-good (#68), relevant-for-teachers (#21)
-Exclusive Shelf: read
-My Review: 'Through the magic of being French, you will have children that sleep through
-  the night at 6 weeks and request gourmet food before they start kindergarden. They
-  will behave themselves on outings and never, ever throw tantrums. They will play
-  quietly on their own while you drink a glass of Bordeaux.<br/><br/>This book is
-  not really about France, nor is it really about French parenting. In reality, this
-  book addresses the crisis facing American parents. In case you aren''t aware, Americans
-  live in a kindergarchy. Children are shuttled to daily activities and sports practices
-  by overworked parents. Mothers cook special meals for their children, who tend to
-  prefer nuggets and fries over anything else. Parents help their children with homework,
-  or hire tutors. They are worried about college when they put their kids in pre-school.
-  In short, American parents surrender their own lives to become slaves to their progeny.<br/><br/>Unsurprisingly,
-  the American way of parenting has produced a bunch of entitled young adults who
-  act quite a bit like children. It has also produced plenty of unhappy parents. Druckerman,
-  a former New Yorker living in Paris, had internalized the American framework. She
-  was surprised to see that French parents were not much like American parents. For
-  one, they had lives separate from soccer practice. But they seemed to differ in
-  a more philosophical way: they spoke of parenting as "education" and they were happy
-  to be called "strict" -- although they allowed for a fair amount of liberty as well.<br/><br/>Central
-  to French parenting is the idea of the "cadre" or frame. French parents create a
-  strict frame for their children: eating is allowed four times per day, children
-  must always say the magic words (please, thank you, hello, and good-bye), etc. However,
-  within the frame, children can make their own choices. French parents don''t shower
-  their children with praise or shield them from the more difficult aspects of life.
-  They let children have time alone, giving them far more independence that the typical
-  American child.<br/><br/>The parenting tips that Druckerman gleans from the French
-  seem to be common sense. Listen to your child, and try to understand his daily rhythm.
-  When he cries, pause before picking him up to see if he can resolve the issue himself.
-  Say no like you mean it. Teach your child to take into account the needs of others
-  (including his parents). Be authoritative, not authoritarian.<br/><br/>However,
-  as basic as these ideas are, they''ve become lost to generations of parents who
-  are more likely to listen to "experts" than their own mothers, who feel the need
-  to choose a branded "parenting style," who try to be prefect. Druckerman reminds
-  the readers that there is no such thing as the perfect parent. I think many people
-  need the reminder.<br/><br/>I found this book enjoyable and interesting. I have
-  no children, but more and more of my friends have begun to start families. I''m
-  finally starting to understand the pressures that American society puts on parents,
-  and I''ve also begun to question the so-called "soccer mom" values. This would be
-  a wonderful gift to slip into a baby-shower basket, if only to remind new mothers
-  that they can trust their instincts, and take time for themselves.<br/><br/>My only
-  issue with the book is that Druckerman describes the world of urban, middle to upper-middle
-  class French parents, and compares them to middle to upper-middle class American
-  parents. The Park Slope parents she describes are likely not too similar to rural
-  or working class families, which she doesn''t discuss. She also tends to equate
-  "parenting" with "being a mother." I understand the majority of parenting often
-  falls to mothers, but I''d be interested to understand more of the French father''s
-  point of view (or to hear about parents who are not married or heterosexual). However,
-  overall this book was thoughtful and well written, and I truly enjoyed it.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting'
+author: Pamela Druckerman
+rating: 4
+date_read: 2012/07/10
+number_of_pages: 10
 ---
 
 Through the magic of being French, you will have children that sleep through the night at 6 weeks and request gourmet food before they start kindergarden. They will behave themselves on outings and never, ever throw tantrums. They will play quietly on their own while you drink a glass of Bordeaux.<br/><br/>This book is not really about France, nor is it really about French parenting. In reality, this book addresses the crisis facing American parents. In case you aren't aware, Americans live in a kindergarchy. Children are shuttled to daily activities and sports practices by overworked parents. Mothers cook special meals for their children, who tend to prefer nuggets and fries over anything else. Parents help their children with homework, or hire tutors. They are worried about college when they put their kids in pre-school. In short, American parents surrender their own lives to become slaves to their progeny.<br/><br/>Unsurprisingly, the American way of parenting has produced a bunch of entitled young adults who act quite a bit like children. It has also produced plenty of unhappy parents. Druckerman, a former New Yorker living in Paris, had internalized the American framework. She was surprised to see that French parents were not much like American parents. For one, they had lives separate from soccer practice. But they seemed to differ in a more philosophical way: they spoke of parenting as "education" and they were happy to be called "strict" -- although they allowed for a fair amount of liberty as well.<br/><br/>Central to French parenting is the idea of the "cadre" or frame. French parents create a strict frame for their children: eating is allowed four times per day, children must always say the magic words (please, thank you, hello, and good-bye), etc. However, within the frame, children can make their own choices. French parents don't shower their children with praise or shield them from the more difficult aspects of life. They let children have time alone, giving them far more independence that the typical American child.<br/><br/>The parenting tips that Druckerman gleans from the French seem to be common sense. Listen to your child, and try to understand his daily rhythm. When he cries, pause before picking him up to see if he can resolve the issue himself. Say no like you mean it. Teach your child to take into account the needs of others (including his parents). Be authoritative, not authoritarian.<br/><br/>However, as basic as these ideas are, they've become lost to generations of parents who are more likely to listen to "experts" than their own mothers, who feel the need to choose a branded "parenting style," who try to be prefect. Druckerman reminds the readers that there is no such thing as the perfect parent. I think many people need the reminder.<br/><br/>I found this book enjoyable and interesting. I have no children, but more and more of my friends have begun to start families. I'm finally starting to understand the pressures that American society puts on parents, and I've also begun to question the so-called "soccer mom" values. This would be a wonderful gift to slip into a baby-shower basket, if only to remind new mothers that they can trust their instincts, and take time for themselves.<br/><br/>My only issue with the book is that Druckerman describes the world of urban, middle to upper-middle class French parents, and compares them to middle to upper-middle class American parents. The Park Slope parents she describes are likely not too similar to rural or working class families, which she doesn't discuss. She also tends to equate "parenting" with "being a mother." I understand the majority of parenting often falls to mothers, but I'd be interested to understand more of the French father's point of view (or to hear about parents who are not married or heterosexual). However, overall this book was thoughtful and well written, and I truly enjoyed it.

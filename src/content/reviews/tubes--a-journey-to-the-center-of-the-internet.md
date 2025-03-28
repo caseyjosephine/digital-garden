@@ -1,58 +1,9 @@
 ---
-Book Id: 13036199
-Title: 'Tubes: A Journey to the Center of the Internet'
-Author: Andrew  Blum
-Author l-f: Blum, Andrew
-Additional Authors: null
-ISBN: ="0061994936"
-ISBN13: ="9780061994937"
-My Rating: 3
-Average Rating: 3.51
-Publisher: Ecco
-Binding: Hardcover
-Number of Pages: 294.0
-Year Published: 2012.0
-Original Publication Year: 2012.0
-Date Read: 2013/12/20
-Date Added: 2013/12/21
-Bookshelves: knowledge-is-good
-Bookshelves with positions: knowledge-is-good (#115)
-Exclusive Shelf: read
-My Review: 'What''s the internet? Before this book, my answer to that question was
-  as follows: it''s a whole bunch of computers that are all connected to each other
-  and there are also, like, servers and stuff. If pressed, I could definitely tell
-  you that it''s probably <i>not</i> like that one <a href="https://www.youtube.com/watch?v=HnCcvrrFWDU">scene
-  from the Disney Channel original movie Pixel Perfect</a> where the holographic girl
-  needs a break from people, so she uploads herself to the internet. I''m 99% sure
-  that''s not how the internet works.<br/><br/>Given that I''ve done a lot of work
-  in web development, and that I''m generally interested in science and technology,
-  my understanding of the amorphous entity otherwise known as "the internet" is pretty
-  sad. <br/><br/>Andrew Blum was also disconcerted by his lack of understanding of
-  the internet, which prompted him to write Tubes. The name isn''t a joke: the internet
-  really is a lot like a bunch of connected tubes (as long as you take the word "tube"
-  to mean something along the lines of underground fiberoptic cables that connect
-  through massive internet exchanges that are like routers on crack). Blum is a fantastic
-  writer, and he does a great job of making sense of the physical structure of the
-  internet. Awesome!<br/><br/>But, not quite as awesome as it could be. See, the physical
-  structure of the internet is really only one level of analysis as far as the question
-  "what is the internet?" goes. And yeah, understanding that aspect is kind of cool.
-  However, don''t expect to understand "how does the internet work?" because that
-  question goes far beyond Blum''s question, "what is the physical structure of the
-  internet?" <br/><br/>I''d definitely recommend Tubes for tech geeks like myself,
-  but be aware that it will mostly raise more questions. How does routing technology
-  work on a global scale? How does my information get transformed into light and then
-  turned back into information? And just what was my computer chatting about when
-  my <a href="http://en.wikipedia.org/wiki/File:Dial_up_modem_noises.ogg">dial up
-  modem called my local AOL number</a>? (Until I hear otherwise, I''ll assume an encrypted
-  version of <a href="http://www.poetryfoundation.org/poem/17925">a Neruda sonnet</a>:
-  "I love you as one loves certain obscure things,/ secretly, between the shadow and
-  the soul."). This is an interesting first pass, but I wish it were a much more detailed
-  book. Perhaps Blum will write a sequel? Until then, I''ll be sitting here, quietly
-  contemplating the love lives of iMacs, etc.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Tubes: A Journey to the Center of the Internet'
+author: Andrew  Blum
+rating: 3
+date_read: 2013/12/20
+number_of_pages: 294
 ---
 
 What's the internet? Before this book, my answer to that question was as follows: it's a whole bunch of computers that are all connected to each other and there are also, like, servers and stuff. If pressed, I could definitely tell you that it's probably <i>not</i> like that one <a href="https://www.youtube.com/watch?v=HnCcvrrFWDU">scene from the Disney Channel original movie Pixel Perfect</a> where the holographic girl needs a break from people, so she uploads herself to the internet. I'm 99% sure that's not how the internet works.<br/><br/>Given that I've done a lot of work in web development, and that I'm generally interested in science and technology, my understanding of the amorphous entity otherwise known as "the internet" is pretty sad. <br/><br/>Andrew Blum was also disconcerted by his lack of understanding of the internet, which prompted him to write Tubes. The name isn't a joke: the internet really is a lot like a bunch of connected tubes (as long as you take the word "tube" to mean something along the lines of underground fiberoptic cables that connect through massive internet exchanges that are like routers on crack). Blum is a fantastic writer, and he does a great job of making sense of the physical structure of the internet. Awesome!<br/><br/>But, not quite as awesome as it could be. See, the physical structure of the internet is really only one level of analysis as far as the question "what is the internet?" goes. And yeah, understanding that aspect is kind of cool. However, don't expect to understand "how does the internet work?" because that question goes far beyond Blum's question, "what is the physical structure of the internet?" <br/><br/>I'd definitely recommend Tubes for tech geeks like myself, but be aware that it will mostly raise more questions. How does routing technology work on a global scale? How does my information get transformed into light and then turned back into information? And just what was my computer chatting about when my <a href="http://en.wikipedia.org/wiki/File:Dial_up_modem_noises.ogg">dial up modem called my local AOL number</a>? (Until I hear otherwise, I'll assume an encrypted version of <a href="http://www.poetryfoundation.org/poem/17925">a Neruda sonnet</a>: "I love you as one loves certain obscure things,/ secretly, between the shadow and the soul."). This is an interesting first pass, but I wish it were a much more detailed book. Perhaps Blum will write a sequel? Until then, I'll be sitting here, quietly contemplating the love lives of iMacs, etc.

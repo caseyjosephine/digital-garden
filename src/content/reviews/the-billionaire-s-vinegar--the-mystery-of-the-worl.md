@@ -1,54 +1,10 @@
 ---
-Book Id: 2706168
-Title: 'The Billionaire''s Vinegar: The Mystery of the World''s Most Expensive Bottle
+title: 'The Billionaire''s Vinegar: The Mystery of the World''s Most Expensive Bottle
   of Wine'
-Author: Benjamin      Wallace
-Author l-f: Wallace, Benjamin
-Additional Authors: null
-ISBN: ="0307338770"
-ISBN13: ="9780307338778"
-My Rating: 4
-Average Rating: 3.56
-Publisher: Crown Publishers
-Binding: Hardcover
-Number of Pages: 319.0
-Year Published: 2008.0
-Original Publication Year: 2008.0
-Date Read: 2016/03/27
-Date Added: 2016/01/28
-Bookshelves: in-vino-veritas, knowledge-is-good
-Bookshelves with positions: in-vino-veritas (#6), knowledge-is-good (#141)
-Exclusive Shelf: read
-My Review: 'For a book about such a fascinating topic, this was kind of a slog to
-  get through (admittedly, this may be because I read it in dead tree format; these
-  days, I prefer my Kindle). However, this mystery about the most expensive bottle
-  of wine is definitely compelling, even for people who aren’t quite as obsessed with
-  wine as I am.<br/><br/>Here are my major takeaways from this book:<br/><br/><img
-  src="http://i.giphy.com/fw4I9EasG91vy.gif"><br/><br/>Wine is for drinking. I mean,
-  yeah, it’s fun to collect wine as well, and I have to admit that I’ve got some bottles
-  that I’ve got in my “cellar” (aka apartment wine fridge) that I''ve put away with
-  the intention of not touching them for many years. But it’s fundamentally a beverage,
-  not a status symbol. When we lose sight of this, we forget what wine really is:
-  a bottled expression of a particular place, in a particular year, made by a particular
-  person.<br/><br/><img src="https://media.giphy.com/media/jJUFM98BFeqHK/giphy.gif"><br/><br/>If
-  something sounds too good to be true, it probably is. What strikes me is the sheer
-  number of bottles that the counterfeiter in this book manages to pass off as the
-  real deal. Wine tends to get expensive because bottles from the best chateaux during
-  the best vintages are fairly rare. So, when someone tells you they got a whole case
-  of impossible to find bottles, that should probably be a red flag.<br/><br/><img
-  src="http://i.giphy.com/FrajBDPikVqBG.gif"><br/><br/>Wine’s a luxury product that
-  is pretty much impossible to authenticate. With old bottles, storage conditions
-  are a big unknown, and, beyond that, there’s a fair amount of bottle variation.
-  Chateaux top off old bottles occasionally, meaning that the wine in the bottle isn’t
-  even necessarily from the vintage on the label. Most people can’t even tell the
-  difference between a $20 bottle and a $2000 bottle anyway, and even if they realize
-  something is off about it they’ve already opened and consumed it. Combine that with
-  people who have truly excessive amounts of money to wave around and you’re just
-  asking to be taken advantage of.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+author: Benjamin      Wallace
+rating: 4
+date_read: 2016/03/27
+number_of_pages: 319
 ---
 
 For a book about such a fascinating topic, this was kind of a slog to get through (admittedly, this may be because I read it in dead tree format; these days, I prefer my Kindle). However, this mystery about the most expensive bottle of wine is definitely compelling, even for people who aren’t quite as obsessed with wine as I am.<br/><br/>Here are my major takeaways from this book:<br/><br/><img src="http://i.giphy.com/fw4I9EasG91vy.gif"><br/><br/>Wine is for drinking. I mean, yeah, it’s fun to collect wine as well, and I have to admit that I’ve got some bottles that I’ve got in my “cellar” (aka apartment wine fridge) that I've put away with the intention of not touching them for many years. But it’s fundamentally a beverage, not a status symbol. When we lose sight of this, we forget what wine really is: a bottled expression of a particular place, in a particular year, made by a particular person.<br/><br/><img src="https://media.giphy.com/media/jJUFM98BFeqHK/giphy.gif"><br/><br/>If something sounds too good to be true, it probably is. What strikes me is the sheer number of bottles that the counterfeiter in this book manages to pass off as the real deal. Wine tends to get expensive because bottles from the best chateaux during the best vintages are fairly rare. So, when someone tells you they got a whole case of impossible to find bottles, that should probably be a red flag.<br/><br/><img src="http://i.giphy.com/FrajBDPikVqBG.gif"><br/><br/>Wine’s a luxury product that is pretty much impossible to authenticate. With old bottles, storage conditions are a big unknown, and, beyond that, there’s a fair amount of bottle variation. Chateaux top off old bottles occasionally, meaning that the wine in the bottle isn’t even necessarily from the vintage on the label. Most people can’t even tell the difference between a $20 bottle and a $2000 bottle anyway, and even if they realize something is off about it they’ve already opened and consumed it. Combine that with people who have truly excessive amounts of money to wave around and you’re just asking to be taken advantage of.

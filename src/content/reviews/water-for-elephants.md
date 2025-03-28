@@ -1,56 +1,9 @@
 ---
-Book Id: 43641
-Title: Water for Elephants
-Author: Sara Gruen
-Author l-f: Gruen, Sara
-Additional Authors: null
-ISBN: ="1565125606"
-ISBN13: ="9781565125605"
-My Rating: 2
-Average Rating: 4.11
-Publisher: Algonquin Books
-Binding: Paperback
-Number of Pages: 368.0
-Year Published: 2007.0
-Original Publication Year: 2006.0
-Date Read: 2013/06/04
-Date Added: 2013/04/18
-Bookshelves: i-don-t-get-the-hype, the-not-so-serious-lit, your-book-sucked
-Bookshelves with positions: i-don-t-get-the-hype (#5), the-not-so-serious-lit (#96),
-  your-book-sucked (#10)
-Exclusive Shelf: read
-My Review: 'Water for Elephants is about a guy that accidentally joins the circus
-  and meets this woman who also works at the circus, who he wants to bang. But obstacles
-  exist, mostly because otherwise the book would have no plot. Except for those kooky
-  circus performers. Also, there''s an elephant.<br/><br/>For a book with so many
-  positive reviews, I found Water for Elephants to be shockingly bad. At first, I
-  thought it might be a fun, quick read. After a few chapters, I realized that the
-  writing was pedestrian, the characters boring and unbelievable. By the halfway point,
-  I contemplated chucking this out the window, and might have if it weren''t for the
-  inconvenience of removing the screens (also, I think throwing objects from the top
-  floor of a tall building on a busy street in a huge city = not legal, or safe).<br/><br/>Bad
-  writing, I can sometimes look past. Cliched phrases, poorly-developed characters,
-  these aren''t always deal breakers. Gratuitous violence towards animals isn''t exactly
-  my cup of tea, but I won''t discount a book because of it.<br/><br/>But <spoiler>casual
-  depictions of rape, as well as victim shaming, are absolutely not okay, even if
-  the victim is male. Towards the middle of the book, two women force themselves on
-  Jacob, pinning him down and removing his clothes. While he''s too drunk to consent,
-  he does say "I mumble something, not sure what, but I don''t think it''s encouragement.
-  I''m suddenly not feeling well." (p. 134) The women give him a blow job without
-  his consent. Later, his "friends" make fun of him for not being about to get an
-  erection.<br/><br/>Imagine a book that included the same situation, but with two
-  men forcing themselves on a woman who is too drunk to say no. Imagine that her friends
-  later poke fun at her for not being about to achieve orgasm. Imagine that this is
-  completely laughed off by the author. I sense a double standard here.</spoiler><br/><br/>Anyway,
-  my edition of Water for Elephants contains a ton of historical photographs of circuses,
-  that appear before/after chapters that are completely unrelated. The pictures aren''t
-  even that interesting. The actual text of the book is largely similar to the pictures:
-  a selection poorly composed vignettes that felt haphazardly thrown together. Not
-  worth the read.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Water for Elephants
+author: Sara Gruen
+rating: 2
+date_read: 2013/06/04
+number_of_pages: 368
 ---
 
 Water for Elephants is about a guy that accidentally joins the circus and meets this woman who also works at the circus, who he wants to bang. But obstacles exist, mostly because otherwise the book would have no plot. Except for those kooky circus performers. Also, there's an elephant.<br/><br/>For a book with so many positive reviews, I found Water for Elephants to be shockingly bad. At first, I thought it might be a fun, quick read. After a few chapters, I realized that the writing was pedestrian, the characters boring and unbelievable. By the halfway point, I contemplated chucking this out the window, and might have if it weren't for the inconvenience of removing the screens (also, I think throwing objects from the top floor of a tall building on a busy street in a huge city = not legal, or safe).<br/><br/>Bad writing, I can sometimes look past. Cliched phrases, poorly-developed characters, these aren't always deal breakers. Gratuitous violence towards animals isn't exactly my cup of tea, but I won't discount a book because of it.<br/><br/>But <spoiler>casual depictions of rape, as well as victim shaming, are absolutely not okay, even if the victim is male. Towards the middle of the book, two women force themselves on Jacob, pinning him down and removing his clothes. While he's too drunk to consent, he does say "I mumble something, not sure what, but I don't think it's encouragement. I'm suddenly not feeling well." (p. 134) The women give him a blow job without his consent. Later, his "friends" make fun of him for not being about to get an erection.<br/><br/>Imagine a book that included the same situation, but with two men forcing themselves on a woman who is too drunk to say no. Imagine that her friends later poke fun at her for not being about to achieve orgasm. Imagine that this is completely laughed off by the author. I sense a double standard here.</spoiler><br/><br/>Anyway, my edition of Water for Elephants contains a ton of historical photographs of circuses, that appear before/after chapters that are completely unrelated. The pictures aren't even that interesting. The actual text of the book is largely similar to the pictures: a selection poorly composed vignettes that felt haphazardly thrown together. Not worth the read.

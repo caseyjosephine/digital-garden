@@ -1,63 +1,9 @@
 ---
-Book Id: 8117665
-Title: 'Breaking Dawn (Twilight, #4)'
-Author: Stephenie Meyer
-Author l-f: Meyer, Stephenie
-Additional Authors: null
-ISBN: =""
-ISBN13: =""
-My Rating: 1
-Average Rating: 3.75
-Publisher: Little, Brown Books for Young Readers
-Binding: Kindle Edition
-Number of Pages: 756.0
-Year Published: 2008.0
-Original Publication Year: 2008.0
-Date Read: 2016/01/12
-Date Added: 2016/01/05
-Bookshelves: null
-Bookshelves with positions: null
-Exclusive Shelf: read
-My Review: 'I seriously thought about giving this two stars just because it''s so
-  comically bad, but I just can''t do that. So, instead, here are some things I learned
-  from this book. <br/><br/>-When you decide to impulse marry your high school sweetheart
-  because that''s the only way you can convince him to bang you, don''t worry about
-  telling your mother (who is vehemently opposed to young marriage), because she''ll
-  just change her mind and get super into decorating when that''s convenient for the
-  plot.<br/><br/>-Corollary: do not wait at all to make sure this decision is correct,
-  because women are only of any worth if they''re youthful, and anything past the
-  teenage years is just too old.<br/><br/>-When your husband has such rough sex with
-  you that he destroys the headboard and leaves you completely bruised, this is very
-  romantic. You''re the one that should feel guilty for smelling good and stuff.<br/><br/>-If
-  you''re the leader of a pack of supernatural creatures actively involved in protecting
-  the person you love most from an imminent attack (which obvs won''t actually happen,
-  conveniently, because Meyer doesn''t know how to write herself out of the plots
-  she puts her characters into and just goes "deus ex machina" on all that), the best
-  thing to do is drive to the nearest city and hang out in the park looking for strangers
-  to fall in love with.<br/><br/>-Even though your "father-in-law" is a doctor with
-  literally centuries of experience and a bunch of medical equipment <i>in his house</i>
-  he will never think to perform a cesarean section on the demon baby that''s destroying
-  your body from the inside.<br/><br/>-Male vampires spend their copious amounts of
-  free time being doctors, fighting, watching football, and being intellectual. Female
-  vampires mostly just shop and take on nurturing roles. This is the way it has to
-  be, because Meyer wouldn''t want to call into question the believability of her
-  supernatural universe by defying traditional gender norms.<br/><br/>-Pedophilia
-  is perfectly acceptable and natural if you just call it "imprinting" and pretend
-  that it''s not really about wanting someone "that way."<br/><br/>-If you''re an
-  author that creates a weird fictional world so that you can write yourself into
-  the story, make everyone fall in love with you, make yourself super hot, give yourself
-  more powers than everyone else, and live happily ever after, the public won''t see
-  through the charade and you''ll somehow sell far more copies of your shitty book
-  than Proust ever sold of In Search of Lost Time. This is because the world is an
-  unfair place filled with philistines. <br/><br/>-Corollary: It''s only a happy ending
-  if you count your enduring an abusive relationship with your husband while your
-  best friend bangs your daughter for all eternity as a happily ever after. Which
-  Meyer does. Literally, the last chapter of this book is titled "The Happily Ever
-  After." You can''t make this shit up. '
-Spoiler: true
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Breaking Dawn (Twilight, #4)'
+author: Stephenie Meyer
+rating: 1
+date_read: 2016/01/12
+number_of_pages: 756
 ---
 
 I seriously thought about giving this two stars just because it's so comically bad, but I just can't do that. So, instead, here are some things I learned from this book. <br/><br/>-When you decide to impulse marry your high school sweetheart because that's the only way you can convince him to bang you, don't worry about telling your mother (who is vehemently opposed to young marriage), because she'll just change her mind and get super into decorating when that's convenient for the plot.<br/><br/>-Corollary: do not wait at all to make sure this decision is correct, because women are only of any worth if they're youthful, and anything past the teenage years is just too old.<br/><br/>-When your husband has such rough sex with you that he destroys the headboard and leaves you completely bruised, this is very romantic. You're the one that should feel guilty for smelling good and stuff.<br/><br/>-If you're the leader of a pack of supernatural creatures actively involved in protecting the person you love most from an imminent attack (which obvs won't actually happen, conveniently, because Meyer doesn't know how to write herself out of the plots she puts her characters into and just goes "deus ex machina" on all that), the best thing to do is drive to the nearest city and hang out in the park looking for strangers to fall in love with.<br/><br/>-Even though your "father-in-law" is a doctor with literally centuries of experience and a bunch of medical equipment <i>in his house</i> he will never think to perform a cesarean section on the demon baby that's destroying your body from the inside.<br/><br/>-Male vampires spend their copious amounts of free time being doctors, fighting, watching football, and being intellectual. Female vampires mostly just shop and take on nurturing roles. This is the way it has to be, because Meyer wouldn't want to call into question the believability of her supernatural universe by defying traditional gender norms.<br/><br/>-Pedophilia is perfectly acceptable and natural if you just call it "imprinting" and pretend that it's not really about wanting someone "that way."<br/><br/>-If you're an author that creates a weird fictional world so that you can write yourself into the story, make everyone fall in love with you, make yourself super hot, give yourself more powers than everyone else, and live happily ever after, the public won't see through the charade and you'll somehow sell far more copies of your shitty book than Proust ever sold of In Search of Lost Time. This is because the world is an unfair place filled with philistines. <br/><br/>-Corollary: It's only a happy ending if you count your enduring an abusive relationship with your husband while your best friend bangs your daughter for all eternity as a happily ever after. Which Meyer does. Literally, the last chapter of this book is titled "The Happily Ever After." You can't make this shit up. 

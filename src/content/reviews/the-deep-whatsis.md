@@ -1,54 +1,9 @@
 ---
-Book Id: 17316555
-Title: The Deep Whatsis
-Author: Peter Mattei
-Author l-f: Mattei, Peter
-Additional Authors: null
-ISBN: ="1590516389"
-ISBN13: ="9781590516386"
-My Rating: 4
-Average Rating: 3.23
-Publisher: Other Press
-Binding: Paperback
-Number of Pages: 256.0
-Year Published: 2013.0
-Original Publication Year: 2013.0
-Date Read: 2013/12/11
-Date Added: 2013/12/10
-Bookshelves: quick-reads, the-not-so-serious-lit
-Bookshelves with positions: quick-reads (#13), the-not-so-serious-lit (#110)
-Exclusive Shelf: read
-My Review: 'Summary: corporate shills just keep getting richer. Hip people don''t
-  have much furniture but all of it is white and expensive. Best Coast and Pretty
-  Lights were somehow the best indie music references the writer could come up with,
-  which is just silly because there''s an entire website called Pitchfork that exists
-  for people who want to know what "the best new music" is so that they can namedrop
-  in exactly these types of situations. Manic pixie dream girl. Creative types never
-  seem to do any real creating but real creating can also be kind of bullshit and
-  what is art anyway? Pharmaceuticals. Manic pixie dream girl climax (see what I did
-  there?). Opaque denouement. <br/><br/>Yeah, so I liked this more than I thought
-  I would. I mostly just read it because I liked the cover and I wanted to read something
-  fairly light so I figured why not read a light book with a nice cover? That, by
-  the way, is a pretty good example of how I make decisions.<br/><br/>So this book
-  has an asshole protagonist who''s sadistic, satirical, and amusing. I saw a couple
-  negative reviews of this book that said that it was not good because the protagonist
-  isn''t relatable, which is a bullshit reason to dislike a book. When Nabokov asked
-  his students what it meant to be a good reader, he said that "the students leaned
-  heavily on emotional identification, action, and the social-economic or historical
-  angle. Of course, as you have guessed, the good reader is one who has imagination,
-  memory, a dictionary, and some artistic sense–-which sense I propose to develop
-  in myself and in others whenever I have the chance."<br/><br/>Right, so the character
-  is not one you''ll identify with on an emotional level, but if you think that''s
-  important than you''re doing reading wrong.<br/><br/>Anyway, the hipster assholes
-  who populate The Deep Whatsis would probably enjoy that reference, expect that Nabokov
-  on literature is a pretty obvious one to make and probably I should have found something
-  from one of Ingmar Bergman''s minor films, but whatever I don''t have time for that
-  and I don''t care.<br/><br/>3.5 stars, but I''m rounding up to 4 because I''m heavily
-  caffeinated and I like the cover.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: The Deep Whatsis
+author: Peter Mattei
+rating: 4
+date_read: 2013/12/11
+number_of_pages: 256
 ---
 
 Summary: corporate shills just keep getting richer. Hip people don't have much furniture but all of it is white and expensive. Best Coast and Pretty Lights were somehow the best indie music references the writer could come up with, which is just silly because there's an entire website called Pitchfork that exists for people who want to know what "the best new music" is so that they can namedrop in exactly these types of situations. Manic pixie dream girl. Creative types never seem to do any real creating but real creating can also be kind of bullshit and what is art anyway? Pharmaceuticals. Manic pixie dream girl climax (see what I did there?). Opaque denouement. <br/><br/>Yeah, so I liked this more than I thought I would. I mostly just read it because I liked the cover and I wanted to read something fairly light so I figured why not read a light book with a nice cover? That, by the way, is a pretty good example of how I make decisions.<br/><br/>So this book has an asshole protagonist who's sadistic, satirical, and amusing. I saw a couple negative reviews of this book that said that it was not good because the protagonist isn't relatable, which is a bullshit reason to dislike a book. When Nabokov asked his students what it meant to be a good reader, he said that "the students leaned heavily on emotional identification, action, and the social-economic or historical angle. Of course, as you have guessed, the good reader is one who has imagination, memory, a dictionary, and some artistic sense–-which sense I propose to develop in myself and in others whenever I have the chance."<br/><br/>Right, so the character is not one you'll identify with on an emotional level, but if you think that's important than you're doing reading wrong.<br/><br/>Anyway, the hipster assholes who populate The Deep Whatsis would probably enjoy that reference, expect that Nabokov on literature is a pretty obvious one to make and probably I should have found something from one of Ingmar Bergman's minor films, but whatever I don't have time for that and I don't care.<br/><br/>3.5 stars, but I'm rounding up to 4 because I'm heavily caffeinated and I like the cover.

@@ -1,71 +1,9 @@
 ---
-Book Id: 209668781
-Title: 'Onyx Storm (The Empyrean, #3)'
-Author: Rebecca Yarros
-Author l-f: Yarros, Rebecca
-Additional Authors: null
-ISBN: ="1649376944"
-ISBN13: ="9781649376947"
-My Rating: 3
-Average Rating: 4.25
-Publisher: 'Entangled: Red Tower Books'
-Binding: Kindle Edition
-Number of Pages: 758.0
-Year Published: 2025.0
-Original Publication Year: 2025.0
-Date Read: 2025/02/28
-Date Added: 2025/01/21
-Bookshelves: null
-Bookshelves with positions: null
-Exclusive Shelf: read
-My Review: 'Questions I asked while reading this book: who is this character again?
-  Does this name belong to a human or a dragon or a gryphon? What signet does this
-  rider have? What is their military rank? What relationship does this person or creature
-  have to the core crew? Are any of the people in this scene banging each other? <br/><br/>Most
-  damningly, I found myself asking "why do I care about this again?"<br/><br/>I wanted
-  to love Onyx Storm, but the shine is starting to wear off. Fourth Wing was one of
-  the most fun community reading experiences I''ve had recently—I found it fast-paced
-  and enjoyable. Iron Flame was released about a month after I finished Fourth Wing,
-  which likely made to appraise it more fondly than I should have, because it had
-  pacing issues. <br/><br/>The day after Onyx Storm released, I took the legendary
-  Coast Starlight from the Bay Area to Oregon. I was stressed out. Work stress, money
-  stress, dealing with the stress of people I care about. Pretty much all the stress.
-  I really needed a break from life.<br/><br/>Onyx Storm should have been the perfect
-  escape for me. A fantasy world to get lost in! Unfortunately, I couldn''t get into
-  it. Instead, I ended up listening to Evermore and staring out the window in the
-  observation car. <br/><br/>Three weeks later, I was nearing the end of the first
-  quarter of the book and somewhat, kinda, starting to get into it. For the record,
-  I''m a fast reader. The nonfiction history book I had been reading was more compelling
-  than Onyx Storm. This was surprising because history has always been my worst subject
-  and the latter has dragons. It was at this point I began suspecting that I would
-  give Onyx Storm three stars (with an extra half star on StoryGraph, because I can).<br/><br/>For
-  me, three stars is a good rating. Not exceptional, but certainly not bad. Just a
-  book, fulfilling its bookly duties. A book that leaves me completely whelmed. Onyx
-  Storm was a fun and entertaining read, it just wasn''t wildly entertaining like
-  Fourth Wing. There was something going on with the plot, but I didn''t care much
-  about it.<br/><br/>Here''s what I liked:<br/><br/>- At this point, I''m more interested
-  in the fantasy than the romance. The book does lean into the fantasy side, which
-  I appreciated.<br/>- The dragons continue to be the best part of the series.<br/>-
-  There''s a lot about propaganda, misinformation, and rewriting history that I enjoyed.
-  All the political factions are self-interested and morally gray.<br/>- Once it got
-  past the 50% mark, it picked up! <br/><br/>What didn''t quite work for me:<br/><br/>-
-  Pacing: it took about so many pages for the book to pick up. <br/>- Once again,
-  there''s a lot of info dumping. It reminds me of the "it''s magic school so we''re
-  going to give you info dumping in a classroom" that plagued the Harry Potter series.
-  <br/>- On the flip side, Yarros doesn''t do a great job of quickly differentiating
-  the characters (and their dragons, and their signets, or whether they''re flyers,
-  and who they''re banging). I''m sure a lot of people have been obsessively rereading
-  these books, but for me Iron Flame was almost 200 books ago and I would have appreciated
-  better recapping. Yarros should take a page out of Sanderson—he''s great at getting
-  everyone caught up again quickly.<br/><br/>Also, for the love of Malek or Dunne
-  or whomever, if you''re going to add a map to a fantasy novel you need to include
-  all the places relevant to the story on the map. Please and thank you. <br/><br/>I''ll
-  continue to read the Empyrean series, but at this point I''m holding my enthusiasm
-  until it wraps up.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Onyx Storm (The Empyrean, #3)'
+author: Rebecca Yarros
+rating: 3
+date_read: 2025/02/28
+number_of_pages: 758
 ---
 
 Questions I asked while reading this book: who is this character again? Does this name belong to a human or a dragon or a gryphon? What signet does this rider have? What is their military rank? What relationship does this person or creature have to the core crew? Are any of the people in this scene banging each other? <br/><br/>Most damningly, I found myself asking "why do I care about this again?"<br/><br/>I wanted to love Onyx Storm, but the shine is starting to wear off. Fourth Wing was one of the most fun community reading experiences I've had recently—I found it fast-paced and enjoyable. Iron Flame was released about a month after I finished Fourth Wing, which likely made to appraise it more fondly than I should have, because it had pacing issues. <br/><br/>The day after Onyx Storm released, I took the legendary Coast Starlight from the Bay Area to Oregon. I was stressed out. Work stress, money stress, dealing with the stress of people I care about. Pretty much all the stress. I really needed a break from life.<br/><br/>Onyx Storm should have been the perfect escape for me. A fantasy world to get lost in! Unfortunately, I couldn't get into it. Instead, I ended up listening to Evermore and staring out the window in the observation car. <br/><br/>Three weeks later, I was nearing the end of the first quarter of the book and somewhat, kinda, starting to get into it. For the record, I'm a fast reader. The nonfiction history book I had been reading was more compelling than Onyx Storm. This was surprising because history has always been my worst subject and the latter has dragons. It was at this point I began suspecting that I would give Onyx Storm three stars (with an extra half star on StoryGraph, because I can).<br/><br/>For me, three stars is a good rating. Not exceptional, but certainly not bad. Just a book, fulfilling its bookly duties. A book that leaves me completely whelmed. Onyx Storm was a fun and entertaining read, it just wasn't wildly entertaining like Fourth Wing. There was something going on with the plot, but I didn't care much about it.<br/><br/>Here's what I liked:<br/><br/>- At this point, I'm more interested in the fantasy than the romance. The book does lean into the fantasy side, which I appreciated.<br/>- The dragons continue to be the best part of the series.<br/>- There's a lot about propaganda, misinformation, and rewriting history that I enjoyed. All the political factions are self-interested and morally gray.<br/>- Once it got past the 50% mark, it picked up! <br/><br/>What didn't quite work for me:<br/><br/>- Pacing: it took about so many pages for the book to pick up. <br/>- Once again, there's a lot of info dumping. It reminds me of the "it's magic school so we're going to give you info dumping in a classroom" that plagued the Harry Potter series. <br/>- On the flip side, Yarros doesn't do a great job of quickly differentiating the characters (and their dragons, and their signets, or whether they're flyers, and who they're banging). I'm sure a lot of people have been obsessively rereading these books, but for me Iron Flame was almost 200 books ago and I would have appreciated better recapping. Yarros should take a page out of Sanderson—he's great at getting everyone caught up again quickly.<br/><br/>Also, for the love of Malek or Dunne or whomever, if you're going to add a map to a fantasy novel you need to include all the places relevant to the story on the map. Please and thank you. <br/><br/>I'll continue to read the Empyrean series, but at this point I'm holding my enthusiasm until it wraps up.

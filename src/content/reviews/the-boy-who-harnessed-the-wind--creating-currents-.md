@@ -1,61 +1,9 @@
 ---
-Book Id: 6419887
-Title: 'The Boy Who Harnessed the Wind: Creating Currents of Electricity and Hope'
-Author: William Kamkwamba
-Author l-f: Kamkwamba, William
-Additional Authors: Bryan Mealer
-ISBN: ="0061730327"
-ISBN13: ="9780061730320"
-My Rating: 4
-Average Rating: 4.08
-Publisher: William Morrow
-Binding: Hardcover
-Number of Pages: 270.0
-Year Published: 2009.0
-Original Publication Year: 2009.0
-Date Read: 2013/08/20
-Date Added: 2013/04/13
-Bookshelves: audiobook, memoir-writers-this-is-your-life, knowledge-is-good, all-around-the-world,
-  relevant-for-teachers
-Bookshelves with positions: audiobook (#11), memoir-writers-this-is-your-life (#38),
-  knowledge-is-good (#107), all-around-the-world (#38), relevant-for-teachers (#35)
-Exclusive Shelf: read
-My Review: 'The Boy Who Harnessed the Wind is not just a story about about an African
-  boy who created a windmill. Of course, it is about that, but it''s also about so
-  much more. This book had been on my radar for awhile, but I never picked it up,
-  mostly because I didn''t see how the story could be that interesting. I was completely
-  wrong, of course. I should have read this ages ago!<br/><br/>Malawi is a country
-  in eastern sub-saharan Africa, the precise location of which I shamefully had to
-  look up (it borders Mozambique, Zambia, and Tanzania, and is home to a large lake,
-  Lake Malawi). In The Boy Who Harnessed the Wind, William Kamkwamba tells the story
-  of his life in a rural farming community. An aspiring scientist, Kamkwamba was forced
-  to drop out of secondary school when a famine struck Malawi (his family ate only
-  one meal per day). He was not able to return to school, because he was unable to
-  pay his school fees of 1200 kwacha, which is the equivalent of US $3.70 (that''s
-  about what I pay for a latte at Starbucks). It''s an honest and interesting look
-  at living in a developing nation, so honest that sometimes I had to set the book
-  aside to think about things. <br/><br/>At the time when Kamkwamba was starving,
-  I was busy driving around an awesome car and begging my parents for my own computer
-  (even though we already had a family iMac that I used constantly). I was never hungry;
-  like many Americans, my family ate meat for dinner almost every night. In Malawi,
-  meat is a special occasion food: in a particularly evocative section of the book,
-  Kamkwamba describes the special meal of chicken and rice reserved only for Christmas
-  dinner. I took school seriously, but I never worried that one day I would no longer
-  be able to go. I had so many opportunities, while Kamkwamba had the deck stacked
-  against him.<br/><br/>There''s a little joke from The Office, where Michael Scott
-  meets someone who was a surgeon back in India. Michael says "I wonder what I would
-  have been back home," his belief in his own exceptionalism so high that he takes
-  it as a given that he would have been even better off had he had to rise out of
-  poverty. When I consider what I would have been if chance had put me in Malawi,
-  I don''t know that I could have made it. With limited access to education, I don''t
-  see how I would have been able to go to college, let alone graduate school. I don''t
-  think I would have shown the initiative to go against the grain and create something
-  from scratch, to try to make my life better. Kamkwamba''s story inspired me, and
-  made me realize how blessed my life has been.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'The Boy Who Harnessed the Wind: Creating Currents of Electricity and Hope'
+author: William Kamkwamba
+rating: 4
+date_read: 2013/08/20
+number_of_pages: 270
 ---
 
 The Boy Who Harnessed the Wind is not just a story about about an African boy who created a windmill. Of course, it is about that, but it's also about so much more. This book had been on my radar for awhile, but I never picked it up, mostly because I didn't see how the story could be that interesting. I was completely wrong, of course. I should have read this ages ago!<br/><br/>Malawi is a country in eastern sub-saharan Africa, the precise location of which I shamefully had to look up (it borders Mozambique, Zambia, and Tanzania, and is home to a large lake, Lake Malawi). In The Boy Who Harnessed the Wind, William Kamkwamba tells the story of his life in a rural farming community. An aspiring scientist, Kamkwamba was forced to drop out of secondary school when a famine struck Malawi (his family ate only one meal per day). He was not able to return to school, because he was unable to pay his school fees of 1200 kwacha, which is the equivalent of US $3.70 (that's about what I pay for a latte at Starbucks). It's an honest and interesting look at living in a developing nation, so honest that sometimes I had to set the book aside to think about things. <br/><br/>At the time when Kamkwamba was starving, I was busy driving around an awesome car and begging my parents for my own computer (even though we already had a family iMac that I used constantly). I was never hungry; like many Americans, my family ate meat for dinner almost every night. In Malawi, meat is a special occasion food: in a particularly evocative section of the book, Kamkwamba describes the special meal of chicken and rice reserved only for Christmas dinner. I took school seriously, but I never worried that one day I would no longer be able to go. I had so many opportunities, while Kamkwamba had the deck stacked against him.<br/><br/>There's a little joke from The Office, where Michael Scott meets someone who was a surgeon back in India. Michael says "I wonder what I would have been back home," his belief in his own exceptionalism so high that he takes it as a given that he would have been even better off had he had to rise out of poverty. When I consider what I would have been if chance had put me in Malawi, I don't know that I could have made it. With limited access to education, I don't see how I would have been able to go to college, let alone graduate school. I don't think I would have shown the initiative to go against the grain and create something from scratch, to try to make my life better. Kamkwamba's story inspired me, and made me realize how blessed my life has been.

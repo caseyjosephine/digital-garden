@@ -1,69 +1,10 @@
 ---
-Book Id: 27415359
-Title: 'Head in the Cloud: Why Knowing Things Still Matters When Facts Are So Easy
+title: 'Head in the Cloud: Why Knowing Things Still Matters When Facts Are So Easy
   to Look Up'
-Author: William Poundstone
-Author l-f: Poundstone, William
-Additional Authors: null
-ISBN: ="0316256544"
-ISBN13: ="9780316256544"
-My Rating: 2
-Average Rating: 3.42
-Publisher: Little, Brown and Company
-Binding: Hardcover
-Number of Pages: 352.0
-Year Published: 2016.0
-Original Publication Year: 2016.0
-Date Read: 2017/09/29
-Date Added: 2017/09/10
-Bookshelves: null
-Bookshelves with positions: null
-Exclusive Shelf: read
-My Review: 'I enjoy feeling superior to others.<br/><br/>Even as a kid, basking in
-  my own precocity was a favored activity. When I got too old to be considered a prodigy,
-  I coped by developing an encyclopedic knowledge of classic rock acts (discographies,
-  influences, associated acts, etc.; bet you didn''t know that Jimmy Page, Eric Clapton,
-  and Jeff Beck each had a short stint as the lead guitarist for The Yardbirds). I''ve
-  got degrees like crazy, and of course I graduated Phi Beta Kappa. I''ve felt insecure
-  about a lot of things, but never intellectual prowess.<br/><br/>William Poundstone
-  starts Head in the Cloud: Why Knowing Things Still Matters When Facts Are So Easy
-  to Look Up with a list of facts (mostly trivial) that millennials purportedly don''t
-  know. I knew most of these facts, probably because I spend much of my time reading
-  books (or getting high and looking stuff up on Wikipedia). Superiority points maintained.<br/><br/>Here''s
-  the thing, though: Poundstone seems to just think of random facts, and quizzes people
-  on how well they know them doing online surveys. He doesn''t have any a priori reason
-  to select any of these facts, nor does he submit his data to appropriate quantitative
-  analysis to see whether his results are meaningful. In some sections, he seems profoundly
-  confused himself. He maligns research in university settings for relying too much
-  on a single, self-selected, demographic (college students), then talks about how
-  great it is to rely on a single, self-selected, demographic of users of online survey
-  websites. <br/><br/>Case in point: there''s a bizarre anecdote in the beginning
-  of the book about how Apple never announces the iPhone''s technical specifications,
-  and that the Random Access Memory on the iPhone ranks in the "tens of gigabytes"
-  range. Of course, Apple does announce specs: my iPhone 6s Plus boasts 2GB of RAM
-  (a far cry from tens of gigabytes). Poundstone asks his online survey crew to estimate
-  how much memory the average iPhone has, but says "I didn''t specify what type of
-  memory (the results make it all too clear that this wouldn''t have mattered much)."
-  But it does matter: as a person interested in tech, I know that many people confuse
-  storage space with memory, and I also know that most of my computers have had orders
-  of magnitude more hard drive storage space than RAM. It''s a huge difference, and
-  without being specific his results are completely meaningless. Ironically, the whole
-  section reads like it was written by someone who was so sure of his incorrect knowledge
-  that he didn''t bother to verify by actually looking it up.<br/><br/>Unfortunately,
-  as the book continues, it becomes all too clear that Poundstone suffers from exactly
-  the same thing he rails against: despite being less-than-knowledgeable about behavioral
-  research methods, he’s overly-confident in his ability to utilize them. He doesn’t
-  seem to even understand the problem with using ad-hoc multiple-comparisons and statistical
-  chance to highlight data that he cherrypicks to support conclusions he had already
-  drawn in the absence of data. His list of sources is also shockingly small, with
-  few studies lending supporting evidence to his idle musings. This book certainly
-  presents a powerful argument that knowledge is important: without an understanding
-  of survey design and statistical analysis, I might not have recognized that this
-  book is complete bullshit.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+author: William Poundstone
+rating: 2
+date_read: 2017/09/29
+number_of_pages: 352
 ---
 
 I enjoy feeling superior to others.<br/><br/>Even as a kid, basking in my own precocity was a favored activity. When I got too old to be considered a prodigy, I coped by developing an encyclopedic knowledge of classic rock acts (discographies, influences, associated acts, etc.; bet you didn't know that Jimmy Page, Eric Clapton, and Jeff Beck each had a short stint as the lead guitarist for The Yardbirds). I've got degrees like crazy, and of course I graduated Phi Beta Kappa. I've felt insecure about a lot of things, but never intellectual prowess.<br/><br/>William Poundstone starts Head in the Cloud: Why Knowing Things Still Matters When Facts Are So Easy to Look Up with a list of facts (mostly trivial) that millennials purportedly don't know. I knew most of these facts, probably because I spend much of my time reading books (or getting high and looking stuff up on Wikipedia). Superiority points maintained.<br/><br/>Here's the thing, though: Poundstone seems to just think of random facts, and quizzes people on how well they know them doing online surveys. He doesn't have any a priori reason to select any of these facts, nor does he submit his data to appropriate quantitative analysis to see whether his results are meaningful. In some sections, he seems profoundly confused himself. He maligns research in university settings for relying too much on a single, self-selected, demographic (college students), then talks about how great it is to rely on a single, self-selected, demographic of users of online survey websites. <br/><br/>Case in point: there's a bizarre anecdote in the beginning of the book about how Apple never announces the iPhone's technical specifications, and that the Random Access Memory on the iPhone ranks in the "tens of gigabytes" range. Of course, Apple does announce specs: my iPhone 6s Plus boasts 2GB of RAM (a far cry from tens of gigabytes). Poundstone asks his online survey crew to estimate how much memory the average iPhone has, but says "I didn't specify what type of memory (the results make it all too clear that this wouldn't have mattered much)." But it does matter: as a person interested in tech, I know that many people confuse storage space with memory, and I also know that most of my computers have had orders of magnitude more hard drive storage space than RAM. It's a huge difference, and without being specific his results are completely meaningless. Ironically, the whole section reads like it was written by someone who was so sure of his incorrect knowledge that he didn't bother to verify by actually looking it up.<br/><br/>Unfortunately, as the book continues, it becomes all too clear that Poundstone suffers from exactly the same thing he rails against: despite being less-than-knowledgeable about behavioral research methods, he’s overly-confident in his ability to utilize them. He doesn’t seem to even understand the problem with using ad-hoc multiple-comparisons and statistical chance to highlight data that he cherrypicks to support conclusions he had already drawn in the absence of data. His list of sources is also shockingly small, with few studies lending supporting evidence to his idle musings. This book certainly presents a powerful argument that knowledge is important: without an understanding of survey design and statistical analysis, I might not have recognized that this book is complete bullshit.

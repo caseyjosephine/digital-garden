@@ -1,54 +1,9 @@
 ---
-Book Id: 28815474
-Title: The Couple Next Door
-Author: Shari Lapena
-Author l-f: Lapena, Shari
-Additional Authors: null
-ISBN: ="0735221081"
-ISBN13: ="9780735221086"
-My Rating: 2
-Average Rating: 3.8
-Publisher: Pamela Dorman Books
-Binding: Hardcover
-Number of Pages: 308.0
-Year Published: 2016.0
-Original Publication Year: 2016.0
-Date Read: 2017/01/12
-Date Added: 2017/01/10
-Bookshelves: mysterious, i-don-t-get-the-hype
-Bookshelves with positions: mysterious (#3), i-don-t-get-the-hype (#18)
-Exclusive Shelf: read
-My Review: There was a weird point in time during the late 90s when the movie studios
-  just started producing two of the same movie. Maybe all the plots really have been
-  used up, or maybe it's just hard to come up with original ideas when you're a hack
-  screenwriter who turns out uninspired scripts to support a heavy cocaine problem.
-  Who knows. All I know is that Deep Impact was way less exciting than Armageddon,
-  and that Volcano was much more fun than Dante's Peak because in Volcano you get
-  to watch as LA is destroyed, and that Deep Blue Sea handily beats Lake Placid because
-  Deep Blue Sea has an <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi76b7SlLjRAhWJs1QKHd5SBGcQyCkIHzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWkKb9OvXXvk&usg=AFQjCNHWeEVlAbJUmsbDuRFlUYuBuVlYWQ&sig2=llB3P5cUxRevPI79tBao-Q">excellent
-  LL Cool J theme song</a> and Lake Placid was a complete bore. Whatever.<br/><br/>Anyway,
-  I feel that we now inhabit a similar cultural sphere, except now every former English
-  teacher thinks they can earn a quick buck by writing the exact same psychological
-  thriller. And, much like the asteroid/volcano/aquatic predator movies, they all
-  kind of suck. And, at this point, I think I can describe a graph of the entertainment
-  value of these books (y-axis) over time (x-axis) as a negative exponential function
-  with a moderately high y-intercept (I'll choose to set x=0 at approximately the
-  time Gone Girl came out) that has now reached an asymptote near the x-axis that
-  will continue to creep, ever so slightly, towards zero entertainment value as time
-  approaches infinity.<br/><br/>The TL;DR of The Couple Next Door is that it's a thriller
-  about rich people with a baby, which appears to be written by someone who has never
-  met parents, or rich people, or really just people in general. If you like your
-  heavy-handed exposition with a side of unbelievable plot and just a soupçon of psychological
-  realism, then I guess this is the book for you! Now, if you excuse me, I'll be busy
-  writing a thriller about a woman who has to brave mutant sharks to force an underwater
-  volcano to erupt in a brave attempt to cause a chain reaction that will prevent
-  an asteroid from crashing into Earth because hand-wavy science. Which, given what
-  passes for characterization these days, will probably be hailed as a contemporary
-  Middlemarch.
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: The Couple Next Door
+author: Shari Lapena
+rating: 2
+date_read: 2017/01/12
+number_of_pages: 308
 ---
 
 There was a weird point in time during the late 90s when the movie studios just started producing two of the same movie. Maybe all the plots really have been used up, or maybe it's just hard to come up with original ideas when you're a hack screenwriter who turns out uninspired scripts to support a heavy cocaine problem. Who knows. All I know is that Deep Impact was way less exciting than Armageddon, and that Volcano was much more fun than Dante's Peak because in Volcano you get to watch as LA is destroyed, and that Deep Blue Sea handily beats Lake Placid because Deep Blue Sea has an <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi76b7SlLjRAhWJs1QKHd5SBGcQyCkIHzAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWkKb9OvXXvk&usg=AFQjCNHWeEVlAbJUmsbDuRFlUYuBuVlYWQ&sig2=llB3P5cUxRevPI79tBao-Q">excellent LL Cool J theme song</a> and Lake Placid was a complete bore. Whatever.<br/><br/>Anyway, I feel that we now inhabit a similar cultural sphere, except now every former English teacher thinks they can earn a quick buck by writing the exact same psychological thriller. And, much like the asteroid/volcano/aquatic predator movies, they all kind of suck. And, at this point, I think I can describe a graph of the entertainment value of these books (y-axis) over time (x-axis) as a negative exponential function with a moderately high y-intercept (I'll choose to set x=0 at approximately the time Gone Girl came out) that has now reached an asymptote near the x-axis that will continue to creep, ever so slightly, towards zero entertainment value as time approaches infinity.<br/><br/>The TL;DR of The Couple Next Door is that it's a thriller about rich people with a baby, which appears to be written by someone who has never met parents, or rich people, or really just people in general. If you like your heavy-handed exposition with a side of unbelievable plot and just a soupçon of psychological realism, then I guess this is the book for you! Now, if you excuse me, I'll be busy writing a thriller about a woman who has to brave mutant sharks to force an underwater volcano to erupt in a brave attempt to cause a chain reaction that will prevent an asteroid from crashing into Earth because hand-wavy science. Which, given what passes for characterization these days, will probably be hailed as a contemporary Middlemarch.

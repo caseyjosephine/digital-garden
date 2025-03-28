@@ -1,53 +1,9 @@
 ---
-Book Id: 11224859
-Title: Tinker, Tailor, Soldier, Spy
-Author: John Le Carré
-Author l-f: Carré, John Le
-Additional Authors: null
-ISBN: =""
-ISBN13: =""
-My Rating: 2
-Average Rating: 4.06
-Publisher: Penguin
-Binding: ebook
-Number of Pages: 422.0
-Year Published: 2011.0
-Original Publication Year: 1974.0
-Date Read: 2016/01/22
-Date Added: 2012/11/14
-Bookshelves: null
-Bookshelves with positions: null
-Exclusive Shelf: read
-My Review: 'Have you ever been to a work party with your significant other? Generally,
-  these events tend to have booze, which is a bonus, but with that booze comes shop
-  talk. You might find yourself standing in a circle, surrounded by people who are
-  eager to discuss the minutia of their workplace.<br/><br/>So you kind of nod along
-  and slowly drink your wine while they talk about the computer systems they use,
-  or something that Vanessa in accounting emailed around to everyone, and as the conversation
-  turns to systemic issues with a particular distributor you realize that you''re
-  really going to have to go heavier on the wine because this shit is boring and,
-  even though you can mostly follow what''s going on you just don''t care that much
-  about all the systems and players involved.<br/><br/>Tinker, Tailor, Soldier, Spy
-  is a lot like being trapped at that work party for hours on end, with minimal amounts
-  of booze. There are a few characters discussed, although I hesitate to use the word
-  character because they''re more like two-dimensional hologram approximations of
-  humans. It''s a little bit like when you can never tell the difference between Jessica
-  from sales and Jennifer in marketing, because both of them, separately, trapped
-  you in generic conversations about pumpkin spice lattes and their gluten issues
-  and how aghast they are that you''ve never seen Scandal. <br/><br/>When you don''t
-  care about the people, it really lowers the stakes. So what if Jessica has totally
-  screwed up her Salesforce Pipeline? Jessica is inane and not worthy of the cognitive
-  resources required to process the conversation everyone else is having about her.<br/><br/>Of
-  course, the best way to diffuse the shop talk is to get everyone drunk and then
-  start making increasingly inappropriate "that''s what she said" jokes, hopefully
-  culminating in a lewd and inappropriate "that''s funny, that''s what your mom said
-  to me last night" remark. I can''t think of an appropriate fix for this book, though.
-  Maybe the best thing to do is just compare it to Alias, as more evidence that Alias
-  is the best spy story of all time. '
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Tinker, Tailor, Soldier, Spy
+author: John Le Carré
+rating: 2
+date_read: 2016/01/22
+number_of_pages: 422
 ---
 
 Have you ever been to a work party with your significant other? Generally, these events tend to have booze, which is a bonus, but with that booze comes shop talk. You might find yourself standing in a circle, surrounded by people who are eager to discuss the minutia of their workplace.<br/><br/>So you kind of nod along and slowly drink your wine while they talk about the computer systems they use, or something that Vanessa in accounting emailed around to everyone, and as the conversation turns to systemic issues with a particular distributor you realize that you're really going to have to go heavier on the wine because this shit is boring and, even though you can mostly follow what's going on you just don't care that much about all the systems and players involved.<br/><br/>Tinker, Tailor, Soldier, Spy is a lot like being trapped at that work party for hours on end, with minimal amounts of booze. There are a few characters discussed, although I hesitate to use the word character because they're more like two-dimensional hologram approximations of humans. It's a little bit like when you can never tell the difference between Jessica from sales and Jennifer in marketing, because both of them, separately, trapped you in generic conversations about pumpkin spice lattes and their gluten issues and how aghast they are that you've never seen Scandal. <br/><br/>When you don't care about the people, it really lowers the stakes. So what if Jessica has totally screwed up her Salesforce Pipeline? Jessica is inane and not worthy of the cognitive resources required to process the conversation everyone else is having about her.<br/><br/>Of course, the best way to diffuse the shop talk is to get everyone drunk and then start making increasingly inappropriate "that's what she said" jokes, hopefully culminating in a lewd and inappropriate "that's funny, that's what your mom said to me last night" remark. I can't think of an appropriate fix for this book, though. Maybe the best thing to do is just compare it to Alias, as more evidence that Alias is the best spy story of all time. 

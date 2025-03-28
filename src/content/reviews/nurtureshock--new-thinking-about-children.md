@@ -1,67 +1,9 @@
 ---
-Book Id: 6496815
-Title: 'NurtureShock: New Thinking About Children'
-Author: Po Bronson
-Author l-f: Bronson, Po
-Additional Authors: Ashley Merryman
-ISBN: ="0446504122"
-ISBN13: ="9780446504126"
-My Rating: 4
-Average Rating: 4.03
-Publisher: Twelve
-Binding: Hardcover
-Number of Pages: 336.0
-Year Published: 2009.0
-Original Publication Year: 2008.0
-Date Read: 2016/03/29
-Date Added: 2016/03/27
-Bookshelves: knowledge-is-good, cognitive-scientists-do-it-in-lab, relevant-for-teachers
-Bookshelves with positions: knowledge-is-good (#142), cognitive-scientists-do-it-in-lab
-  (#37), relevant-for-teachers (#49)
-Exclusive Shelf: read
-My Review: '"They fuck you up, your mum and dad.<br/>They may not mean to, but they
-  do.<br/>They fill you with the faults they had<br/>And add some extra, just for
-  you."<br/><br/>-Philip Larkin, from This Be The Verse<br/><br/>A few years back,
-  I caught an informercial for a product called "Your Baby Can Read.” Supposedly,
-  the program can teach babies to read before they’re even able to talk, despite the
-  fact that scientific evidence strongly suggests that babies can’t learn language
-  from television. The product seems to have been pulled by the producer, but that
-  hasn’t stopped me from using the hilarious infomercial when teaching psychology.
-  It’s just another example of the flawed idea that children need to be doing everything
-  faster and earlier, with no regard to whether reading Harry Potter is developmentally
-  appropriate at age two.<br/><br/>I was not an early reader. I wasn’t a particularly
-  late reader either, but I certainly wasn’t reading before kindergarten, or even
-  much in kindergarten. My parents read to me, and sometimes I memorized books so
-  that I could parrot them back to my parents, but that was pretty much it. Around
-  first grade I had some sort of a-ha moment, and, after that, I read voraciously.
-  Still do. This was a pretty normal developmental trajectory. Now, with increased
-  pressure on parents to put their kids on the Harvard track by preschool, my reading
-  would probably be a huge cause for concern.<br/><br/>Developmental Psychology is
-  one of the most relevant classes that most people skip in college. College students
-  spent so much of of their time trying to figure out how to <i>not</i> accidentally
-  create a human fetus that they seem to forget that this might be something they’ll
-  want to do on purpose later in life. One great opportunity offered by Developmental
-  Psychology classes is understanding exactly what your own parents did wrong while
-  raising you; this is not because it comes in handy during Thanksgiving arguments,
-  but because it helps to humanize your parents. They were just doing the best they
-  could, but they didn’t know what they were doing. No one does.<br/><br/>More importantly,
-  though, Developmental Psychology clarifies some of the bizarre processes by which
-  children learn and grow. It can help future parents realize that it’s better to
-  provide clear rules instead of trying to be your kid’s friend, although it’s best
-  to keep these rules reasonable and open to negotiation. It can help people understand
-  what so-called normal development really looks like, so that they’ll be able to
-  tell when there’s actually a problem. Hopefully, it can help quell the crazy over-scheduling
-  of kids, which I have to believe wouldn’t be happening if parents understood how
-  important sleep actually is.<br/><br/>Anyway, this book is not as good as a Developmental
-  Psychology class, and there were a few points where I didn’t feel like they explained
-  the research literature as well as I would have liked, but it’s still a good resource
-  for anyone who has to deal with kids. Of course, my boyfriend was very happy to
-  hear that I was only reading this for teaching purposes. Not surprising, really.
-  Parenting sounds terrifying.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'NurtureShock: New Thinking About Children'
+author: Po Bronson
+rating: 4
+date_read: 2016/03/29
+number_of_pages: 336
 ---
 
 "They fuck you up, your mum and dad.<br/>They may not mean to, but they do.<br/>They fill you with the faults they had<br/>And add some extra, just for you."<br/><br/>-Philip Larkin, from This Be The Verse<br/><br/>A few years back, I caught an informercial for a product called "Your Baby Can Read.” Supposedly, the program can teach babies to read before they’re even able to talk, despite the fact that scientific evidence strongly suggests that babies can’t learn language from television. The product seems to have been pulled by the producer, but that hasn’t stopped me from using the hilarious infomercial when teaching psychology. It’s just another example of the flawed idea that children need to be doing everything faster and earlier, with no regard to whether reading Harry Potter is developmentally appropriate at age two.<br/><br/>I was not an early reader. I wasn’t a particularly late reader either, but I certainly wasn’t reading before kindergarten, or even much in kindergarten. My parents read to me, and sometimes I memorized books so that I could parrot them back to my parents, but that was pretty much it. Around first grade I had some sort of a-ha moment, and, after that, I read voraciously. Still do. This was a pretty normal developmental trajectory. Now, with increased pressure on parents to put their kids on the Harvard track by preschool, my reading would probably be a huge cause for concern.<br/><br/>Developmental Psychology is one of the most relevant classes that most people skip in college. College students spent so much of of their time trying to figure out how to <i>not</i> accidentally create a human fetus that they seem to forget that this might be something they’ll want to do on purpose later in life. One great opportunity offered by Developmental Psychology classes is understanding exactly what your own parents did wrong while raising you; this is not because it comes in handy during Thanksgiving arguments, but because it helps to humanize your parents. They were just doing the best they could, but they didn’t know what they were doing. No one does.<br/><br/>More importantly, though, Developmental Psychology clarifies some of the bizarre processes by which children learn and grow. It can help future parents realize that it’s better to provide clear rules instead of trying to be your kid’s friend, although it’s best to keep these rules reasonable and open to negotiation. It can help people understand what so-called normal development really looks like, so that they’ll be able to tell when there’s actually a problem. Hopefully, it can help quell the crazy over-scheduling of kids, which I have to believe wouldn’t be happening if parents understood how important sleep actually is.<br/><br/>Anyway, this book is not as good as a Developmental Psychology class, and there were a few points where I didn’t feel like they explained the research literature as well as I would have liked, but it’s still a good resource for anyone who has to deal with kids. Of course, my boyfriend was very happy to hear that I was only reading this for teaching purposes. Not surprising, really. Parenting sounds terrifying.

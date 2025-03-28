@@ -1,56 +1,9 @@
 ---
-Book Id: 271276
-Title: Middlemarch
-Author: George Eliot
-Author l-f: Eliot, George
-Additional Authors: Rosemary Ashton
-ISBN: ="0141439548"
-ISBN13: ="9780141439549"
-My Rating: 5
-Average Rating: 4.03
-Publisher: Penguin Classics
-Binding: Paperback
-Number of Pages: 853.0
-Year Published: 2003.0
-Original Publication Year: 1872.0
-Date Read: 2013/01/29
-Date Added: 2012/11/14
-Bookshelves: curmudgeon-canon, the-serious-lit, dear-ones, books-that-can-double-as-weapons,
-  1001-books
-Bookshelves with positions: curmudgeon-canon (#25), the-serious-lit (#129), dear-ones
-  (#30), books-that-can-double-as-weapons (#29), 1001-books (#35)
-Exclusive Shelf: read
-My Review: 'Wow.<br/><br/>Alright, so I knew Middlemarch would be great. After all,
-  Harold Bloom cites it (along with [b:Bleak House|31242|Bleak House|Charles Dickens|http://d.gr-assets.com/books/1280113147s/31242.jpg|2960365])
-  as "the canonical novel" and Virginia Woolf called it "magnificent." However, I
-  did not expect to finish this 853 page behemoth in seven days, and I certainly did
-  not expect the writing to be quite so lovely. I was expecting writing similar to
-  Austen or the Bronte sisters; what I got was Tolstoy in English, with just a dash
-  of Proust.<br/><br/>It''s hard to write this review without comparing Eliot to Tolstoy:
-  a fair comparison, as they were contemporaries, and realist authors. [b:War and
-  Peace|656|War and Peace|Leo Tolstoy|http://d.gr-assets.com/books/1222897284s/656.jpg|4912783]
-  and [b:Middlemarch: A Study of Provincial Life|19089|Middlemarch  A Study of Provincial
-  Life|George Eliot|http://d.gr-assets.com/books/1309202283s/19089.jpg|1461747] were
-  published around the same time, and both explore the early 19th century through
-  the eyes of late 19th century writers. Many people at least give lip service to
-  the fact that they should probably get around to reading War and Peace, although
-  I don''t often hear the same said about Middlemarch. That''s too bad, as us anglophones
-  have the marvelous opportunity of reading such a book in our native tongue.<br/><br/>Middlemarch
-  is surprisingly modern: one of the main characters, Dorothea, exhibits character
-  growth by slowly becoming less morally righteous. At one point, I found myself wishing
-  that Dorothea would stop being so upright and just get laid by someone attractive
-  for a change. The interesting thing is that this moral fall is a good thing. George
-  Eliot was no Edith Warton, and Dorothea ends up much better off that Lily Bart.
-  Eliot explains that her characters "were the mixed result of a young and noble impulse
-  struggling amidst the conditions of an imperfect social state, in which great feelings
-  will often that the aspect of error, and great fait the aspect of illusion." You
-  can bet she included all her references to [b:The Pilgrim''s Progress|29797|The
-  Pilgrim''s Progress|John Bunyan|http://d.gr-assets.com/books/1328865403s/29797.jpg|1960084]
-  with a wink.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Middlemarch
+author: George Eliot
+rating: 5
+date_read: 2013/01/29
+number_of_pages: 853
 ---
 
 Wow.<br/><br/>Alright, so I knew Middlemarch would be great. After all, Harold Bloom cites it (along with [b:Bleak House|31242|Bleak House|Charles Dickens|http://d.gr-assets.com/books/1280113147s/31242.jpg|2960365]) as "the canonical novel" and Virginia Woolf called it "magnificent." However, I did not expect to finish this 853 page behemoth in seven days, and I certainly did not expect the writing to be quite so lovely. I was expecting writing similar to Austen or the Bronte sisters; what I got was Tolstoy in English, with just a dash of Proust.<br/><br/>It's hard to write this review without comparing Eliot to Tolstoy: a fair comparison, as they were contemporaries, and realist authors. [b:War and Peace|656|War and Peace|Leo Tolstoy|http://d.gr-assets.com/books/1222897284s/656.jpg|4912783] and [b:Middlemarch: A Study of Provincial Life|19089|Middlemarch  A Study of Provincial Life|George Eliot|http://d.gr-assets.com/books/1309202283s/19089.jpg|1461747] were published around the same time, and both explore the early 19th century through the eyes of late 19th century writers. Many people at least give lip service to the fact that they should probably get around to reading War and Peace, although I don't often hear the same said about Middlemarch. That's too bad, as us anglophones have the marvelous opportunity of reading such a book in our native tongue.<br/><br/>Middlemarch is surprisingly modern: one of the main characters, Dorothea, exhibits character growth by slowly becoming less morally righteous. At one point, I found myself wishing that Dorothea would stop being so upright and just get laid by someone attractive for a change. The interesting thing is that this moral fall is a good thing. George Eliot was no Edith Warton, and Dorothea ends up much better off that Lily Bart. Eliot explains that her characters "were the mixed result of a young and noble impulse struggling amidst the conditions of an imperfect social state, in which great feelings will often that the aspect of error, and great fait the aspect of illusion." You can bet she included all her references to [b:The Pilgrim's Progress|29797|The Pilgrim's Progress|John Bunyan|http://d.gr-assets.com/books/1328865403s/29797.jpg|1960084] with a wink.

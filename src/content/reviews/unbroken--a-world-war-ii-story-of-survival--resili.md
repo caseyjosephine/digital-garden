@@ -1,43 +1,9 @@
 ---
-Book Id: 8664353
-Title: 'Unbroken: A World War II Story of Survival, Resilience and Redemption'
-Author: Laura Hillenbrand
-Author l-f: Hillenbrand, Laura
-Additional Authors: null
-ISBN: ="1400064163"
-ISBN13: ="9781400064168"
-My Rating: 4
-Average Rating: 4.39
-Publisher: Random House
-Binding: Hardcover
-Number of Pages: 475.0
-Year Published: 2010.0
-Original Publication Year: 2010.0
-Date Read: 2013/12/16
-Date Added: 2013/11/20
-Bookshelves: all-around-the-world, knowledge-is-good, veridical
-Bookshelves with positions: all-around-the-world (#44), knowledge-is-good (#114),
-  veridical (#31)
-Exclusive Shelf: read
-My Review: This really is an incredible story of life in the midst of World War II.
-  When I think of the second world war, I mostly imagine the war in Europe. After
-  all, most of the books, films, and related cultural narratives focus on Europe.
-  However, the United States was only drawn into the war after an attack made by Japan,
-  and the war didn't actually end until Japan surrendered, so there really should
-  be more of a focus on the Pacific theater, especially in the US. <br/><br/>Hillenbrand's
-  true story of Louis Zamperini, whose Army Air Force plane was shot down during a
-  rescue mission in the Pacific, brings much-needed attention to the other side of
-  the war. I was shocked and saddened by the terrible conditions in Japanese prisoner
-  of war camps, of which I knew nothing. Because Japan has been an ally of the United
-  States for so long, much of the Japanese story (the horrors inflicted on allied
-  soldiers captured by the Japanese, as well as the camps to which Japanese-Americans
-  were sent to back home) as been swept under the rug. Hillenbrand writes incredibly
-  well, and I expect that this book will appeal even to those who don't normally read
-  history.
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Unbroken: A World War II Story of Survival, Resilience and Redemption'
+author: Laura Hillenbrand
+rating: 4
+date_read: 2013/12/16
+number_of_pages: 475
 ---
 
 This really is an incredible story of life in the midst of World War II. When I think of the second world war, I mostly imagine the war in Europe. After all, most of the books, films, and related cultural narratives focus on Europe. However, the United States was only drawn into the war after an attack made by Japan, and the war didn't actually end until Japan surrendered, so there really should be more of a focus on the Pacific theater, especially in the US. <br/><br/>Hillenbrand's true story of Louis Zamperini, whose Army Air Force plane was shot down during a rescue mission in the Pacific, brings much-needed attention to the other side of the war. I was shocked and saddened by the terrible conditions in Japanese prisoner of war camps, of which I knew nothing. Because Japan has been an ally of the United States for so long, much of the Japanese story (the horrors inflicted on allied soldiers captured by the Japanese, as well as the camps to which Japanese-Americans were sent to back home) as been swept under the rug. Hillenbrand writes incredibly well, and I expect that this book will appeal even to those who don't normally read history.

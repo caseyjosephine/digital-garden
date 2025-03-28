@@ -1,59 +1,9 @@
 ---
-Book Id: 13012756
-Title: Love Story (Love Story series Book 1)
-Author: Erich Segal
-Author l-f: Segal, Erich
-Additional Authors: null
-ISBN: ="0062130099"
-ISBN13: ="9780062130099"
-My Rating: 2
-Average Rating: 3.65
-Publisher: Avon
-Binding: Kindle Edition
-Number of Pages: 134.0
-Year Published: 2011.0
-Original Publication Year: 1969.0
-Date Read: 2014/06/23
-Date Added: 2014/06/23
-Bookshelves: i-don-t-get-the-hype, the-not-so-serious-lit, your-book-sucked
-Bookshelves with positions: i-don-t-get-the-hype (#12), the-not-so-serious-lit (#123),
-  your-book-sucked (#16)
-Exclusive Shelf: read
-My Review: 'Ugh, this book. Oliver Barrett is an entitled dudebro who hates his father
-  for reasons that include paying for his entire Harvard education and giving him
-  every opportunity in life. He meets Jenny, who is supposed to come across as clever
-  and poor, but who mostly just swears like a booth full of CBOE traders after a few
-  too many 4:00pm cocktails at Ceres. Anyway, there''s a large section full of whining,
-  followed by a trite cancer plot obviously constructed to tug at the heartstrings
-  of readers in a charmless, commercial sort of way. Unsurprisingly, it was a big
-  success.<br/><br/>Related, I found it pretty screwy that <spoiler>when Jenny''s
-  doctor finds out she has freaking cancer, he just calls up her husband, tells him,
-  and then conspires with him not to tell her. I guess having knowledge of her own
-  condition would just worry her poor little female soul. I mean, what the heck is
-  up with that? Boy, am I glad that HIPAA now exists and women are (mostly) considered
-  people.</spoiler><br/><br/>The book itself is mostly flat and reads like a novelization,
-  likely because it was written as a novelization of the screenplay. Oh yeah, did
-  you know there was a movie? The movie was supposed to be pretty good, but, unfortunately,
-  it''s just as trite and commercial as the book. I guess an entitled dudebro is going
-  to be an entitled dudebro regardless of how good the cinematography is (note, the
-  cinematography is super nice). I mean, it makes the plot of The Notebook feel like
-  a super-layered Altman film by comparison.<br/><br/>When deciding which sucked more,
-  book or movie, well, the book was definitely worse. Besides the aforementioned cinematography,
-  the movie had one hell of a score (no score was included with the book), and Ali
-  MacGraw wore some nice outfits that I would like to duplicate (notably, a long-sleeved
-  red silk dress that cinched at the waist, that I would love to find at a vintage
-  shop so I could wear it to a holiday party, but I''d probably add studded black
-  heels and a black motorcycle jacket to make it look more modern because that''s
-  what I do). Also, I was able to make some progress on the socks that I''m knitting
-  whilst watching the movie, whereas the book came with no opportunity to knit socks.
-  <br/><br/>Did you know the entitled dudebro is based on Al Gore and Tommy Lee Jones?
-  Which I find amusing, partially because impending doomsday via climate change is
-  at least more upbeat, partially because I wish I had one of those mind eraser things
-  that Tommy Lee Jones'' character uses in Men in Black, to rid my mind of this drivel. '
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Love Story (Love Story series Book 1)
+author: Erich Segal
+rating: 2
+date_read: 2014/06/23
+number_of_pages: 134
 ---
 
 Ugh, this book. Oliver Barrett is an entitled dudebro who hates his father for reasons that include paying for his entire Harvard education and giving him every opportunity in life. He meets Jenny, who is supposed to come across as clever and poor, but who mostly just swears like a booth full of CBOE traders after a few too many 4:00pm cocktails at Ceres. Anyway, there's a large section full of whining, followed by a trite cancer plot obviously constructed to tug at the heartstrings of readers in a charmless, commercial sort of way. Unsurprisingly, it was a big success.<br/><br/>Related, I found it pretty screwy that <spoiler>when Jenny's doctor finds out she has freaking cancer, he just calls up her husband, tells him, and then conspires with him not to tell her. I guess having knowledge of her own condition would just worry her poor little female soul. I mean, what the heck is up with that? Boy, am I glad that HIPAA now exists and women are (mostly) considered people.</spoiler><br/><br/>The book itself is mostly flat and reads like a novelization, likely because it was written as a novelization of the screenplay. Oh yeah, did you know there was a movie? The movie was supposed to be pretty good, but, unfortunately, it's just as trite and commercial as the book. I guess an entitled dudebro is going to be an entitled dudebro regardless of how good the cinematography is (note, the cinematography is super nice). I mean, it makes the plot of The Notebook feel like a super-layered Altman film by comparison.<br/><br/>When deciding which sucked more, book or movie, well, the book was definitely worse. Besides the aforementioned cinematography, the movie had one hell of a score (no score was included with the book), and Ali MacGraw wore some nice outfits that I would like to duplicate (notably, a long-sleeved red silk dress that cinched at the waist, that I would love to find at a vintage shop so I could wear it to a holiday party, but I'd probably add studded black heels and a black motorcycle jacket to make it look more modern because that's what I do). Also, I was able to make some progress on the socks that I'm knitting whilst watching the movie, whereas the book came with no opportunity to knit socks. <br/><br/>Did you know the entitled dudebro is based on Al Gore and Tommy Lee Jones? Which I find amusing, partially because impending doomsday via climate change is at least more upbeat, partially because I wish I had one of those mind eraser things that Tommy Lee Jones' character uses in Men in Black, to rid my mind of this drivel. 

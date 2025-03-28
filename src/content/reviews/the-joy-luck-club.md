@@ -1,62 +1,9 @@
 ---
-Book Id: 7763
-Title: The Joy Luck Club
-Author: Amy Tan
-Author l-f: Tan, Amy
-Additional Authors: null
-ISBN: =""
-ISBN13: =""
-My Rating: 4
-Average Rating: 3.97
-Publisher: Penguin (Non-Classics)
-Binding: Paperback
-Number of Pages: 288.0
-Year Published: 2006.0
-Original Publication Year: 1989.0
-Date Read: 2014/07/14
-Date Added: 2014/07/19
-Bookshelves: all-around-the-world
-Bookshelves with positions: all-around-the-world (#52)
-Exclusive Shelf: read
-My Review: 'I had a hard time figuring out a rating for this one. I thought it was
-  an interesting read, and I quite enjoyed the personal stories of the characters.
-  However, I found the technical aspects to be rather lacking: the progression from
-  chapter to chapter was somewhat random, and some of the plot lines ended somewhat
-  abruptly, in a way that didn''t necessarily seem intentional. So there''s that.<br/><br/>But,
-  a few things push more towards 4 stars, as opposed to 3 stars. Most of them are
-  subjective, but such is life. There''s the (not insignificant) fact that I just
-  moved to San Francisco, from Chicago, which seems like a huge move until you think
-  about the fact that I was born and raised in Southern Californian, and I''ve been
-  inching further north since I turned 18. And the story of San Francisco is deeply
-  intertwined with the story of immigrants from China. Diversity is one of the things
-  that pulled me back to the Golden State, but I''ve always looked at Chinese immigration
-  as an outsider. It was interesting to peek into a world that is right there in front
-  of me, but that also doesn''t include me.<br/><br/>A surprisingly interesting aspect
-  of the book is that it''s about baby-boomers, and their relationships with their
-  parents. The book was written in 1989, so I should have thought about this, but
-  I didn''t, not really. And it''s interesting, because my parents are boomers, and
-  I was born in the 80''s, but it''s hard for me to understand what life was like
-  for them when they were around my age. I''m ever-so-slightly younger than the young
-  protagonists in the book, but part of me gets where they''re coming from: growing
-  up as fundamentally different from their parents (for the protagonists, this is
-  doubly so, because they are also first generation Americans), and coming of age
-  in a time where the world has changed. However, it''s also interesting to see how
-  the world has changed since then as well. Amy Tan has her thirty-something protagonists
-  living a life in which they''re clearly more successful than their parents: they
-  drive nice cars, they have power jobs, they own expensive homes in the suburbs.
-  This is the American dream. Most of the people I know count themselves as lucky
-  if they have any job at all, and I don''t really know anyone who is more successful
-  than their parents. I mean, my biggest financial goal in life is to have an in-unit
-  washer dryer. <br/><br/>To make a rambling review short, I''m giving this four stars
-  because, strangely enough, it has given me some interesting insight into my parents''
-  generation. And I love San Francisco, even though I can''t afford to live here.
-  And maybe, someday, I''ll have a washer dryer, but until then I''m holding out for
-  a job that will pay me enough to at least afford laundry service. Because that''s
-  the new American dream.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: The Joy Luck Club
+author: Amy Tan
+rating: 4
+date_read: 2014/07/14
+number_of_pages: 288
 ---
 
 I had a hard time figuring out a rating for this one. I thought it was an interesting read, and I quite enjoyed the personal stories of the characters. However, I found the technical aspects to be rather lacking: the progression from chapter to chapter was somewhat random, and some of the plot lines ended somewhat abruptly, in a way that didn't necessarily seem intentional. So there's that.<br/><br/>But, a few things push more towards 4 stars, as opposed to 3 stars. Most of them are subjective, but such is life. There's the (not insignificant) fact that I just moved to San Francisco, from Chicago, which seems like a huge move until you think about the fact that I was born and raised in Southern Californian, and I've been inching further north since I turned 18. And the story of San Francisco is deeply intertwined with the story of immigrants from China. Diversity is one of the things that pulled me back to the Golden State, but I've always looked at Chinese immigration as an outsider. It was interesting to peek into a world that is right there in front of me, but that also doesn't include me.<br/><br/>A surprisingly interesting aspect of the book is that it's about baby-boomers, and their relationships with their parents. The book was written in 1989, so I should have thought about this, but I didn't, not really. And it's interesting, because my parents are boomers, and I was born in the 80's, but it's hard for me to understand what life was like for them when they were around my age. I'm ever-so-slightly younger than the young protagonists in the book, but part of me gets where they're coming from: growing up as fundamentally different from their parents (for the protagonists, this is doubly so, because they are also first generation Americans), and coming of age in a time where the world has changed. However, it's also interesting to see how the world has changed since then as well. Amy Tan has her thirty-something protagonists living a life in which they're clearly more successful than their parents: they drive nice cars, they have power jobs, they own expensive homes in the suburbs. This is the American dream. Most of the people I know count themselves as lucky if they have any job at all, and I don't really know anyone who is more successful than their parents. I mean, my biggest financial goal in life is to have an in-unit washer dryer. <br/><br/>To make a rambling review short, I'm giving this four stars because, strangely enough, it has given me some interesting insight into my parents' generation. And I love San Francisco, even though I can't afford to live here. And maybe, someday, I'll have a washer dryer, but until then I'm holding out for a job that will pay me enough to at least afford laundry service. Because that's the new American dream.

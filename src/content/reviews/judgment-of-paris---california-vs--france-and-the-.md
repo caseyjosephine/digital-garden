@@ -1,82 +1,10 @@
 ---
-Book Id: 89159
-Title: 'Judgment of Paris:  California vs. France and the Historic 1976 Paris Tasting
+title: 'Judgment of Paris:  California vs. France and the Historic 1976 Paris Tasting
   That Revolutionized Wine'
-Author: George M. Taber
-Author l-f: Taber, George M.
-Additional Authors: null
-ISBN: ="0743297326"
-ISBN13: ="9780743297325"
-My Rating: 4
-Average Rating: 3.99
-Publisher: Scribner
-Binding: Paperback
-Number of Pages: 350.0
-Year Published: 2006.0
-Original Publication Year: 2005.0
-Date Read: 2015/01/12
-Date Added: 2014/02/24
-Bookshelves: in-vino-veritas, knowledge-is-good
-Bookshelves with positions: in-vino-veritas (#4), knowledge-is-good (#133)
-Exclusive Shelf: read
-My Review: ' The Napa Valley is one of the most important wine regions in the world,
-  and it''s true that the wine is bottled poetry. But back before it had enough street
-  cred that convinced suckers like me to spend $40 for a few measly 2-ounce pours,
-  it had to convince the French that California could make more than cloying sweet
-  wines and jugs of wine made with the vile but prolific Alicante Bouschet grape (side
-  note: I''ve only grape as a low percentage blender in Ridge wines, but I really
-  want to try it in larger amounts as it seems like a weird grape, and I like weird).<br/><br/>Taber
-  doesn''t shy away from talking about the more technical aspects of wine-making,
-  which makes me happy: I geek out a lot about malolactic fermentation, and I find
-  taking into account degrees of Brix unrelenting fascinating. If you don''t know
-  what those words mean, then stuff is going to go over your head. So here''s a tasting
-  primer, materials for which you can get at Trader Joe''s for approximately $40.<br/><br/><b>Malolactic
-  fermentation:</b> grab an apple, some butter, a baguette, a bottle of Jadot Macon
-  Villages Chardonnay (a French unbaked Chardonnay; you can go to a proper wine shop
-  and get Chablis if you''re a baller) and a bottle of Smoking Loon Chardonnay (heavily
-  oaked from California; ballers will want to buy Rombauer, which is a lovely vineyard
-  to visit, especially in fall). Malolactic fermentation changes the flavor and mouthfeel
-  of the wine tremendously. Thus, even philistines should have no trouble learning
-  how to taste for it! During malolactic fermentation, the malic acid, which tastes
-  like apples, converts to lactic acid, which is present in dairy. So, have a bite
-  of the apple, cleanse your palette with the bread, and then taste the Macon Villages
-  for apples. Cool. Now take a tiny little bit of butter and eat it. Yum, butter.
-  Once again, cleanse your palette with bread and then taste the Smoking Loon for
-  butter. You''ll notice that the Smoking Loon feels heavier in your mouth (more like
-  whole milk than skim milk), which is a side effect of ML.<br/><br/><b>Brix:</b>
-  Grape juice turns boozy when the sugars in the juice are converted into alcohol
-  during primary fermentation. This means that the amount of sugar in the juice is
-  going to constrain the amount of alcohol in the wine: when all the sugar converts
-  to alcohol, creating a dry wine, that''s pretty much as alcoholic as it''s gonna
-  get (unless you fortify it with more booze, like the lovely people in Porto). A
-  winemaker is going to make some important decisions based on the sugar level in
-  the wine, so it''s important to be able to measure it. Degrees of Brix is the measure
-  they use. As the grapes ripen on the vine, they get more sugary, so picking later
-  means more sugar, while picking early means less. But measurement doesn''t stop
-  at harvest: winemakers also measure the sugars to see how the conversion of sugar
-  to alcohol is doing. Sometimes it gets stuck on the way to dryness, sometimes the
-  goal is not to let all the sugars convert to begin with. Measuring lets the winemaker
-  know what''s what.<br/><br/>To understand this while drinking a bunch of wine, go
-  to the Riesling section of where you buy wine. Find a bottle that says "dry Riesling"
-  and a bottle that says "sweet Riesling." Try to stick to Rieslings from the same
-  geographic area, so that the critical difference is the sweetness. Look for Pacific
-  Rim or Chateau Ste. Michelle: both produce sweet and dry Rieslings, plus they''re
-  widely available, inexpensive, and they don''t suck. Check the label: the alcohol
-  percentage should be higher on the dry Riesling than the sweet Riesling. Drink ''em,
-  noting the difference. The dry Riesling will still be fruity, so don''t confuse
-  that with sugar. Think of the difference between fresh fruit and jam, which I find
-  to be a useful guide for dissociating the sweet and fruit.<br/><br/>Also, buy some
-  Chinese food; Riesling is very food friendly, and sweet Riesling with spicy Chinese
-  is a classic pairing.<br/><br/>Anyway, The Judgement of Paris isn’t going to be
-  too new for oenophiles, but it’s pretty cool to get biographies of the major players,
-  and information about their winemaking. Those who aren’t wine geeks might not find
-  it as enjoyable as I did: it’s very wine-focused, even when Taber ostensibly discusses
-  culture. Of course, for me the wine-focus is half the fun.<br/><br/>Now, if you
-  excuse me, I have some Alicante Bouschet to track down.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+author: George M. Taber
+rating: 4
+date_read: 2015/01/12
+number_of_pages: 350
 ---
 
  The Napa Valley is one of the most important wine regions in the world, and it's true that the wine is bottled poetry. But back before it had enough street cred that convinced suckers like me to spend $40 for a few measly 2-ounce pours, it had to convince the French that California could make more than cloying sweet wines and jugs of wine made with the vile but prolific Alicante Bouschet grape (side note: I've only grape as a low percentage blender in Ridge wines, but I really want to try it in larger amounts as it seems like a weird grape, and I like weird).<br/><br/>Taber doesn't shy away from talking about the more technical aspects of wine-making, which makes me happy: I geek out a lot about malolactic fermentation, and I find taking into account degrees of Brix unrelenting fascinating. If you don't know what those words mean, then stuff is going to go over your head. So here's a tasting primer, materials for which you can get at Trader Joe's for approximately $40.<br/><br/><b>Malolactic fermentation:</b> grab an apple, some butter, a baguette, a bottle of Jadot Macon Villages Chardonnay (a French unbaked Chardonnay; you can go to a proper wine shop and get Chablis if you're a baller) and a bottle of Smoking Loon Chardonnay (heavily oaked from California; ballers will want to buy Rombauer, which is a lovely vineyard to visit, especially in fall). Malolactic fermentation changes the flavor and mouthfeel of the wine tremendously. Thus, even philistines should have no trouble learning how to taste for it! During malolactic fermentation, the malic acid, which tastes like apples, converts to lactic acid, which is present in dairy. So, have a bite of the apple, cleanse your palette with the bread, and then taste the Macon Villages for apples. Cool. Now take a tiny little bit of butter and eat it. Yum, butter. Once again, cleanse your palette with bread and then taste the Smoking Loon for butter. You'll notice that the Smoking Loon feels heavier in your mouth (more like whole milk than skim milk), which is a side effect of ML.<br/><br/><b>Brix:</b> Grape juice turns boozy when the sugars in the juice are converted into alcohol during primary fermentation. This means that the amount of sugar in the juice is going to constrain the amount of alcohol in the wine: when all the sugar converts to alcohol, creating a dry wine, that's pretty much as alcoholic as it's gonna get (unless you fortify it with more booze, like the lovely people in Porto). A winemaker is going to make some important decisions based on the sugar level in the wine, so it's important to be able to measure it. Degrees of Brix is the measure they use. As the grapes ripen on the vine, they get more sugary, so picking later means more sugar, while picking early means less. But measurement doesn't stop at harvest: winemakers also measure the sugars to see how the conversion of sugar to alcohol is doing. Sometimes it gets stuck on the way to dryness, sometimes the goal is not to let all the sugars convert to begin with. Measuring lets the winemaker know what's what.<br/><br/>To understand this while drinking a bunch of wine, go to the Riesling section of where you buy wine. Find a bottle that says "dry Riesling" and a bottle that says "sweet Riesling." Try to stick to Rieslings from the same geographic area, so that the critical difference is the sweetness. Look for Pacific Rim or Chateau Ste. Michelle: both produce sweet and dry Rieslings, plus they're widely available, inexpensive, and they don't suck. Check the label: the alcohol percentage should be higher on the dry Riesling than the sweet Riesling. Drink 'em, noting the difference. The dry Riesling will still be fruity, so don't confuse that with sugar. Think of the difference between fresh fruit and jam, which I find to be a useful guide for dissociating the sweet and fruit.<br/><br/>Also, buy some Chinese food; Riesling is very food friendly, and sweet Riesling with spicy Chinese is a classic pairing.<br/><br/>Anyway, The Judgement of Paris isn’t going to be too new for oenophiles, but it’s pretty cool to get biographies of the major players, and information about their winemaking. Those who aren’t wine geeks might not find it as enjoyable as I did: it’s very wine-focused, even when Taber ostensibly discusses culture. Of course, for me the wine-focus is half the fun.<br/><br/>Now, if you excuse me, I have some Alicante Bouschet to track down.

@@ -1,52 +1,10 @@
 ---
-Book Id: 15793550
-Title: 'My Beloved Brontosaurus: On the Road with Old Bones, New Science, and Our
+title: 'My Beloved Brontosaurus: On the Road with Old Bones, New Science, and Our
   Favorite Dinosaurs'
-Author: Brian Switek
-Author l-f: Switek, Brian
-Additional Authors: null
-ISBN: ="0374135061"
-ISBN13: ="9780374135065"
-My Rating: 4
-Average Rating: 3.94
-Publisher: Scientific American / Farrar, Straus and Giroux
-Binding: Hardcover
-Number of Pages: 257.0
-Year Published: 2013.0
-Original Publication Year: 2013.0
-Date Read: 2013/06/29
-Date Added: 2013/05/03
-Bookshelves: knowledge-is-good
-Bookshelves with positions: knowledge-is-good (#100)
-Exclusive Shelf: read
-My Review: 'In one episode of the T.V. show Friends, Ross, the "dorky" paleontologist,
-  meets up with an old buddy from high school (played by special guest star Brad Pitt).
-  "Can you believe how into dinosaurs we were back then?" remarks Pitt''s character.
-  Then, without skipping a beat, he asks Ross "So what do you do now?"<br/><br/>Why
-  do we find this funny? When did we relegate these fascinating creatures to children''s
-  books and television shows? Why is it that delight in dinosaurs is viewed as a phase
-  that kids inevitably go through, until they graduate into more "grown-up" interests,
-  such as Shakespeare and spreadsheets? In his new book, My Beloved Brontosaurus,
-  Brian Switek argues that dinosaurs aren''t just "kid stuff." With joy, verve, and
-  a hint of nostalgia, Switek relates the advances that have been made in the field
-  since your third grade science curriculum.<br/><br/>The word "dinosaur" typically
-  calls to mind images of stolid stegosauruses and terrifying tyrannosauruses, but
-  in reality dinosaurs are all around us. Indeed, I''ve got a flock of them living
-  on my roof. No, I''m not some urban mad-geneticist; I''m actually talking about
-  pigeons. Pigeons, like all birds, are dinosaurs (technically, the extinct ones are
-  best referred to as "non-avian dinosaurs"). This affords some cool opportunities
-  to confuse your friends: I can reasonably say that my parents stopped letting their
-  cat go outside, because he kept attacking the dinosaurs and then dragging them back
-  indoors. That''s pretty awesome.<br/><br/>My Beloved Brontosaurus is a must read
-  for anyone who loves dinosaurs. Even if you geeked out on them throughout elementary
-  school, you''ll probably learn something new. Indeed, there''s even a chapter about
-  dino sex. It''s called "Big Bang Theory," which is so clever that I don''t think
-  I need to right the rest of this review.<br/><br/>Also, this is a remarkably well-designed
-  book. Definitely worth buying the hardcover.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+author: Brian Switek
+rating: 4
+date_read: 2013/06/29
+number_of_pages: 257
 ---
 
 In one episode of the T.V. show Friends, Ross, the "dorky" paleontologist, meets up with an old buddy from high school (played by special guest star Brad Pitt). "Can you believe how into dinosaurs we were back then?" remarks Pitt's character. Then, without skipping a beat, he asks Ross "So what do you do now?"<br/><br/>Why do we find this funny? When did we relegate these fascinating creatures to children's books and television shows? Why is it that delight in dinosaurs is viewed as a phase that kids inevitably go through, until they graduate into more "grown-up" interests, such as Shakespeare and spreadsheets? In his new book, My Beloved Brontosaurus, Brian Switek argues that dinosaurs aren't just "kid stuff." With joy, verve, and a hint of nostalgia, Switek relates the advances that have been made in the field since your third grade science curriculum.<br/><br/>The word "dinosaur" typically calls to mind images of stolid stegosauruses and terrifying tyrannosauruses, but in reality dinosaurs are all around us. Indeed, I've got a flock of them living on my roof. No, I'm not some urban mad-geneticist; I'm actually talking about pigeons. Pigeons, like all birds, are dinosaurs (technically, the extinct ones are best referred to as "non-avian dinosaurs"). This affords some cool opportunities to confuse your friends: I can reasonably say that my parents stopped letting their cat go outside, because he kept attacking the dinosaurs and then dragging them back indoors. That's pretty awesome.<br/><br/>My Beloved Brontosaurus is a must read for anyone who loves dinosaurs. Even if you geeked out on them throughout elementary school, you'll probably learn something new. Indeed, there's even a chapter about dino sex. It's called "Big Bang Theory," which is so clever that I don't think I need to right the rest of this review.<br/><br/>Also, this is a remarkably well-designed book. Definitely worth buying the hardcover.

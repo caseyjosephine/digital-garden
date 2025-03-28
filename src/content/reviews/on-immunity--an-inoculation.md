@@ -1,47 +1,9 @@
 ---
-Book Id: 20613511
-Title: 'On Immunity: An Inoculation'
-Author: Eula Biss
-Author l-f: Biss, Eula
-Additional Authors: null
-ISBN: ="1555976891"
-ISBN13: ="9781555976897"
-My Rating: 5
-Average Rating: 3.94
-Publisher: Graywolf Press
-Binding: Hardcover
-Number of Pages: 205.0
-Year Published: 2014.0
-Original Publication Year: 2014.0
-Date Read: 2016/09/07
-Date Added: 2016/03/28
-Bookshelves: knowledge-is-good, memoir-writers-this-is-your-life
-Bookshelves with positions: knowledge-is-good (#145), memoir-writers-this-is-your-life
-  (#46)
-Exclusive Shelf: read
-My Review: I'm going to have a difficult time explaining what "On Immunity" is about.
-  This is a nonfiction book about vaccination, but, while it's well-researched, it
-  isn't popular science. It's a book about a new mother's desire to protect her son,
-  but it isn't a memoir. I've found Eula Biss's layered, lyrical style difficult to
-  pin down in the past, and this book hasn't made it any easier.<br/><br/>As a writer,
-  I find Biss's style inspiring. I'm impressed by how seamlessly she blends personal
-  narrative with academic conjecture, and how consistently she maintains her tone
-  while jumping between these extremes. I do plan on blatantly stealing some of her
-  stylistic techniques, which is pretty high praise.<br/><br/>On the downside, Biss's
-  meandering style sometimes feels sluggish and disjointed. Biss's does not commit
-  herself to a particular structure, which allows her to jump back and forth in time
-  while switching between different vignettes and topics. While this affords great
-  creative freedom, I wish Biss had used a minimalist narrative structure to anchor
-  the book (as she does in The Pain Scale). At the least, I feel she could have done
-  a better job differentiating each section, as some come across as rehashes of others.<br/><br/>Despite
-  its flaws (and the despite the fact that I still don't know what the book is about,
-  even though I thought the process of writing this review would clarify that for
-  me), "On Immunity" was certainly one of my favorite reads of 2016 and deserving
-  of five stars.
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'On Immunity: An Inoculation'
+author: Eula Biss
+rating: 5
+date_read: 2016/09/07
+number_of_pages: 205
 ---
 
 I'm going to have a difficult time explaining what "On Immunity" is about. This is a nonfiction book about vaccination, but, while it's well-researched, it isn't popular science. It's a book about a new mother's desire to protect her son, but it isn't a memoir. I've found Eula Biss's layered, lyrical style difficult to pin down in the past, and this book hasn't made it any easier.<br/><br/>As a writer, I find Biss's style inspiring. I'm impressed by how seamlessly she blends personal narrative with academic conjecture, and how consistently she maintains her tone while jumping between these extremes. I do plan on blatantly stealing some of her stylistic techniques, which is pretty high praise.<br/><br/>On the downside, Biss's meandering style sometimes feels sluggish and disjointed. Biss's does not commit herself to a particular structure, which allows her to jump back and forth in time while switching between different vignettes and topics. While this affords great creative freedom, I wish Biss had used a minimalist narrative structure to anchor the book (as she does in The Pain Scale). At the least, I feel she could have done a better job differentiating each section, as some come across as rehashes of others.<br/><br/>Despite its flaws (and the despite the fact that I still don't know what the book is about, even though I thought the process of writing this review would clarify that for me), "On Immunity" was certainly one of my favorite reads of 2016 and deserving of five stars.

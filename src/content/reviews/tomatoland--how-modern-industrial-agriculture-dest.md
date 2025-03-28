@@ -1,62 +1,10 @@
 ---
-Book Id: 13547037
-Title: 'Tomatoland: How Modern Industrial Agriculture Destroyed Our Most Alluring
+title: 'Tomatoland: How Modern Industrial Agriculture Destroyed Our Most Alluring
   Fruit'
-Author: Barry Estabrook
-Author l-f: Estabrook, Barry
-Additional Authors: null
-ISBN: ="1449423450"
-ISBN13: ="9781449423452"
-My Rating: 4
-Average Rating: 3.95
-Publisher: Andrews McMeel Publishing
-Binding: Paperback
-Number of Pages: 256.0
-Year Published: 2012.0
-Original Publication Year: 2011.0
-Date Read: 2012/09/04
-Date Added: 2012/09/03
-Bookshelves: knowledge-is-good, the-word-unctuous-is-over-rated
-Bookshelves with positions: knowledge-is-good (#76), the-word-unctuous-is-over-rated
-  (#18)
-Exclusive Shelf: read
-My Review: 'There are many good reasons to buy local, seasonal, and organically grown
-  fruits and vegetables. Health is often mentioned, as well as the environment. Some
-  people are just plain concerned with taste: conventional tomatoes don''t taste anything
-  like the heirloom varieties I can get from local farms. Few people, however, cite
-  better conditions for field workers as a reason to buy locally and organically.
-  In Tomatoland, Barry Estabrook describes the lives of tomato field workers, who
-  have largely been invisible to American consumers.<br/><br/>If you pick up some
-  Florida grown tomatoes from your local grocery store in the dead of winter, you''re
-  likely to find that the fruit is fairly tasteless. You may not know that your tomatoes
-  were grown in sand, doused with pesticides, picked green by workers who have been,
-  at best, exploited, misted with chlorine, and then gassed with ethylene. You probably
-  wouldn''t want to eat a tomato that had fallen into your swimming pool, but you''re
-  exposing yourself to much worse when you pick up the deceptively red fruit from
-  the grocery store.<br/><br/>At worst, the workers who grow and pick your tomatoes
-  are enslaved. I''m not using slavery as a metaphor (i.e., I''m not using it the
-  way <s>anti-choice</s>pro-life <s>wackjobs</s> activists falsely refer to abortions
-  as "genocide"). What happens in Florida is legitimate slavery: workers are bought
-  and sold, beaten, and forced to work without pay. Because these field workers are
-  largely uneducated and speak little English, they lack the resources to escape from
-  slavery. Luckily, some of the large tomato companies have been charged with slavery,
-  but slavery has by no means been wiped out.<br/><br/>Even if workers are not forced
-  into slavery, they often make less than minimum wage, since they''re paid by the
-  number of tomatoes they pick. Worse, workers are sometimes directly sprayed with
-  pesticides, which can cause illness and birth defects in pregnant women. Workers
-  pay Manhattan prices to share dilapidated trailers with 10 other people. It''s a
-  difficult life. These workers are not taking jobs from Americans: Americans would
-  not work these jobs.<br/><br/>If you care about people, buy local (organic, in season)
-  tomatoes. Buy local because small farms are more likely to hire American citizens,
-  and pay them fair wages. Buy organic, because organic farms don''t spray their crops
-  and field workers with poison. Buy in season, because out of season tomatoes likely
-  come from Florida, and taste like crap anyway. Your choice of tomato may seem like
-  a small decision, but when more consumers begin to make informed decisions, they
-  can help to change the lives of millions of people.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+author: Barry Estabrook
+rating: 4
+date_read: 2012/09/04
+number_of_pages: 256
 ---
 
 There are many good reasons to buy local, seasonal, and organically grown fruits and vegetables. Health is often mentioned, as well as the environment. Some people are just plain concerned with taste: conventional tomatoes don't taste anything like the heirloom varieties I can get from local farms. Few people, however, cite better conditions for field workers as a reason to buy locally and organically. In Tomatoland, Barry Estabrook describes the lives of tomato field workers, who have largely been invisible to American consumers.<br/><br/>If you pick up some Florida grown tomatoes from your local grocery store in the dead of winter, you're likely to find that the fruit is fairly tasteless. You may not know that your tomatoes were grown in sand, doused with pesticides, picked green by workers who have been, at best, exploited, misted with chlorine, and then gassed with ethylene. You probably wouldn't want to eat a tomato that had fallen into your swimming pool, but you're exposing yourself to much worse when you pick up the deceptively red fruit from the grocery store.<br/><br/>At worst, the workers who grow and pick your tomatoes are enslaved. I'm not using slavery as a metaphor (i.e., I'm not using it the way <s>anti-choice</s>pro-life <s>wackjobs</s> activists falsely refer to abortions as "genocide"). What happens in Florida is legitimate slavery: workers are bought and sold, beaten, and forced to work without pay. Because these field workers are largely uneducated and speak little English, they lack the resources to escape from slavery. Luckily, some of the large tomato companies have been charged with slavery, but slavery has by no means been wiped out.<br/><br/>Even if workers are not forced into slavery, they often make less than minimum wage, since they're paid by the number of tomatoes they pick. Worse, workers are sometimes directly sprayed with pesticides, which can cause illness and birth defects in pregnant women. Workers pay Manhattan prices to share dilapidated trailers with 10 other people. It's a difficult life. These workers are not taking jobs from Americans: Americans would not work these jobs.<br/><br/>If you care about people, buy local (organic, in season) tomatoes. Buy local because small farms are more likely to hire American citizens, and pay them fair wages. Buy organic, because organic farms don't spray their crops and field workers with poison. Buy in season, because out of season tomatoes likely come from Florida, and taste like crap anyway. Your choice of tomato may seem like a small decision, but when more consumers begin to make informed decisions, they can help to change the lives of millions of people.

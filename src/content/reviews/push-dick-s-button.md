@@ -1,58 +1,9 @@
 ---
-Book Id: 19485303
-Title: Push Dick's Button
-Author: Dick Button
-Author l-f: Button, Dick
-Additional Authors: null
-ISBN: ="1494223473"
-ISBN13: ="9781494223472"
-My Rating: 3
-Average Rating: 3.64
-Publisher: ' CreateSpace Independent Publishing Platform'
-Binding: Paperback
-Number of Pages: 254.0
-Year Published: 2013.0
-Original Publication Year: 2013.0
-Date Read: 2014/03/26
-Date Added: 2014/03/24
-Bookshelves: knowledge-is-good, i-just-want-to-go-ice-skating
-Bookshelves with positions: knowledge-is-good (#122), i-just-want-to-go-ice-skating
-  (#1)
-Exclusive Shelf: read
-My Review: 'I''ve been skating for as long as I can remember, and, while I lost my
-  double axel sometime in the early 2000''s (double axel, you are a demon mistress,
-  but maybe I''ll get you back one of these days), I never lost my love for the sport.
-  Growing up in the skating world, during the height of skating''s popularity in the
-  U.S., I was fortunate enough to see (and, occasionally, skate with) some incredibly
-  talented skaters. I mean, have you ever watched <a href="https://www.youtube.com/watch?v=7B_pCDjmc04">Michelle
-  Kwan perform an artistic program dressed like a Disney princess?</a> You can imagine
-  how much 12 year old me totally geeked out about that.<br/><br/>Anyway, Dick Button
-  is a legend: he''s pretty much the voice of figuring skating. And, while he can
-  be opinionated, he obviously cares deeply about skating. This book seems cobbled
-  together, which is too bad: as others have mentioned, it could use a ghostwriter
-  or at least a better edit. But, once you get past that, it''s pretty fun.<br/><br/>One
-  of the major things Dick Button has been vocal about is the need to maintain the
-  artistry of figure skating. He talks about legendary performances, such as <a href="https://www.youtube.com/watch?v=57R7aAY5QiM#aid=P-9wJ15xT5s">Katarina
-  Witt''s long program at the 88 olympics at Calgary</a> and <a href="https://www.youtube.com/watch?v=rc-0BCSyWtc">Torvill
-  and Dean''s dance to Bolero in 84</a>; these types of performances wouldn''t fly
-  amongst the technique-rich but artistry-poor programs we see today. And I agree
-  that that''s a bad thing. There''s a reason why people got so up in arms about <a
-  href="https://www.youtube.com/watch?v=Kt7vHlLcrKg">Adelina Sotnikova''s gold medal
-  performance in 2014</a>: while it was technically demanding, I (and others) felt
-  it lacked in artistry. See also: <a href="https://www.youtube.com/watch?v=F_lGt6auYDo">Tara
-  Lipinski</a>.<br/><br/>(And don''t get me started on the judging system. Ain''t
-  nobody understand that shit, which is why you shouldn''t put a speed skater in charge
-  of the ISU.)<br/><br/>I''m firmly within the niche for this book and, while I found
-  it fun, I wouldn''t recommend it for a general audience (I''m still waiting on a
-  book that gives a cultural history of the sport, a la [b:Apollo''s Angels: A History
-  of Ballet|8268599|Apollo''s Angels  A History of Ballet|Jennifer Homans|https://d202m5krfqbpi5.cloudfront.net/books/1347374575s/8268599.jpg|13116700]).
-  Still, skaters, former skaters, and skating parents will probably enjoy this romp
-  through the skating world.<br/><br/>If you do read this, make sure to read it with
-  a tab open to YouTube: trust me, you''re going to want to watch some of these performances!'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Push Dick's Button
+author: Dick Button
+rating: 3
+date_read: 2014/03/26
+number_of_pages: 254
 ---
 
 I've been skating for as long as I can remember, and, while I lost my double axel sometime in the early 2000's (double axel, you are a demon mistress, but maybe I'll get you back one of these days), I never lost my love for the sport. Growing up in the skating world, during the height of skating's popularity in the U.S., I was fortunate enough to see (and, occasionally, skate with) some incredibly talented skaters. I mean, have you ever watched <a href="https://www.youtube.com/watch?v=7B_pCDjmc04">Michelle Kwan perform an artistic program dressed like a Disney princess?</a> You can imagine how much 12 year old me totally geeked out about that.<br/><br/>Anyway, Dick Button is a legend: he's pretty much the voice of figuring skating. And, while he can be opinionated, he obviously cares deeply about skating. This book seems cobbled together, which is too bad: as others have mentioned, it could use a ghostwriter or at least a better edit. But, once you get past that, it's pretty fun.<br/><br/>One of the major things Dick Button has been vocal about is the need to maintain the artistry of figure skating. He talks about legendary performances, such as <a href="https://www.youtube.com/watch?v=57R7aAY5QiM#aid=P-9wJ15xT5s">Katarina Witt's long program at the 88 olympics at Calgary</a> and <a href="https://www.youtube.com/watch?v=rc-0BCSyWtc">Torvill and Dean's dance to Bolero in 84</a>; these types of performances wouldn't fly amongst the technique-rich but artistry-poor programs we see today. And I agree that that's a bad thing. There's a reason why people got so up in arms about <a href="https://www.youtube.com/watch?v=Kt7vHlLcrKg">Adelina Sotnikova's gold medal performance in 2014</a>: while it was technically demanding, I (and others) felt it lacked in artistry. See also: <a href="https://www.youtube.com/watch?v=F_lGt6auYDo">Tara Lipinski</a>.<br/><br/>(And don't get me started on the judging system. Ain't nobody understand that shit, which is why you shouldn't put a speed skater in charge of the ISU.)<br/><br/>I'm firmly within the niche for this book and, while I found it fun, I wouldn't recommend it for a general audience (I'm still waiting on a book that gives a cultural history of the sport, a la [b:Apollo's Angels: A History of Ballet|8268599|Apollo's Angels  A History of Ballet|Jennifer Homans|https://d202m5krfqbpi5.cloudfront.net/books/1347374575s/8268599.jpg|13116700]). Still, skaters, former skaters, and skating parents will probably enjoy this romp through the skating world.<br/><br/>If you do read this, make sure to read it with a tab open to YouTube: trust me, you're going to want to watch some of these performances!

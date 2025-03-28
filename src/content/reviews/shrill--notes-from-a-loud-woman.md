@@ -1,55 +1,9 @@
 ---
-Book Id: 29340182
-Title: 'Shrill: Notes from a Loud Woman'
-Author: Lindy West
-Author l-f: West, Lindy
-Additional Authors: null
-ISBN: ="0316348406"
-ISBN13: ="9780316348409"
-My Rating: 4
-Average Rating: 4.17
-Publisher: Hachette
-Binding: Hardcover
-Number of Pages: 260.0
-Year Published: 2016.0
-Original Publication Year: 2016.0
-Date Read: 2016/12/24
-Date Added: 2016/12/23
-Bookshelves: by-way-of-npr, memoir-writers-this-is-your-life
-Bookshelves with positions: by-way-of-npr (#3), memoir-writers-this-is-your-life (#47)
-Exclusive Shelf: read
-My Review: 'Lindy West does not speak for all women. <br/><br/>I mean this in a refreshingly
-  positive way. One frustrating aspect of feminist writing (or, really, much of the
-  writing done by women who believe in equality and dare to point out that we''re
-  not quite there yet), is that people tend to want it to speak for all women. Which
-  is just asinine, because people, as a basic rule, only have direct experience living
-  in one particular body, and memoir, as a form, isn''t meant to generalize broadly.
-  So let''s just stop with the deluge of cool girls and teeny boppers saying "Like
-  OMG, I''m totally not even fat and I like Daniel Tosh''s show so obvi I''m not a
-  feminist, teehee." Because that completely misses the point.<br/><br/>Shrill is
-  quite similar in ethos to [b:Bad Feminist|18813642|Bad Feminist|Roxane Gay|https://images.gr-assets.com/books/1421292744s/18813642.jpg|26563816],
-  in that both deal with feminism and culture and pop culture in a series of sardonic,
-  resonant vignettes. Unlike Bad Feminist, though, Shrill is much more personal, much
-  more raw. West invites the reader to get in her shoes and walk around awhile, and
-  her shoes are sometimes uncomfortable. I was particularly devastated to hear the
-  comments she got after a televised debate about rape jokes: briefly, she was fat
-  and ugly and no dude would ever want to rape her. Which, besides the fact that potential
-  (or realized) sexual assault is constantly at the forefront of most women''s minds
-  regardless of their fuckability, is insane. So here''s a reminder that rape is not
-  a compliment.<br/><br/>I''d really like to live in a world where compassion is a
-  default, where people actually try to take the perspective of others instead of
-  just dismissing their experience. I think Lindy West and I are fighting on the same
-  front. I feel that maybe someone will read West''s book and say "So what? People
-  have said mean things to me and you don''t see me complaining about it." Which is
-  also not the point. The real point is to remember how much those mean things hurt
-  you, and realize that other people have also been similarly hurt (you know, because
-  they''re also people), and maybe that realization will stop you from saying mean
-  things to others, or potentially call people out when they say mean things to other
-  people. And maybe then the world would be a better place.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Shrill: Notes from a Loud Woman'
+author: Lindy West
+rating: 4
+date_read: 2016/12/24
+number_of_pages: 260
 ---
 
 Lindy West does not speak for all women. <br/><br/>I mean this in a refreshingly positive way. One frustrating aspect of feminist writing (or, really, much of the writing done by women who believe in equality and dare to point out that we're not quite there yet), is that people tend to want it to speak for all women. Which is just asinine, because people, as a basic rule, only have direct experience living in one particular body, and memoir, as a form, isn't meant to generalize broadly. So let's just stop with the deluge of cool girls and teeny boppers saying "Like OMG, I'm totally not even fat and I like Daniel Tosh's show so obvi I'm not a feminist, teehee." Because that completely misses the point.<br/><br/>Shrill is quite similar in ethos to [b:Bad Feminist|18813642|Bad Feminist|Roxane Gay|https://images.gr-assets.com/books/1421292744s/18813642.jpg|26563816], in that both deal with feminism and culture and pop culture in a series of sardonic, resonant vignettes. Unlike Bad Feminist, though, Shrill is much more personal, much more raw. West invites the reader to get in her shoes and walk around awhile, and her shoes are sometimes uncomfortable. I was particularly devastated to hear the comments she got after a televised debate about rape jokes: briefly, she was fat and ugly and no dude would ever want to rape her. Which, besides the fact that potential (or realized) sexual assault is constantly at the forefront of most women's minds regardless of their fuckability, is insane. So here's a reminder that rape is not a compliment.<br/><br/>I'd really like to live in a world where compassion is a default, where people actually try to take the perspective of others instead of just dismissing their experience. I think Lindy West and I are fighting on the same front. I feel that maybe someone will read West's book and say "So what? People have said mean things to me and you don't see me complaining about it." Which is also not the point. The real point is to remember how much those mean things hurt you, and realize that other people have also been similarly hurt (you know, because they're also people), and maybe that realization will stop you from saying mean things to others, or potentially call people out when they say mean things to other people. And maybe then the world would be a better place.

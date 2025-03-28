@@ -1,67 +1,9 @@
 ---
-Book Id: 223436601
-Title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
-Author: Sarah Wynn-Williams
-Author l-f: Wynn-Williams, Sarah
-Additional Authors: null
-ISBN: ="1250391237"
-ISBN13: ="9781250391230"
-My Rating: 5
-Average Rating: 4.45
-Publisher: Flatiron Books
-Binding: Hardcover
-Number of Pages: 400.0
-Year Published: 2025.0
-Original Publication Year: 2025.0
-Date Read: 2025/03/13
-Date Added: 2025/03/05
-Bookshelves: null
-Bookshelves with positions: null
-Exclusive Shelf: read
-My Review: Facebook, et al, have made remarkably quick work of tearing asunder the
-  fabric of society, replacing culture with outrage and cat videos. <br/><br/>At the
-  helm is Mark Zuckerberg, a weak little man who right-place right-timed himself into
-  the oligarchy. He can't take criticism and desperately wants everyone to like him.
-  He claims no interest in politics, and might try to be president someday.<br/><br/>The
-  excellent 2011 film The Social Network may have done us a disservice in portraying
-  Zuckerberg as a charming man capable of delivering Sorkin dialogue. The real Zuckerberg
-  portrayed in this book by former Facebook employee Sarah Wynn-Williams does come
-  across as awkward and careless, a nod to the Great Gatsby reference from which this
-  book borrows its title:<br/><br/>"They were careless people, Tom and Daisy—they
-  smashed up things and creatures and then retreated back into their money or their
-  vast carelessness or whatever it was that kept them together, and let other people
-  clean up the mess they had made."<br/><br/>Social media certainly has made a mess
-  of society, and now we're stuck with the cleanup while the tech bros are busy taking
-  selfies with the world leaders their platforms have colluded to elect. <br/><br/>Technology
-  companies are wielding the power of sovereign nations. They experiment with users
-  moods and beliefs, purporting to provide connection while making us hate each other.
-  If you use Facebook, you accept that they're eroding your privacy. The company is
-  actively surveilling on every user and selling their behavioral data to the highest
-  bidder. <br/><br/>Democratically elected officials should not be kowtowing to tech
-  companies, full stop. Facebook, et al, are undermining democracy. Spreading misinformation
-  to get idiots elected at the highest levels of government is practically part of
-  the Terms of Service Agreement at this point. <br/><br/>Everyone should get off
-  Facebook. It doesn't matter if you forget the birthday of your cousin's friend's
-  ex boyfriend you met at a bbq that one time. You don't need to like that AI generated
-  image of African children making a working helicopter out of water bottles. None
-  of that matters. Your life experiences deserve more than being farmed for content
-  to make money for billionaires.<br/><br/>Meta has already amplified the impact of
-  this book by blocking the author from promoting it due to the terms of her non-disparagement
-  agreement. They don't deny the claims made in the book, they simply say these claims
-  are "out-of-date and previously reported." Sarah Wynn-Williams couldn't buy better
-  publicity. <br/><br/>I'll leave you with this list of insane examples of Zuckerberg
-  things (culled from the book):<br/><br/>- Zuckerberg thinks that Andrew Jackson
-  was the best president of the United States (above Lincoln and Roosevelt)<br/>-
-  He asked for his team to set up "either a riot or a peace rally" in Indonesia<br/>-
-  At the UN, he ad-libbed on non-existent upcoming humanitarian policy<br/>- He casually
-  mentioned he might not attend the birth of his child (not due to pre-existing plans,
-  just preemptively assuming something might come up)<br/>- Zuck plays Settlers of
-  Catan on his private jet, and his employees let him win<br/>- Mark Zuckerberg knowingly
-  committed perjury about China policy at a congressional hearing
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
+author: Sarah Wynn-Williams
+rating: 5
+date_read: 2025/03/13
+number_of_pages: 400
 ---
 
 Facebook, et al, have made remarkably quick work of tearing asunder the fabric of society, replacing culture with outrage and cat videos. <br/><br/>At the helm is Mark Zuckerberg, a weak little man who right-place right-timed himself into the oligarchy. He can't take criticism and desperately wants everyone to like him. He claims no interest in politics, and might try to be president someday.<br/><br/>The excellent 2011 film The Social Network may have done us a disservice in portraying Zuckerberg as a charming man capable of delivering Sorkin dialogue. The real Zuckerberg portrayed in this book by former Facebook employee Sarah Wynn-Williams does come across as awkward and careless, a nod to the Great Gatsby reference from which this book borrows its title:<br/><br/>"They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness or whatever it was that kept them together, and let other people clean up the mess they had made."<br/><br/>Social media certainly has made a mess of society, and now we're stuck with the cleanup while the tech bros are busy taking selfies with the world leaders their platforms have colluded to elect. <br/><br/>Technology companies are wielding the power of sovereign nations. They experiment with users moods and beliefs, purporting to provide connection while making us hate each other. If you use Facebook, you accept that they're eroding your privacy. The company is actively surveilling on every user and selling their behavioral data to the highest bidder. <br/><br/>Democratically elected officials should not be kowtowing to tech companies, full stop. Facebook, et al, are undermining democracy. Spreading misinformation to get idiots elected at the highest levels of government is practically part of the Terms of Service Agreement at this point. <br/><br/>Everyone should get off Facebook. It doesn't matter if you forget the birthday of your cousin's friend's ex boyfriend you met at a bbq that one time. You don't need to like that AI generated image of African children making a working helicopter out of water bottles. None of that matters. Your life experiences deserve more than being farmed for content to make money for billionaires.<br/><br/>Meta has already amplified the impact of this book by blocking the author from promoting it due to the terms of her non-disparagement agreement. They don't deny the claims made in the book, they simply say these claims are "out-of-date and previously reported." Sarah Wynn-Williams couldn't buy better publicity. <br/><br/>I'll leave you with this list of insane examples of Zuckerberg things (culled from the book):<br/><br/>- Zuckerberg thinks that Andrew Jackson was the best president of the United States (above Lincoln and Roosevelt)<br/>- He asked for his team to set up "either a riot or a peace rally" in Indonesia<br/>- At the UN, he ad-libbed on non-existent upcoming humanitarian policy<br/>- He casually mentioned he might not attend the birth of his child (not due to pre-existing plans, just preemptively assuming something might come up)<br/>- Zuck plays Settlers of Catan on his private jet, and his employees let him win<br/>- Mark Zuckerberg knowingly committed perjury about China policy at a congressional hearing

@@ -1,53 +1,9 @@
 ---
-Book Id: 15832916
-Title: The 100 Year-Old Man Who Climbed Out the Window and Disappeared
-Author: Jonas Jonasson
-Author l-f: Jonasson, Jonas
-Additional Authors: Rod Bradbury
-ISBN: ="1443419109"
-ISBN13: ="9781443419109"
-My Rating: 2
-Average Rating: 3.82
-Publisher: Harper Collins
-Binding: Paperback
-Number of Pages: 384.0
-Year Published: 2012.0
-Original Publication Year: 2009.0
-Date Read: 2014/04/04
-Date Added: 2014/02/24
-Bookshelves: all-around-the-world, i-don-t-get-the-hype, the-not-so-serious-lit
-Bookshelves with positions: all-around-the-world (#51), i-don-t-get-the-hype (#9),
-  the-not-so-serious-lit (#118)
-Exclusive Shelf: read
-My Review: '2.5 stars, but I''m rounding down due to gratuitous violence, including
-  a brief mention of violence towards animals. Now, I''m not opposed to violence;
-  indeed, I can''t imagine [b:Lord of the Flies|7624|Lord of the Flies|William Golding|https://d202m5krfqbpi5.cloudfront.net/books/1327869409s/7624.jpg|2766512],
-  or even [b:A Game of Thrones|13496|A Game of Thrones (A Song of Ice and Fire, #1)|George
-  R.R. Martin|https://d202m5krfqbpi5.cloudfront.net/books/1369520317s/13496.jpg|1466917],
-  without bloodshed (also, Battle Royale is one of my favorite movies, so, yeah).
-  There''s a difference, though, between violent episodes that serve to establish
-  the stakes within a particular fictional world, and violence that exists just to
-  advance the plot. The former has emotional ramifications that can be cathartic for
-  the reader, while the latter mostly signifies that a lazy writer has written themselves
-  into a corner and doesn''t feel like rewriting themselves out of it. When deus ex
-  machina appears over and over and over again in the form of "blowing stuff up,"
-  that''s a sign that a writer isn''t ready for prime time.<br/><br/>Beyond that,
-  the plot (if you can call it that) is a strange, Swedish version of Forrest Gump,
-  in that the protagonist accidentally finds himself in all sorts of historically
-  important situations. Lest you forget, Forrest Gump is mostly a terrible movie,
-  its only redeeming quality being the inexplicable likability of Tom Hanks (and,
-  also, a fairly decent soundtrack). The 100 Year-Old Man Who Climbed Out the Window
-  and Disappeared has no likable characters at all, and you''ll have to supply your
-  own soundtrack. I never thought that I give any sort of praise to Forrest Gump,
-  so I''m surprised to find myself saying it''s at least got an advantage over this
-  400 page disaster.<br/><br/>The moral of this story is that you shouldn''t pick
-  up a book based only on a clever title, because a clever title can''t carry an entire
-  novel. Also, if someone asks you to watch Forrest Gump, it''s probably a good idea
-  to decline.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: The 100 Year-Old Man Who Climbed Out the Window and Disappeared
+author: Jonas Jonasson
+rating: 2
+date_read: 2014/04/04
+number_of_pages: 384
 ---
 
 2.5 stars, but I'm rounding down due to gratuitous violence, including a brief mention of violence towards animals. Now, I'm not opposed to violence; indeed, I can't imagine [b:Lord of the Flies|7624|Lord of the Flies|William Golding|https://d202m5krfqbpi5.cloudfront.net/books/1327869409s/7624.jpg|2766512], or even [b:A Game of Thrones|13496|A Game of Thrones (A Song of Ice and Fire, #1)|George R.R. Martin|https://d202m5krfqbpi5.cloudfront.net/books/1369520317s/13496.jpg|1466917], without bloodshed (also, Battle Royale is one of my favorite movies, so, yeah). There's a difference, though, between violent episodes that serve to establish the stakes within a particular fictional world, and violence that exists just to advance the plot. The former has emotional ramifications that can be cathartic for the reader, while the latter mostly signifies that a lazy writer has written themselves into a corner and doesn't feel like rewriting themselves out of it. When deus ex machina appears over and over and over again in the form of "blowing stuff up," that's a sign that a writer isn't ready for prime time.<br/><br/>Beyond that, the plot (if you can call it that) is a strange, Swedish version of Forrest Gump, in that the protagonist accidentally finds himself in all sorts of historically important situations. Lest you forget, Forrest Gump is mostly a terrible movie, its only redeeming quality being the inexplicable likability of Tom Hanks (and, also, a fairly decent soundtrack). The 100 Year-Old Man Who Climbed Out the Window and Disappeared has no likable characters at all, and you'll have to supply your own soundtrack. I never thought that I give any sort of praise to Forrest Gump, so I'm surprised to find myself saying it's at least got an advantage over this 400 page disaster.<br/><br/>The moral of this story is that you shouldn't pick up a book based only on a clever title, because a clever title can't carry an entire novel. Also, if someone asks you to watch Forrest Gump, it's probably a good idea to decline.

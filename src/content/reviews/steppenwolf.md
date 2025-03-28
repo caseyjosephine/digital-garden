@@ -1,63 +1,9 @@
 ---
-Book Id: 158014
-Title: Steppenwolf
-Author: Hermann Hesse
-Author l-f: Hesse, Hermann
-Additional Authors: Basil Creighton
-ISBN: ="0312278675"
-ISBN13: ="9780312278670"
-My Rating: 4
-Average Rating: 4.13
-Publisher: Picador
-Binding: Paperback
-Number of Pages: 218.0
-Year Published: 2002.0
-Original Publication Year: 1927.0
-Date Read: 2016/03/10
-Date Added: 2016/02/22
-Bookshelves: the-serious-lit, 1001-books
-Bookshelves with positions: the-serious-lit (#177), 1001-books (#129)
-Exclusive Shelf: read
-My Review: This book is weird. But I think this very useful infographic (which, might
-  I add, I painstakingly created myself) about sums it up:<br/><br/><img src="https://i.imgflip.com/10lxkt.jpg"><br/><br/>I
-  also feel a little bit nervous about giving my assessment about the overall message
-  of the book; Herman Hesse has notoriously claimed that no one really understands
-  this one. Curious, because the book does seem to straightforwardly deal with struggles
-  of identity in light of both Western pessimism and Eastern philosophy. I’ve been
-  wrong before, though.<br/><br/>A couple years ago, Frontline aired a documentary
-  about teens and social media entitled “Generation Like.” The doc explores the phenomenon
-  wherein teenagers derive their identity from the things that they like. Of course,
-  teenagers have pretty much always done that (I can picture myself at 16, maudlin
-  and surly, with a Sex Pistols t-shirt and Crime and Punishment under my arm), but
-  the internet seems to make it much more insidious. Self-presentation is conflated
-  with identity, and advertisers no longer need to advertise their products, because
-  their “brand ambassadors” do it for them. However, before we get all curmudgeony
-  about “kids these days,” we should recognize that this phenomenon has been happening
-  at least since 1927. This is the exact ethos that Hesse rejects through his exploration
-  of the Steppenwolf:<br/><br/>“The modern man...has lost the love of inanimate objects.
-  He does not even love his most sacred object, his motorcar, but is ever hoping to
-  exchange it as soon as he can for a later model...I was not a modern man, nor an
-  old-fashioned one either."<br/><br/>Harry Haller sees himself as part wolf, not
-  because he actually is a wolf, but because he represses those things inside him
-  that do not fit with the image of himself that he wishes to present to the world.
-  Anything that would mar his perfect portrait he deems to be base and animal, and
-  he solipsistically concludes that no one else is clever enough to have a wolf-nature
-  of their own. This ends up keeping him from fully living. It reads like a very,
-  very awkward zen story in which the reader ultimately learns that they must accept
-  themselves, en entier and without judgement. Admittedly, this idea might seem foreign
-  to an individualistic Western consumer who thinks the best recourse for the alleviation
-  of ennui is to kill one’s own wolf-nature by associating oneself with the most elite
-  aspects of culture and buying more shit. Actually, I’m not surprised that people
-  might have such skewed values that they relate to the frantic musings of the crazed
-  Haller before he (possibly?) finds enlightenment.<br/><br/>I’m still not sure how
-  to explain the last section of the book, but it reminds me of the section of Ulysses
-  where Leopold and Stephen get high and get some prostitutes. So I’m assuming that
-  Harry Haller was also on whatever crazy drug Leopold and Stephen were on, although
-  I think he had a much worse trip.
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Steppenwolf
+author: Hermann Hesse
+rating: 4
+date_read: 2016/03/10
+number_of_pages: 218
 ---
 
 This book is weird. But I think this very useful infographic (which, might I add, I painstakingly created myself) about sums it up:<br/><br/><img src="https://i.imgflip.com/10lxkt.jpg"><br/><br/>I also feel a little bit nervous about giving my assessment about the overall message of the book; Herman Hesse has notoriously claimed that no one really understands this one. Curious, because the book does seem to straightforwardly deal with struggles of identity in light of both Western pessimism and Eastern philosophy. I’ve been wrong before, though.<br/><br/>A couple years ago, Frontline aired a documentary about teens and social media entitled “Generation Like.” The doc explores the phenomenon wherein teenagers derive their identity from the things that they like. Of course, teenagers have pretty much always done that (I can picture myself at 16, maudlin and surly, with a Sex Pistols t-shirt and Crime and Punishment under my arm), but the internet seems to make it much more insidious. Self-presentation is conflated with identity, and advertisers no longer need to advertise their products, because their “brand ambassadors” do it for them. However, before we get all curmudgeony about “kids these days,” we should recognize that this phenomenon has been happening at least since 1927. This is the exact ethos that Hesse rejects through his exploration of the Steppenwolf:<br/><br/>“The modern man...has lost the love of inanimate objects. He does not even love his most sacred object, his motorcar, but is ever hoping to exchange it as soon as he can for a later model...I was not a modern man, nor an old-fashioned one either."<br/><br/>Harry Haller sees himself as part wolf, not because he actually is a wolf, but because he represses those things inside him that do not fit with the image of himself that he wishes to present to the world. Anything that would mar his perfect portrait he deems to be base and animal, and he solipsistically concludes that no one else is clever enough to have a wolf-nature of their own. This ends up keeping him from fully living. It reads like a very, very awkward zen story in which the reader ultimately learns that they must accept themselves, en entier and without judgement. Admittedly, this idea might seem foreign to an individualistic Western consumer who thinks the best recourse for the alleviation of ennui is to kill one’s own wolf-nature by associating oneself with the most elite aspects of culture and buying more shit. Actually, I’m not surprised that people might have such skewed values that they relate to the frantic musings of the crazed Haller before he (possibly?) finds enlightenment.<br/><br/>I’m still not sure how to explain the last section of the book, but it reminds me of the section of Ulysses where Leopold and Stephen get high and get some prostitutes. So I’m assuming that Harry Haller was also on whatever crazy drug Leopold and Stephen were on, although I think he had a much worse trip.

@@ -1,74 +1,9 @@
 ---
-Book Id: 16077741
-Title: 'The Signal and the Noise: Why So Many Predictions Fail-but Some Don''t'
-Author: Nate Silver
-Author l-f: Silver, Nate
-Additional Authors: null
-ISBN: ="1101595957"
-ISBN13: ="9781101595954"
-My Rating: 4
-Average Rating: 3.97
-Publisher: Penguin Press
-Binding: Kindle Edition
-Number of Pages: 545.0
-Year Published: 2012.0
-Original Publication Year: 2012.0
-Date Read: 2012/12/29
-Date Added: 2012/12/25
-Bookshelves: knowledge-is-good, relevant-for-teachers
-Bookshelves with positions: knowledge-is-good (#87), relevant-for-teachers (#33)
-Exclusive Shelf: read
-My Review: '3.5 stars, but I''m rounding up because I like stats. The first half of
-  this book is fantastic: it outlines the issues that cause people to make terrible
-  predictions. Across many fields, people are not so good at prediction, for a number
-  of reasons. Silver fights the idea that having enough data means that predictions
-  will be great. Data is noisy, and just adding more noisy data isn''t going to allow
-  computers to magically find signal. There''s a reason why statisticians say "Garbage
-  in, garbage out."<br/><br/>The second half of the book, which focuses on the so-called
-  solution, is where everything falls apart. According to Silver, the answer is Bayes
-  theorem. I don''t take much issue with this: Bayes theorem is elegant and useful,
-  particularly when it comes to making inferences about the world. There''s a reason
-  why you can''t go to a conference on cognition without hearing a talk on Bayesian
-  learning: it''s a good idea, and it seems to work.<br/><br/>The problem is that
-  Silver seems to confuse Bayesian statistics with "thinking probabilistically" when
-  the two don''t really mean the same thing. I think probabilistically when I get
-  on a flight (or walk past the lottery ticket counter without buying one). The probability
-  of a safe flight is close to 100%, whereas the probability of winning the lottery
-  is close to 0%. This is not Bayesian, it''s just a simple computation of some event
-  of interest divided by total events (e.g., safe flight / all flights (safe and...,
-  well, not so good)).<br/><br/>Bayes theorem is different. Most simply, it''s stated
-  as follows: P(A|B) = [P(B|A) * P(A)] / P(B). As you may or may not be able to discern
-  from the equation, it allows you to compute the probability of some event A occurring
-  <i>given</i> that some event B has occurred, using the probability that B occurs
-  given A, the probability of A on its own, and the probability of B. In simple terms,
-  imagine that I''m waiting on the elevated platform for my train. When I get to the
-  platform, I don''t have much reason to believe that my train will go express and
-  skip my stop. However, I wait for awhile, longer than I should have to, and the
-  train doesn''t come. I can compute the probability that the long wait signals that
-  I''ll get skipped using Bayes theorem, and it''s possibile that my brain has been
-  doing something Bayesian throughout my many morning commutes. Give it a little input,
-  and Bayes will let me know if I''m better off taking a cab.<br/><br/>Throughout
-  The Signal and the Noise, Silver will profile someone who''s making a lot of money
-  betting on sports, or making a lot of money playing poker. Then, he''ll say "And
-  this is Bayesian! This proves that we should all be using Bayesian stats all the
-  time!" He doesn''t really explain <i>how</i> any of these people are applying Bayesian
-  stats, or profile anyone making good predictions using a non-Bayesian approach.
-  I like Bayes, but Silver is going to have to do more than say "Look! Bayes!" to
-  convince me that it''s the panacea for prediction.<br/><br/>Silver also points out
-  that conventional methods for hypothesis testing produces far more false-positives
-  (usually called Type I errors) than they should. This is true, and most scientists
-  are aware that they need to make some changes in the way they analyze data. Silver,
-  of course, thinks that we should all be using Bayes, although he doesn''t speak
-  about any of the other methods that can reduce Type I errors (including simple methods,
-  like reporting the effect size). At one point, Silver equates science with Bayesian
-  thinking, while completely missing the utility of a well-designed experiment.<br/><br/>I
-  do recommend Silver''s book, particularly for non-scientists who are interested
-  in statistics. However, it''s best taken a series of interesting stories about prediction,
-  and not as a fully developed theory for how most predictions should be developed.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'The Signal and the Noise: Why So Many Predictions Fail-but Some Don''t'
+author: Nate Silver
+rating: 4
+date_read: 2012/12/29
+number_of_pages: 545
 ---
 
 3.5 stars, but I'm rounding up because I like stats. The first half of this book is fantastic: it outlines the issues that cause people to make terrible predictions. Across many fields, people are not so good at prediction, for a number of reasons. Silver fights the idea that having enough data means that predictions will be great. Data is noisy, and just adding more noisy data isn't going to allow computers to magically find signal. There's a reason why statisticians say "Garbage in, garbage out."<br/><br/>The second half of the book, which focuses on the so-called solution, is where everything falls apart. According to Silver, the answer is Bayes theorem. I don't take much issue with this: Bayes theorem is elegant and useful, particularly when it comes to making inferences about the world. There's a reason why you can't go to a conference on cognition without hearing a talk on Bayesian learning: it's a good idea, and it seems to work.<br/><br/>The problem is that Silver seems to confuse Bayesian statistics with "thinking probabilistically" when the two don't really mean the same thing. I think probabilistically when I get on a flight (or walk past the lottery ticket counter without buying one). The probability of a safe flight is close to 100%, whereas the probability of winning the lottery is close to 0%. This is not Bayesian, it's just a simple computation of some event of interest divided by total events (e.g., safe flight / all flights (safe and..., well, not so good)).<br/><br/>Bayes theorem is different. Most simply, it's stated as follows: P(A|B) = [P(B|A) * P(A)] / P(B). As you may or may not be able to discern from the equation, it allows you to compute the probability of some event A occurring <i>given</i> that some event B has occurred, using the probability that B occurs given A, the probability of A on its own, and the probability of B. In simple terms, imagine that I'm waiting on the elevated platform for my train. When I get to the platform, I don't have much reason to believe that my train will go express and skip my stop. However, I wait for awhile, longer than I should have to, and the train doesn't come. I can compute the probability that the long wait signals that I'll get skipped using Bayes theorem, and it's possibile that my brain has been doing something Bayesian throughout my many morning commutes. Give it a little input, and Bayes will let me know if I'm better off taking a cab.<br/><br/>Throughout The Signal and the Noise, Silver will profile someone who's making a lot of money betting on sports, or making a lot of money playing poker. Then, he'll say "And this is Bayesian! This proves that we should all be using Bayesian stats all the time!" He doesn't really explain <i>how</i> any of these people are applying Bayesian stats, or profile anyone making good predictions using a non-Bayesian approach. I like Bayes, but Silver is going to have to do more than say "Look! Bayes!" to convince me that it's the panacea for prediction.<br/><br/>Silver also points out that conventional methods for hypothesis testing produces far more false-positives (usually called Type I errors) than they should. This is true, and most scientists are aware that they need to make some changes in the way they analyze data. Silver, of course, thinks that we should all be using Bayes, although he doesn't speak about any of the other methods that can reduce Type I errors (including simple methods, like reporting the effect size). At one point, Silver equates science with Bayesian thinking, while completely missing the utility of a well-designed experiment.<br/><br/>I do recommend Silver's book, particularly for non-scientists who are interested in statistics. However, it's best taken a series of interesting stories about prediction, and not as a fully developed theory for how most predictions should be developed.

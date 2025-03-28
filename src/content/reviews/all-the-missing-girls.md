@@ -1,57 +1,9 @@
 ---
-Book Id: 23212667
-Title: All the Missing Girls
-Author: Megan Miranda
-Author l-f: Miranda, Megan
-Additional Authors: null
-ISBN: =""
-ISBN13: =""
-My Rating: 3
-Average Rating: 3.72
-Publisher: Simon & Schuster
-Binding: ebook
-Number of Pages: 396.0
-Year Published: 2016.0
-Original Publication Year: 2016.0
-Date Read: 2016/12/28
-Date Added: 2016/12/25
-Bookshelves: mysterious, the-not-so-serious-lit
-Bookshelves with positions: mysterious (#2), the-not-so-serious-lit (#143)
-Exclusive Shelf: read
-My Review: 'This book had me excited almost up until the end, but then it had to go
-  and tie everything together a little too conveniently. So that''s kind of frustrating.
-  <br/><br/>I haven''t had my coffee yet, and I haven''t meticulously outlined this
-  review like I normally do (well, meticulous might not be the best word, but at the
-  very least I haven''t randomly jotted down notes in my writing app). Which is kind
-  of a disservice to the book, because I''m pretty sure Megan Miranda outlined everything.
-  She''d have to, just to keep the timeline straight.<br/><br/>Oh, are we talking
-  about the gimmick? Yeah, so this book has a gimmick: it''s written backwards. Actually,
-  I don''t have any evidence for it having been written backwards, because no one
-  really runs these things past me first, but it''s meant to be read backwards. It''s
-  somewhat Memento-esque, which may or may not work outside of the premise, but it
-  definitely works within the premise and that''s the important thing. I''m totally
-  fine with gimmicks, by the way. I mean, no one criticizes Shakespeare because his
-  ideas about eternal love might not resonate as deeply outside of the sonnet format.<br/><br/>Maybe
-  something about the tone/setting/characters/content? Yeah, okay. What All the Missing
-  Girls does quite well is capture that creepy small town vibe. I''m from a small
-  town, and it''s lovely (well, except for the meth, bigotry, and ignorance, but hey,
-  at least Jesus seems to like it, or at least that''s what people there tell me).
-  And super creepy. Because everyone knows all the gossip, all the secrets. Plus,
-  small towns are insular. No man is an island, but small towns like to think they''re
-  entire of themselves. I''ll talk forever about drug overdoses, jail sentences, and
-  affairs, but those conversations don''t happen with outsiders. There''s a fellow
-  feeling that fancy pants suburbanites, with their good schools and their opportunities
-  and their TGIChiliBees, just don''t understand.<br/><br/>I don''t know, though.
-  Within the category of books where a current disappearance leads to deep psychological
-  impact due its similarities with an older disappearance case, I much prefer [b:In
-  the Woods|237209|In the Woods (Dublin Murder Squad, #1)|Tana French|https://images.gr-assets.com/books/1348442606s/237209.jpg|3088141].
-  Also, can we just stop it with using the word girl to refer to grown ass women?
-  I get that it''s book marketing shorthand for a particular category of female-populated
-  thriller, but it''s infantilizing.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: All the Missing Girls
+author: Megan Miranda
+rating: 3
+date_read: 2016/12/28
+number_of_pages: 396
 ---
 
 This book had me excited almost up until the end, but then it had to go and tie everything together a little too conveniently. So that's kind of frustrating. <br/><br/>I haven't had my coffee yet, and I haven't meticulously outlined this review like I normally do (well, meticulous might not be the best word, but at the very least I haven't randomly jotted down notes in my writing app). Which is kind of a disservice to the book, because I'm pretty sure Megan Miranda outlined everything. She'd have to, just to keep the timeline straight.<br/><br/>Oh, are we talking about the gimmick? Yeah, so this book has a gimmick: it's written backwards. Actually, I don't have any evidence for it having been written backwards, because no one really runs these things past me first, but it's meant to be read backwards. It's somewhat Memento-esque, which may or may not work outside of the premise, but it definitely works within the premise and that's the important thing. I'm totally fine with gimmicks, by the way. I mean, no one criticizes Shakespeare because his ideas about eternal love might not resonate as deeply outside of the sonnet format.<br/><br/>Maybe something about the tone/setting/characters/content? Yeah, okay. What All the Missing Girls does quite well is capture that creepy small town vibe. I'm from a small town, and it's lovely (well, except for the meth, bigotry, and ignorance, but hey, at least Jesus seems to like it, or at least that's what people there tell me). And super creepy. Because everyone knows all the gossip, all the secrets. Plus, small towns are insular. No man is an island, but small towns like to think they're entire of themselves. I'll talk forever about drug overdoses, jail sentences, and affairs, but those conversations don't happen with outsiders. There's a fellow feeling that fancy pants suburbanites, with their good schools and their opportunities and their TGIChiliBees, just don't understand.<br/><br/>I don't know, though. Within the category of books where a current disappearance leads to deep psychological impact due its similarities with an older disappearance case, I much prefer [b:In the Woods|237209|In the Woods (Dublin Murder Squad, #1)|Tana French|https://images.gr-assets.com/books/1348442606s/237209.jpg|3088141]. Also, can we just stop it with using the word girl to refer to grown ass women? I get that it's book marketing shorthand for a particular category of female-populated thriller, but it's infantilizing.

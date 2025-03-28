@@ -1,60 +1,9 @@
 ---
-Book Id: 18077875
-Title: 'Essentialism: The Disciplined Pursuit of Less'
-Author: Greg McKeown
-Author l-f: McKeown, Greg
-Additional Authors: null
-ISBN: ="0804137382"
-ISBN13: ="9780804137386"
-My Rating: 3
-Average Rating: 4.06
-Publisher: Crown Currency
-Binding: Hardcover
-Number of Pages: 260.0
-Year Published: 2014.0
-Original Publication Year: 2011.0
-Date Read: 2016/03/17
-Date Added: 2016/03/14
-Bookshelves: knowledge-is-good, relevant-for-teachers
-Bookshelves with positions: knowledge-is-good (#140), relevant-for-teachers (#1)
-Exclusive Shelf: read
-My Review: 'There’s a short scene in [b:The Lord of the Rings|33|The Lord of the Rings
-  (The Lord of the Rings, #1-3)|J.R.R. Tolkien|https://d.gr-assets.com/books/1411114164s/33.jpg|3462456]
-  in which Bilbo says “I feel thin, sort of stretched, like butter scraped over too
-  much bread.” This pretty much describes the way I feel most of the time. I don’t
-  think I’m alone, either: it seems that most people have far too much to do, and
-  not enough time in which to do it.<br/><br/>Essentialism is a short book (I read
-  most of it on a flight from Omaha to Salt Lake City) with a fairly simple message:
-  we should be doing less, not more. We should say no more often, so that we can say
-  yes to the things that matter. These are all certainly true, and they’re also things
-  I’ve been working on since my early twenties, when I realized that the busy game
-  was a stupid game to play.<br/><br/>You probably know the busy game. It’s not such
-  a fun game. You pretty much get a group of people together. Then one person says
-  that they stayed up all night sending emails. After this, the next person says that
-  they actually woke up at 5:30 so that they could get to the office by 6:30. The
-  next person tries to one-up the previous person in whatever way they can muster,
-  sometimes by doing all this while training for a marathon, sometimes by writing
-  a novel, sometimes by just not sleeping. Here’s what I think about this game:<br/><br/><img
-  src="http://i.imgur.com/vVdbSDb.jpg"><br/><br/>I know I’ve found my people when
-  I talk to the ones who play a different game. The lazy game. This is the game where
-  you work smarter, not harder. These are the people who automate their busywork so
-  that they can spend less time working. They figure out which “priorities” aren’t
-  actually important, and ignore them with impunity. They’re not the ones playing
-  the busy game, because they’re spending more time talking about the books they’re
-  reading and the hikes they’ve been taking and the actual life they’ve been living.<br/><br/>Anyway,
-  Essentialism succeeds in that it points out that we should really be focusing on
-  the things that are actually essential. However, it fails in providing concrete
-  recommendations for how to do this. It’s an enlightening manifesto, but I frequently
-  got frustrated when the recommendations were to "simply" say you’re not going to
-  do things your manager asks you to do. It seems to me that this obsession with busyness
-  comes from societal norms and expectations, and those are hard to just reject. I
-  think this is an interesting book, but it’s really more about philosophy and less
-  about strategies you can use to put it into action. For that, I’d recommend books
-  about mindfulness meditation.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: 'Essentialism: The Disciplined Pursuit of Less'
+author: Greg McKeown
+rating: 3
+date_read: 2016/03/17
+number_of_pages: 260
 ---
 
 There’s a short scene in [b:The Lord of the Rings|33|The Lord of the Rings (The Lord of the Rings, #1-3)|J.R.R. Tolkien|https://d.gr-assets.com/books/1411114164s/33.jpg|3462456] in which Bilbo says “I feel thin, sort of stretched, like butter scraped over too much bread.” This pretty much describes the way I feel most of the time. I don’t think I’m alone, either: it seems that most people have far too much to do, and not enough time in which to do it.<br/><br/>Essentialism is a short book (I read most of it on a flight from Omaha to Salt Lake City) with a fairly simple message: we should be doing less, not more. We should say no more often, so that we can say yes to the things that matter. These are all certainly true, and they’re also things I’ve been working on since my early twenties, when I realized that the busy game was a stupid game to play.<br/><br/>You probably know the busy game. It’s not such a fun game. You pretty much get a group of people together. Then one person says that they stayed up all night sending emails. After this, the next person says that they actually woke up at 5:30 so that they could get to the office by 6:30. The next person tries to one-up the previous person in whatever way they can muster, sometimes by doing all this while training for a marathon, sometimes by writing a novel, sometimes by just not sleeping. Here’s what I think about this game:<br/><br/><img src="http://i.imgur.com/vVdbSDb.jpg"><br/><br/>I know I’ve found my people when I talk to the ones who play a different game. The lazy game. This is the game where you work smarter, not harder. These are the people who automate their busywork so that they can spend less time working. They figure out which “priorities” aren’t actually important, and ignore them with impunity. They’re not the ones playing the busy game, because they’re spending more time talking about the books they’re reading and the hikes they’ve been taking and the actual life they’ve been living.<br/><br/>Anyway, Essentialism succeeds in that it points out that we should really be focusing on the things that are actually essential. However, it fails in providing concrete recommendations for how to do this. It’s an enlightening manifesto, but I frequently got frustrated when the recommendations were to "simply" say you’re not going to do things your manager asks you to do. It seems to me that this obsession with busyness comes from societal norms and expectations, and those are hard to just reject. I think this is an interesting book, but it’s really more about philosophy and less about strategies you can use to put it into action. For that, I’d recommend books about mindfulness meditation.

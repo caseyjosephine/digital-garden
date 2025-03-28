@@ -1,50 +1,9 @@
 ---
-Book Id: 9840442
-Title: Twenty Thousand Leagues Under the Sea
-Author: Jules Verne
-Author l-f: Verne, Jules
-Additional Authors: null
-ISBN: ="0099528533"
-ISBN13: ="9780099528531"
-My Rating: 4
-Average Rating: 3.89
-Publisher: Vintage Classics
-Binding: Paperback
-Number of Pages: 164.0
-Year Published: 2011.0
-Original Publication Year: 1869.0
-Date Read: 2013/11/30
-Date Added: 2013/02/17
-Bookshelves: approved-for-future-progeny, quick-reads, the-not-so-serious-lit
-Bookshelves with positions: approved-for-future-progeny (#62), quick-reads (#12),
-  the-not-so-serious-lit (#109)
-Exclusive Shelf: read
-My Review: 'Twenty Thousand Leagues Under the Sea is kind of the anti-Moby Dick (why
-  am I making this comparison? Because they''re both set in the ocean and I read them
-  both recently and I''m so sleep deprived from a red-eye flight that you really shouldn''t
-  expect this review to make sense. Really.). Moby Dick is long and awesome and full
-  of biblical references and generally makes you believe in the ephemeral joy of humanity.
-  Moby Dick also makes you hate f*cking whales, and hate the f*cking bible, and really
-  really f*cking hate f*cking [a:Herman Melville|1624|Herman Melville|https://d202m5krfqbpi5.cloudfront.net/authors/1361337904p2/1624.jpg].
-  Dense poetic prose and all that.<br/><br/>Verne, on the other hand, just comes up
-  with cool ideas and fun adventures that are quick to read, even though the characters
-  are fairly forgettable. I mean, give me like three weeks and I will not be able
-  to tell you anything about Professor Aronnax. Actually, ask me about Professor Aronnax
-  and I''ll probably only have the vague sense that I took some sort of biology class
-  with him or something. Captain Nemo is cool, I guess, but I didn''t find him all
-  that mysterious. The Captain Nemo from Star Trek is much more mysterious and awesome,
-  so I mostly pictured him driving the ship around.<br/><br/>Anyway, Twenty Thousand
-  Leagues Under the Sea is silly and generic in a good way. It feels simple and familiar,
-  and sometimes you need that. It can be fun to read about awesome technology and
-  altercations with cuttlefish, especially when you''re on BART in San Francisco and
-  you can''t devote too much attention to a difficult book because some crazy has
-  a leashed cat on the train. <br/><br/>Sorry, this review makes no sense. Moral of
-  the story: never try to write about literature after taking a cross-country red-eye
-  flight; also, Jules Verne is awesome.'
-Spoiler: null
-Private Notes: null
-Read Count: 1
-Owned Copies: 0
+title: Twenty Thousand Leagues Under the Sea
+author: Jules Verne
+rating: 4
+date_read: 2013/11/30
+number_of_pages: 164
 ---
 
 Twenty Thousand Leagues Under the Sea is kind of the anti-Moby Dick (why am I making this comparison? Because they're both set in the ocean and I read them both recently and I'm so sleep deprived from a red-eye flight that you really shouldn't expect this review to make sense. Really.). Moby Dick is long and awesome and full of biblical references and generally makes you believe in the ephemeral joy of humanity. Moby Dick also makes you hate f*cking whales, and hate the f*cking bible, and really really f*cking hate f*cking [a:Herman Melville|1624|Herman Melville|https://d202m5krfqbpi5.cloudfront.net/authors/1361337904p2/1624.jpg]. Dense poetic prose and all that.<br/><br/>Verne, on the other hand, just comes up with cool ideas and fun adventures that are quick to read, even though the characters are fairly forgettable. I mean, give me like three weeks and I will not be able to tell you anything about Professor Aronnax. Actually, ask me about Professor Aronnax and I'll probably only have the vague sense that I took some sort of biology class with him or something. Captain Nemo is cool, I guess, but I didn't find him all that mysterious. The Captain Nemo from Star Trek is much more mysterious and awesome, so I mostly pictured him driving the ship around.<br/><br/>Anyway, Twenty Thousand Leagues Under the Sea is silly and generic in a good way. It feels simple and familiar, and sometimes you need that. It can be fun to read about awesome technology and altercations with cuttlefish, especially when you're on BART in San Francisco and you can't devote too much attention to a difficult book because some crazy has a leashed cat on the train. <br/><br/>Sorry, this review makes no sense. Moral of the story: never try to write about literature after taking a cross-country red-eye flight; also, Jules Verne is awesome.
