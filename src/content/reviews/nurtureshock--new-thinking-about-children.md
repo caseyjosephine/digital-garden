@@ -2,7 +2,7 @@
 title: 'NurtureShock: New Thinking About Children'
 author: Po Bronson
 rating: 4
-date_read: 2016/03/29
+date_read: "2016/03/29"
 number_of_pages: 336
 ---
 

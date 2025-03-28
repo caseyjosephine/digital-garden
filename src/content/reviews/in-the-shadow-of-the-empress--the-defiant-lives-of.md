@@ -3,7 +3,7 @@ title: 'In the Shadow of the Empress: The Defiant Lives of Maria Theresa, Mother
   Marie Antoinette, and Her Daughters'
 author: Nancy  Goldstone
 rating: 3
-date_read: 2025/02/21
+date_read: "2025/02/21"
 number_of_pages: 640
 ---
 

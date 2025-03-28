@@ -2,7 +2,7 @@
 title: 'One Perfect Day: The Selling of the American Wedding'
 author: Rebecca Mead
 rating: 3
-date_read: 2014/04/29
+date_read: "2014/04/29"
 number_of_pages: 256
 ---
 

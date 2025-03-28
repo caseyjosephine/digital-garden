@@ -2,7 +2,7 @@
 title: 'Harry Potter and the Deathly Hallows (Harry Potter, #7)'
 author: J.K. Rowling
 rating: 5
-date_read: 2007/07/01
+date_read: "2007/07/01"
 number_of_pages: 784
 ---
 

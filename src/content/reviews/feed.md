@@ -2,7 +2,7 @@
 title: Feed
 author: M.T. Anderson
 rating: 2
-date_read: 2016/03/23
+date_read: "2016/03/23"
 number_of_pages: 308
 ---
 

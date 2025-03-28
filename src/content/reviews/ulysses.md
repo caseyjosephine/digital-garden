@@ -2,7 +2,7 @@
 title: Ulysses
 author: James Joyce
 rating: 5
-date_read: 2012/04/06
+date_read: "2012/04/06"
 number_of_pages: 783
 ---
 

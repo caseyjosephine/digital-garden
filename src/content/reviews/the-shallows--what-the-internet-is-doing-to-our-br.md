@@ -2,7 +2,7 @@
 title: 'The Shallows: What the Internet is Doing to Our Brains'
 author: Nicholas Carr
 rating: 4
-date_read: 2013/04/23
+date_read: "2013/04/23"
 number_of_pages: 276
 ---
 

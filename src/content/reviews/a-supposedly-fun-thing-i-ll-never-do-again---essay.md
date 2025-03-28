@@ -2,7 +2,7 @@
 title: 'A Supposedly Fun Thing I''ll Never Do Again:  Essays and Arguments'
 author: David Foster Wallace
 rating: 4
-date_read: 2013/09/19
+date_read: "2013/09/19"
 number_of_pages: 353
 ---
 

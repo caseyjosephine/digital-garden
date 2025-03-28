@@ -55,7 +55,7 @@ const ReviewedBooksList = () => {
         </thead>
         <tbody>
           {sortedBooks.map((book, i) => {
-            const pageLink = `/reviews/${book.slug}/`;
+            const pageLink = `/book/${book.slug}/`;
             return (
               <tr key={i} className="border-t hover:bg-gray-100">
                 <td className="p-2">

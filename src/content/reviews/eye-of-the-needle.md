@@ -2,7 +2,7 @@
 title: Eye of the Needle
 author: Ken Follett
 rating: 4
-date_read: 2016/02/02
+date_read: "2016/02/02"
 number_of_pages: 368
 ---
 

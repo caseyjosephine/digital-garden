@@ -2,7 +2,7 @@
 title: It
 author: Stephen        King
 rating: 5
-date_read: 2025/03/20
+date_read: "2025/03/20"
 number_of_pages: 1156
 ---
 

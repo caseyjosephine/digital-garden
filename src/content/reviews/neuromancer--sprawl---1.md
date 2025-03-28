@@ -2,7 +2,7 @@
 title: 'Neuromancer (Sprawl, #1)'
 author: William Gibson
 rating: 1
-date_read: 2014/09/16
+date_read: "2014/09/16"
 number_of_pages: 288
 ---
 

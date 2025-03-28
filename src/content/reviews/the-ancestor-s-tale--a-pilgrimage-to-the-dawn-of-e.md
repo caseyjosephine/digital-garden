@@ -2,7 +2,7 @@
 title: 'The Ancestor''s Tale: A Pilgrimage to the Dawn of Evolution'
 author: Richard Dawkins
 rating: 4
-date_read: 2007/06/01
+date_read: "2007/06/01"
 number_of_pages: 688
 ---
 

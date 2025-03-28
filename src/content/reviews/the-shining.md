@@ -2,7 +2,7 @@
 title: The Shining
 author: Stephen        King
 rating: 5
-date_read: 2014/01/10
+date_read: "2014/01/10"
 number_of_pages: 688
 ---
 

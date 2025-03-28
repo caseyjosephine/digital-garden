@@ -2,7 +2,7 @@
 title: Foundation
 author: Isaac Asimov
 rating: 3
-date_read: 2012/10/22
+date_read: "2012/10/22"
 number_of_pages: 296
 ---
 

@@ -2,7 +2,7 @@
 title: The 100 Year-Old Man Who Climbed Out the Window and Disappeared
 author: Jonas Jonasson
 rating: 2
-date_read: 2014/04/04
+date_read: "2014/04/04"
 number_of_pages: 384
 ---
 

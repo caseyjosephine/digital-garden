@@ -2,7 +2,7 @@
 title: The Magus
 author: John Fowles
 rating: 5
-date_read: 2013/07/19
+date_read: "2013/07/19"
 number_of_pages: 656
 ---
 

@@ -12,8 +12,9 @@ export async function getStaticPaths() {
   }));
 }
 
-const { entry } = Astro.props;
-const { Content, data } = await (entry as CollectionEntry<'reviews'>).render();
+const entry = Astro.props.entry as CollectionEntry<'reviews'>;
+const { Content } = await entry.render();
+const data = entry.data;
 ---
 
 <ReviewLayout {...data}>

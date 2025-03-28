@@ -2,7 +2,7 @@
 title: Infinite Jest
 author: David Foster Wallace
 rating: 4
-date_read: 2013/08/29
+date_read: "2013/08/29"
 number_of_pages: 1079
 ---
 

@@ -2,7 +2,7 @@
 title: The Secret Life of Bees
 author: Sue Monk Kidd
 rating: 4
-date_read: 2014/03/10
+date_read: "2014/03/10"
 number_of_pages: 302
 ---
 

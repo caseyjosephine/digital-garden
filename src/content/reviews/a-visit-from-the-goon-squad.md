@@ -2,7 +2,7 @@
 title: A Visit from the Goon Squad
 author: Jennifer Egan
 rating: 2
-date_read: 2012/09/18
+date_read: "2012/09/18"
 number_of_pages: 337
 ---
 

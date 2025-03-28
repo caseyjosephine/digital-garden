@@ -2,7 +2,7 @@
 title: The Night We Lost Him
 author: Laura Dave
 rating: 3
-date_read: 2025/01/02
+date_read: "2025/01/02"
 number_of_pages: 320
 ---
 

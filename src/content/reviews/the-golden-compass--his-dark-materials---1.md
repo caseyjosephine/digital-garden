@@ -2,7 +2,7 @@
 title: 'The Golden Compass (His Dark Materials, #1)'
 author: Philip Pullman
 rating: 4
-date_read: 2014/12/31
+date_read: "2014/12/31"
 number_of_pages: 351
 ---
 

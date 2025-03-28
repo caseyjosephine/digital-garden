@@ -2,7 +2,7 @@
 title: 'A Canticle for Leibowitz (St. Leibowitz, #1)'
 author: Walter M. Miller Jr.
 rating: 5
-date_read: 2013/02/21
+date_read: "2013/02/21"
 number_of_pages: 334
 ---
 

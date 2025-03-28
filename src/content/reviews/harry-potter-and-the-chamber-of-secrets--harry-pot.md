@@ -2,7 +2,7 @@
 title: 'Harry Potter and the Chamber of Secrets (Harry Potter, #2)'
 author: J.K. Rowling
 rating: 5
-date_read: 2014/09/17
+date_read: "2014/09/17"
 number_of_pages: 360
 ---
 

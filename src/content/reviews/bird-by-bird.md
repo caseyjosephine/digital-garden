@@ -2,7 +2,7 @@
 title: Bird by Bird
 author: Anne Lamott
 rating: 4
-date_read: 2016/11/28
+date_read: "2016/11/28"
 number_of_pages: 238
 ---
 

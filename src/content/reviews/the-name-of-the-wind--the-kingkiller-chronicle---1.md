@@ -2,7 +2,7 @@
 title: 'The Name of the Wind (The Kingkiller Chronicle, #1)'
 author: Patrick Rothfuss
 rating: 5
-date_read: 2016/03/01
+date_read: "2016/03/01"
 number_of_pages: 662
 ---
 

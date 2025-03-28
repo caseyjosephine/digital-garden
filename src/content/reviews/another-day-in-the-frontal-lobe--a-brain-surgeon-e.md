@@ -2,7 +2,7 @@
 title: 'Another Day in the Frontal Lobe: A Brain Surgeon Exposes Life on the Inside'
 author: Katrina Firlik
 rating: 3
-date_read: 2012/05/22
+date_read: "2012/05/22"
 number_of_pages: 271
 ---
 

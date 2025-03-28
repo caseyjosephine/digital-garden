@@ -2,7 +2,7 @@
 title: 'Overdressed: The Shockingly High Cost of Cheap Fashion'
 author: Elizabeth L. Cline
 rating: 4
-date_read: 2013/02/28
+date_read: "2013/02/28"
 number_of_pages: 244
 ---
 

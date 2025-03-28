@@ -2,7 +2,7 @@
 title: 'The Circle (The Circle, #1)'
 author: Dave Eggers
 rating: 4
-date_read: 2013/11/17
+date_read: "2013/11/17"
 number_of_pages: 493
 ---
 

@@ -3,7 +3,7 @@ title: 'A Garden of Marvels: How We Discovered that Flowers Have Sex, Leaves Eat
   and Other Secrets of Plants'
 author: Ruth Kassinger
 rating: 4
-date_read: 2014/04/30
+date_read: "2014/04/30"
 number_of_pages: 416
 ---
 

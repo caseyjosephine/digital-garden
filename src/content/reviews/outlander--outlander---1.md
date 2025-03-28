@@ -2,7 +2,7 @@
 title: 'Outlander (Outlander, #1)'
 author: Diana Gabaldon
 rating: 3
-date_read: 2013/06/15
+date_read: "2013/06/15"
 number_of_pages: 850
 ---
 

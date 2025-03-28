@@ -3,7 +3,7 @@ title: 'Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible & W
   We Don''t Know About Them'
 author: Bart D. Ehrman
 rating: 5
-date_read: 2013/11/19
+date_read: "2013/11/19"
 number_of_pages: 304
 ---
 

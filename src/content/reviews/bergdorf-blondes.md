@@ -2,7 +2,7 @@
 title: Bergdorf Blondes
 author: Plum Sykes
 rating: 2
-date_read: 2007/08/01
+date_read: "2007/08/01"
 number_of_pages: 224
 ---
 

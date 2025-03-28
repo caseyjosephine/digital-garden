@@ -2,7 +2,7 @@
 title: Where'd You Go, Bernadette
 author: Maria Semple
 rating: 3
-date_read: 2013/11/07
+date_read: "2013/11/07"
 number_of_pages: 330
 ---
 

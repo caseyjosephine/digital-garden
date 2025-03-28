@@ -2,7 +2,7 @@
 title: 'Blink: The Power of Thinking Without Thinking'
 author: Malcolm Gladwell
 rating: 3
-date_read: 2006/10/01
+date_read: "2006/10/01"
 number_of_pages: 296
 ---
 

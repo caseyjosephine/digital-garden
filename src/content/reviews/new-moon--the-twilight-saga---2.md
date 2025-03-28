@@ -2,7 +2,7 @@
 title: 'New Moon (The Twilight Saga, #2)'
 author: Stephenie Meyer
 rating: 1
-date_read: 2015/11/25
+date_read: "2015/11/25"
 number_of_pages: 563
 ---
 

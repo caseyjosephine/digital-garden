@@ -2,7 +2,7 @@
 title: 'Shrill: Notes from a Loud Woman'
 author: Lindy West
 rating: 4
-date_read: 2016/12/24
+date_read: "2016/12/24"
 number_of_pages: 260
 ---
 

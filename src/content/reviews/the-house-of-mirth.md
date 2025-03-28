@@ -2,7 +2,7 @@
 title: The House of Mirth
 author: Edith Wharton
 rating: 5
-date_read: 2012/05/06
+date_read: "2012/05/06"
 number_of_pages: 351
 ---
 

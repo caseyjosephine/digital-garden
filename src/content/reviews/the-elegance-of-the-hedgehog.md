@@ -2,7 +2,7 @@
 title: The Elegance of the Hedgehog
 author: Muriel Barbery
 rating: 5
-date_read: 2013/10/01
+date_read: "2013/10/01"
 number_of_pages: 325
 ---
 

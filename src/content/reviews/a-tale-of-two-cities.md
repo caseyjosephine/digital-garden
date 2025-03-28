@@ -2,7 +2,7 @@
 title: A Tale of Two Cities
 author: Charles Dickens
 rating: 4
-date_read: 2014/01/09
+date_read: "2014/01/09"
 number_of_pages: 489
 ---
 

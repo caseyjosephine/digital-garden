@@ -2,7 +2,7 @@
 title: 'Stiff: The Curious Lives of Human Cadavers'
 author: Mary Roach
 rating: 4
-date_read: 2012/08/11
+date_read: "2012/08/11"
 number_of_pages: 304
 ---
 

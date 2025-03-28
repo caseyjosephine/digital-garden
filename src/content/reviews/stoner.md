@@ -2,7 +2,7 @@
 title: Stoner
 author: John  Williams
 rating: 5
-date_read: 2013/11/20
+date_read: "2013/11/20"
 number_of_pages: 292
 ---
 

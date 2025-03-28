@@ -2,7 +2,7 @@
 title: Sharp Objects
 author: Gillian Flynn
 rating: 4
-date_read: 2012/10/27
+date_read: "2012/10/27"
 number_of_pages: 394
 ---
 

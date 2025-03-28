@@ -2,7 +2,7 @@
 title: 'Ready Player One (Ready Player One, #1)'
 author: Ernest Cline
 rating: 5
-date_read: 2013/02/28
+date_read: "2013/02/28"
 number_of_pages: 480
 ---
 

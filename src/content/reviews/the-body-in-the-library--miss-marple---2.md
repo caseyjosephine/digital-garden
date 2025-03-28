@@ -2,7 +2,7 @@
 title: 'The Body in the Library (Miss Marple, #2)'
 author: Agatha Christie
 rating: 3
-date_read: 2014/09/20
+date_read: "2014/09/20"
 number_of_pages: 191
 ---
 

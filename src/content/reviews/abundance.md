@@ -2,7 +2,7 @@
 title: Abundance
 author: Sena Jeter Naslund
 rating: 4
-date_read: 2014/03/17
+date_read: "2014/03/17"
 number_of_pages: 545
 ---
 

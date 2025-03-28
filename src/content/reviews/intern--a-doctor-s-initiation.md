@@ -2,7 +2,7 @@
 title: 'Intern: A Doctor''s Initiation'
 author: Sandeep Jauhar
 rating: 4
-date_read: 2014/08/31
+date_read: "2014/08/31"
 number_of_pages: 320
 ---
 

@@ -2,7 +2,7 @@
 title: Twenty Thousand Leagues Under the Sea
 author: Jules Verne
 rating: 4
-date_read: 2013/11/30
+date_read: "2013/11/30"
 number_of_pages: 164
 ---
 

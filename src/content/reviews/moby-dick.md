@@ -2,7 +2,7 @@
 title: Moby Dick
 author: Herman Melville
 rating: 4
-date_read: 2013/10/24
+date_read: "2013/10/24"
 number_of_pages: 527
 ---
 

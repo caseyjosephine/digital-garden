@@ -2,7 +2,7 @@
 title: All Fours
 author: Miranda July
 rating: 2
-date_read: 2025/03/22
+date_read: "2025/03/22"
 number_of_pages: 333
 ---
 

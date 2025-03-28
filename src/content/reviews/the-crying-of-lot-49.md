@@ -2,7 +2,7 @@
 title: The Crying of Lot 49
 author: Thomas Pynchon
 rating: 4
-date_read: 2019/08/30
+date_read: "2019/08/30"
 number_of_pages: 152
 ---
 

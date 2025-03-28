@@ -2,7 +2,7 @@
 title: Count My Lies
 author: Sophie Stava
 rating: 3
-date_read: 2025/03/20
+date_read: "2025/03/20"
 number_of_pages: 336
 ---
 

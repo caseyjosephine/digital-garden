@@ -2,7 +2,7 @@
 title: Don Quixote
 author: Miguel de Cervantes Saavedra
 rating: 5
-date_read: 2012/07/16
+date_read: "2012/07/16"
 number_of_pages: 940
 ---
 

@@ -2,7 +2,7 @@
 title: The Lions of Al-Rassan
 author: Guy Gavriel Kay
 rating: 4
-date_read: 2017/09/09
+date_read: "2017/09/09"
 number_of_pages: 511
 ---
 

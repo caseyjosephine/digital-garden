@@ -2,7 +2,7 @@
 title: 'The End of Average: How We Succeed in a World That Values Sameness'
 author: Todd Rose
 rating: 3
-date_read: 2016/02/11
+date_read: "2016/02/11"
 number_of_pages: 256
 ---
 

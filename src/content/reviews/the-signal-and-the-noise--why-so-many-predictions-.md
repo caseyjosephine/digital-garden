@@ -2,7 +2,7 @@
 title: 'The Signal and the Noise: Why So Many Predictions Fail-but Some Don''t'
 author: Nate Silver
 rating: 4
-date_read: 2012/12/29
+date_read: "2012/12/29"
 number_of_pages: 545
 ---
 

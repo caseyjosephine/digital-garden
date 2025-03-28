@@ -2,7 +2,7 @@
 title: Pledged - Secret Life Of Sororities
 author: Alexandra Robbins
 rating: 3
-date_read: 2013/05/30
+date_read: "2013/05/30"
 number_of_pages: 370
 ---
 

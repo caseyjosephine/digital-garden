@@ -2,7 +2,7 @@
 title: 'A Dance with Dragons (A Song of Ice and Fire, #5)'
 author: George R.R. Martin
 rating: 3
-date_read: 2014/10/07
+date_read: "2014/10/07"
 number_of_pages: 1125
 ---
 

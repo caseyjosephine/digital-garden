@@ -2,7 +2,7 @@
 title: 'Breaking Dawn (Twilight, #4)'
 author: Stephenie Meyer
 rating: 1
-date_read: 2016/01/12
+date_read: "2016/01/12"
 number_of_pages: 756
 ---
 

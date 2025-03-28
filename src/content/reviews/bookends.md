@@ -2,7 +2,7 @@
 title: Bookends
 author: Jane Green
 rating: 2
-date_read: 2006/12/01
+date_read: "2006/12/01"
 number_of_pages: 368
 ---
 

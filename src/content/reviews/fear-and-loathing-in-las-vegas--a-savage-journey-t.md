@@ -3,7 +3,7 @@ title: 'Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the Ame
   Dream'
 author: Hunter S. Thompson
 rating: 3
-date_read: 2014/08/11
+date_read: "2014/08/11"
 number_of_pages: 204
 ---
 

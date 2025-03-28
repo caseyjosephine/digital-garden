@@ -2,7 +2,7 @@
 title: 'Old Man''s War (Old Man''s War, #1)'
 author: John Scalzi
 rating: 4
-date_read: 2016/12/26
+date_read: "2016/12/26"
 number_of_pages: 318
 ---
 

@@ -2,7 +2,7 @@
 title: Steppenwolf
 author: Hermann Hesse
 rating: 4
-date_read: 2016/03/10
+date_read: "2016/03/10"
 number_of_pages: 218
 ---
 

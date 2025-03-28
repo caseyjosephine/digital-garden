@@ -2,7 +2,7 @@
 title: The Goldfinch
 author: Donna Tartt
 rating: 5
-date_read: 2013/12/21
+date_read: "2013/12/21"
 number_of_pages: 771
 ---
 

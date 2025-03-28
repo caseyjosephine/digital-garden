@@ -2,7 +2,7 @@
 title: 'Lonesome Dove (Lonesome Dove, #1)'
 author: Larry McMurtry
 rating: 5
-date_read: 2013/09/25
+date_read: "2013/09/25"
 number_of_pages: 960
 ---
 

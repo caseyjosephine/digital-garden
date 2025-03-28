@@ -2,7 +2,7 @@
 title: Beowulf
 author: Unknown
 rating: 5
-date_read: 2005/01/01
+date_read: "2005/01/01"
 number_of_pages: 259
 ---
 

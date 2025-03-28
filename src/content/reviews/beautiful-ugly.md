@@ -2,7 +2,7 @@
 title: Beautiful Ugly
 author: Alice Feeney
 rating: 3
-date_read: 2025/01/01
+date_read: "2025/01/01"
 number_of_pages: 306
 ---
 

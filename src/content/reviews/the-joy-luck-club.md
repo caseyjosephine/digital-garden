@@ -2,7 +2,7 @@
 title: The Joy Luck Club
 author: Amy Tan
 rating: 4
-date_read: 2014/07/14
+date_read: "2014/07/14"
 number_of_pages: 288
 ---
 

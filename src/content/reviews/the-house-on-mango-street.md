@@ -2,7 +2,7 @@
 title: The House on Mango Street
 author: Sandra Cisneros
 rating: 2
-date_read: 2013/04/14
+date_read: "2013/04/14"
 number_of_pages: 110
 ---
 

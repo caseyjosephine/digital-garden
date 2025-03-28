@@ -2,7 +2,7 @@
 title: 'Faithful Place (Dublin Murder Squad, #3)'
 author: Tana French
 rating: 3
-date_read: 2016/03/21
+date_read: "2016/03/21"
 number_of_pages: 400
 ---
 

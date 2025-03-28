@@ -2,7 +2,7 @@
 title: 'A Wrinkle in Time (Time, #1)'
 author: Madeleine L'Engle
 rating: 5
-date_read: 1995/01/01
+date_read: "1995/01/01"
 number_of_pages: 211
 ---
 

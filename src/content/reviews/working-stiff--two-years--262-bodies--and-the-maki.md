@@ -2,7 +2,7 @@
 title: 'Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner'
 author: Judy Melinek
 rating: 5
-date_read: 2014/08/21
+date_read: "2014/08/21"
 number_of_pages: 258
 ---
 

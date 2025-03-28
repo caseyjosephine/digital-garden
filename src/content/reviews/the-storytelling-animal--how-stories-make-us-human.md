@@ -2,7 +2,7 @@
 title: 'The Storytelling Animal: How Stories Make Us Human'
 author: Jonathan Gottschall
 rating: 3
-date_read: 2013/06/09
+date_read: "2013/06/09"
 number_of_pages: 272
 ---
 

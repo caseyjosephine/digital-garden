@@ -2,7 +2,7 @@
 title: 'Eclipse (The Twilight Saga, #3)'
 author: Stephenie Meyer
 rating: 1
-date_read: 2016/01/05
+date_read: "2016/01/05"
 number_of_pages: 629
 ---
 

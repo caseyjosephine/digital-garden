@@ -2,7 +2,7 @@
 title: Language Myths
 author: Laurie Bauer
 rating: 3
-date_read: 2007/03/01
+date_read: "2007/03/01"
 number_of_pages: 189
 ---
 

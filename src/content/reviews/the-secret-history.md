@@ -2,7 +2,7 @@
 title: The Secret History
 author: Donna Tartt
 rating: 4
-date_read: 2014/04/03
+date_read: "2014/04/03"
 number_of_pages: 559
 ---
 

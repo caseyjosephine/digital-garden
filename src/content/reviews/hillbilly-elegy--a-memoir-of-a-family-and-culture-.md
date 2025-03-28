@@ -2,7 +2,7 @@
 title: 'Hillbilly Elegy: A Memoir of a Family and Culture in Crisis'
 author: J.D. Vance
 rating: 4
-date_read: 2016/12/31
+date_read: "2016/12/31"
 number_of_pages: 264
 ---
 

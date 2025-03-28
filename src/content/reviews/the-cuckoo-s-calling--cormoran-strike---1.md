@@ -2,7 +2,7 @@
 title: 'The Cuckoo''s Calling (Cormoran Strike, #1)'
 author: Robert Galbraith
 rating: 4
-date_read: 2013/10/10
+date_read: "2013/10/10"
 number_of_pages: 456
 ---
 

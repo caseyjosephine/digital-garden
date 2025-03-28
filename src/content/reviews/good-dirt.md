@@ -2,7 +2,7 @@
 title: Good Dirt
 author: Charmaine Wilkerson
 rating: 4
-date_read: 2025/03/15
+date_read: "2025/03/15"
 number_of_pages: 368
 ---
 

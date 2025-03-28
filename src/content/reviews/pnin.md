@@ -2,7 +2,7 @@
 title: Pnin
 author: Vladimir Nabokov
 rating: 5
-date_read: 2012/09/27
+date_read: "2012/09/27"
 number_of_pages: 193
 ---
 

@@ -2,7 +2,7 @@
 title: 'A Wind in the Door (Time, #2)'
 author: Madeleine L'Engle
 rating: 4
-date_read: 1995/01/01
+date_read: "1995/01/01"
 number_of_pages: 211
 ---
 

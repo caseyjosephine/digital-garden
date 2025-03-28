@@ -2,7 +2,7 @@
 title: 'A Well-Trained Wife: My Escape from Christian Patriarchy'
 author: Tia  Levings
 rating: 4
-date_read: 2025/02/25
+date_read: "2025/02/25"
 number_of_pages: 304
 ---
 

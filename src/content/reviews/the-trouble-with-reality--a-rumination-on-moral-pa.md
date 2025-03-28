@@ -2,7 +2,7 @@
 title: 'The Trouble With Reality: A Rumination on Moral Panic in Our Time'
 author: Brooke Gladstone
 rating: 4
-date_read: 2017/09/12
+date_read: "2017/09/12"
 number_of_pages: 96
 ---
 

@@ -2,7 +2,7 @@
 title: The Curious Incident of the Dog in the Night-Time
 author: Mark Haddon
 rating: 4
-date_read: 2007/09/01
+date_read: "2007/09/01"
 number_of_pages: 226
 ---
 

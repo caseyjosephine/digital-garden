@@ -2,7 +2,7 @@
 title: 'The Making of a Chef: Mastering Heat at the Culinary Institute'
 author: Michael Ruhlman
 rating: 3
-date_read: 2012/08/29
+date_read: "2012/08/29"
 number_of_pages: 305
 ---
 

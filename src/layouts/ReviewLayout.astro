@@ -2,9 +2,7 @@
 import Layout from './Layout.astro'; // adjust path as needed
 const { title, author, rating, date_read, number_of_pages } = Astro.props;
 ---
-<pre class="text-sm bg-gray-100 p-4 overflow-x-auto">
-    {JSON.stringify(Astro.props, null, 2)}
-  </pre>
+
 <Layout title={title}>
   <article class="prose mx-auto p-4">
     <h1>{title}</h1>
@@ -16,8 +14,10 @@ const { title, author, rating, date_read, number_of_pages } = Astro.props;
     <hr class="my-4" />
 
     <slot />
-    <pre class="text-sm bg-gray-100 p-4 overflow-x-auto">
-        {JSON.stringify(Astro.props, null, 2)}
-      </pre>
   </article>
+
+  <p class="mt-8">
+    <a href="/reviews" class="text-blue-600 hover:underline">← Back to book list</a>
+  </p>
+  
 </Layout>

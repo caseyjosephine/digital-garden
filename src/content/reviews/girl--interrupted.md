@@ -2,7 +2,7 @@
 title: Girl, Interrupted
 author: Susanna Kaysen
 rating: 3
-date_read: 2013/09/18
+date_read: "2013/09/18"
 number_of_pages: 169
 ---
 

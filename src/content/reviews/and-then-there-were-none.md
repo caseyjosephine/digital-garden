@@ -2,7 +2,7 @@
 title: And Then There Were None
 author: Agatha Christie
 rating: 3
-date_read: 2013/11/09
+date_read: "2013/11/09"
 number_of_pages: 247
 ---
 

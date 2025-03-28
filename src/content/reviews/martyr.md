@@ -2,7 +2,7 @@
 title: Martyr!
 author: Kaveh Akbar
 rating: 5
-date_read: 2025/03/08
+date_read: "2025/03/08"
 number_of_pages: 352
 ---
 

@@ -2,7 +2,7 @@
 title: The Brief Wondrous Life of Oscar Wao
 author: Junot Díaz
 rating: 4
-date_read: 2013/12/09
+date_read: "2013/12/09"
 number_of_pages: 335
 ---
 

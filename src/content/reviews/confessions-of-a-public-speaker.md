@@ -2,7 +2,7 @@
 title: Confessions of a Public Speaker
 author: Scott Berkun
 rating: 3
-date_read: 2014/02/26
+date_read: "2014/02/26"
 number_of_pages: 240
 ---
 

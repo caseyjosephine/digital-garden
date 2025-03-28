@@ -2,7 +2,7 @@
 title: 'Sex Object: A Memoir'
 author: Jessica Valenti
 rating: 4
-date_read: 2016/12/29
+date_read: "2016/12/29"
 number_of_pages: 205
 ---
 

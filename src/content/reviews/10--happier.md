@@ -2,7 +2,7 @@
 title: 10% Happier
 author: Dan   Harris
 rating: 5
-date_read: 2015/01/26
+date_read: "2015/01/26"
 number_of_pages: 256
 ---
 

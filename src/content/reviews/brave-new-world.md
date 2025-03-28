@@ -2,7 +2,7 @@
 title: Brave New World
 author: Aldous Huxley
 rating: 3
-date_read: 2012/08/06
+date_read: "2012/08/06"
 number_of_pages: 268
 ---
 

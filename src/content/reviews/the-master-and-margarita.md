@@ -2,7 +2,7 @@
 title: The Master and Margarita
 author: Mikhail Bulgakov
 rating: 4
-date_read: 2012/09/22
+date_read: "2012/09/22"
 number_of_pages: 448
 ---
 

@@ -2,7 +2,7 @@
 title: 'Little Women (Little Women, #1)'
 author: Louisa May Alcott
 rating: 4
-date_read: 2012/05/04
+date_read: "2012/05/04"
 number_of_pages: 449
 ---
 

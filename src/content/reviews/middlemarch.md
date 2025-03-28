@@ -2,7 +2,7 @@
 title: Middlemarch
 author: George Eliot
 rating: 5
-date_read: 2013/01/29
+date_read: "2013/01/29"
 number_of_pages: 853
 ---
 

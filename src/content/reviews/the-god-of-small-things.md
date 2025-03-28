@@ -2,7 +2,7 @@
 title: The God of Small Things
 author: Arundhati Roy
 rating: 5
-date_read: 2014/01/16
+date_read: "2014/01/16"
 number_of_pages: 321
 ---
 

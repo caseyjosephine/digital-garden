@@ -3,7 +3,7 @@ title: 'My Beloved Brontosaurus: On the Road with Old Bones, New Science, and Ou
   Favorite Dinosaurs'
 author: Brian Switek
 rating: 4
-date_read: 2013/06/29
+date_read: "2013/06/29"
 number_of_pages: 257
 ---
 

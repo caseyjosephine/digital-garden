@@ -3,7 +3,7 @@ title: 'Judgment of Paris:  California vs. France and the Historic 1976 Paris Ta
   That Revolutionized Wine'
 author: George M. Taber
 rating: 4
-date_read: 2015/01/12
+date_read: "2015/01/12"
 number_of_pages: 350
 ---
 

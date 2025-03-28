@@ -2,7 +2,7 @@
 title: Sense and Sensibility
 author: Jane Austen
 rating: 5
-date_read: 2014/09/11
+date_read: "2014/09/11"
 number_of_pages: 409
 ---
 

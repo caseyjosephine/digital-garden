@@ -2,7 +2,7 @@
 title: In the Lake of the Woods
 author: Tim O'Brien
 rating: 5
-date_read: 2013/10/25
+date_read: "2013/10/25"
 number_of_pages: 303
 ---
 

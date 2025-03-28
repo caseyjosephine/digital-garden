@@ -2,7 +2,7 @@
 title: 'The Pillars of the Earth (Kingsbridge, #1)'
 author: Ken Follett
 rating: 5
-date_read: 2017/09/18
+date_read: "2017/09/18"
 number_of_pages: 976
 ---
 

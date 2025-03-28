@@ -2,7 +2,7 @@
 title: 'Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal'
 author: Nick Bilton
 rating: 4
-date_read: 2014/08/08
+date_read: "2014/08/08"
 number_of_pages: 299
 ---
 

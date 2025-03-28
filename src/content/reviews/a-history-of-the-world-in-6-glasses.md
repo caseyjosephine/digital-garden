@@ -2,7 +2,7 @@
 title: A History of the World in 6 Glasses
 author: Tom Standage
 rating: 3
-date_read: 2013/03/27
+date_read: "2013/03/27"
 number_of_pages: 336
 ---
 

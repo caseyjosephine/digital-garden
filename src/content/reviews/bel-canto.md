@@ -2,7 +2,7 @@
 title: Bel Canto
 author: Ann Patchett
 rating: 5
-date_read: 2014/08/10
+date_read: "2014/08/10"
 number_of_pages: 318
 ---
 

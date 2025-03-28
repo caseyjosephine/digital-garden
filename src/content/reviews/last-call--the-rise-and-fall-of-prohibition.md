@@ -2,7 +2,7 @@
 title: 'Last Call: The Rise and Fall of Prohibition'
 author: Daniel Okrent
 rating: 5
-date_read: 2014/03/16
+date_read: "2014/03/16"
 number_of_pages: 480
 ---
 

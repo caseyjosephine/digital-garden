@@ -2,7 +2,7 @@
 title: 'World War Z: An Oral History of the Zombie War'
 author: Max Brooks
 rating: 3
-date_read: 2014/04/30
+date_read: "2014/04/30"
 number_of_pages: 341
 ---
 

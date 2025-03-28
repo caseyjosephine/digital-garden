@@ -2,7 +2,7 @@
 title: The Love Hypothesis
 author: Ali Hazelwood
 rating: 3
-date_read: 2025/01/16
+date_read: "2025/01/16"
 number_of_pages: 383
 ---
 

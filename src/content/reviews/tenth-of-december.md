@@ -2,7 +2,7 @@
 title: Tenth of December
 author: George Saunders
 rating: 5
-date_read: 2013/09/30
+date_read: "2013/09/30"
 number_of_pages: 251
 ---
 

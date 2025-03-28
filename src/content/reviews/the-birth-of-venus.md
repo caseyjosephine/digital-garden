@@ -2,7 +2,7 @@
 title: The Birth of Venus
 author: Sarah Dunant
 rating: 2
-date_read: 2006/01/01
+date_read: "2006/01/01"
 number_of_pages: 427
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Lost City of Z: A Tale of Deadly Obsession in the Amazon'
 author: David Grann
 rating: 4
-date_read: 2013/07/23
+date_read: "2013/07/23"
 number_of_pages: 339
 ---
 

@@ -2,7 +2,7 @@
 title: The Host
 author: Stephenie Meyer
 rating: 3
-date_read: 2014/03/05
+date_read: "2014/03/05"
 number_of_pages: 652
 ---
 

@@ -2,7 +2,7 @@
 title: Hard-Boiled Wonderland and the End of the World
 author: Haruki Murakami
 rating: 5
-date_read: 2013/05/15
+date_read: "2013/05/15"
 number_of_pages: 400
 ---
 

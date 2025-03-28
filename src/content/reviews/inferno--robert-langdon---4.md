@@ -2,7 +2,7 @@
 title: 'Inferno (Robert Langdon, #4)'
 author: Dan    Brown
 rating: 3
-date_read: 2014/07/19
+date_read: "2014/07/19"
 number_of_pages: 463
 ---
 

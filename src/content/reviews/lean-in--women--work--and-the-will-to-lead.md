@@ -2,7 +2,7 @@
 title: 'Lean In: Women, Work, and the Will to Lead'
 author: Sheryl Sandberg
 rating: 4
-date_read: 2013/10/17
+date_read: "2013/10/17"
 number_of_pages: 217
 ---
 

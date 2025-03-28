@@ -2,7 +2,7 @@
 title: 'Call of the Mild: Learning to Hunt My Own Dinner'
 author: Lily Raff McCaulou
 rating: 4
-date_read: 2013/08/07
+date_read: "2013/08/07"
 number_of_pages: 336
 ---
 

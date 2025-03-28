@@ -2,7 +2,7 @@
 title: 'Literary Theory: A Very Short Introduction'
 author: Jonathan D. Culler
 rating: 3
-date_read: 2013/05/08
+date_read: "2013/05/08"
 number_of_pages: 144
 ---
 

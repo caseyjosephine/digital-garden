@@ -2,7 +2,7 @@
 title: In a Dark, Dark Wood
 author: Ruth Ware
 rating: 4
-date_read: 2016/12/02
+date_read: "2016/12/02"
 number_of_pages: 311
 ---
 

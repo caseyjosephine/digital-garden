@@ -77,3 +77,37 @@ a {
 	max-width: 40ch;
   }
   
+  .site-nav {
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 1.5rem;
+  }
+  
+  .site-nav__list {
+    display: flex;
+    gap: 2rem; /* increased spacing between links */
+    font-size: 1rem;
+    font-weight: 500;
+    list-style: none; /* ✅ no bullets */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .site-nav__link {
+    color: var(--link);
+    text-decoration: none;
+    font-variant: small-caps; /* ✅ small caps */
+    letter-spacing: 0.03em;   /* slight spacing for elegance */
+  }
+  
+  .site-nav__link:hover {
+    text-decoration: underline;
+  }
+  
+  .site-nav__link[aria-current="page"] {
+    color: var(--accent); /* highlight current page */
+    text-decoration: none;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 2px;
+  }
+  

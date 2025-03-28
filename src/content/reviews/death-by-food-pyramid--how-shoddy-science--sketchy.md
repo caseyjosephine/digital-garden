@@ -3,7 +3,7 @@ title: 'Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Sp
   Interests Have Ruined Our Health'
 author: Denise Minger
 rating: 5
-date_read: 2014/07/21
+date_read: "2014/07/21"
 number_of_pages: 300
 ---
 

@@ -2,7 +2,7 @@
 title: 'Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist'
 author: Liz Pelly
 rating: 4
-date_read: 2025/03/14
+date_read: "2025/03/14"
 number_of_pages: 285
 ---
 

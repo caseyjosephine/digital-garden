@@ -2,7 +2,7 @@
 title: 'The Thousand-Dollar Tan Line (Veronica Mars, #1)'
 author: Rob Thomas
 rating: 3
-date_read: 2014/05/17
+date_read: "2014/05/17"
 number_of_pages: 324
 ---
 

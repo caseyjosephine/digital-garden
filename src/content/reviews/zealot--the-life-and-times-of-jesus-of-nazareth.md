@@ -2,7 +2,7 @@
 title: 'Zealot: The Life and Times of Jesus of Nazareth'
 author: Reza Aslan
 rating: 4
-date_read: 2013/11/06
+date_read: "2013/11/06"
 number_of_pages: 296
 ---
 

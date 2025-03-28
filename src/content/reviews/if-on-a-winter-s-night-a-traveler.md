@@ -2,7 +2,7 @@
 title: If on a Winter’s Night a Traveler
 author: Italo Calvino
 rating: 5
-date_read: 2013/12/23
+date_read: "2013/12/23"
 number_of_pages: 260
 ---
 

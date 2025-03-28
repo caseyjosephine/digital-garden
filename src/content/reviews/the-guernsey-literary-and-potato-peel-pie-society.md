@@ -2,7 +2,7 @@
 title: The Guernsey Literary and Potato Peel Pie Society
 author: Mary Ann Shaffer
 rating: 4
-date_read: 2013/07/06
+date_read: "2013/07/06"
 number_of_pages: 277
 ---
 

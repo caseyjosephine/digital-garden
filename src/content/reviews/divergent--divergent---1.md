@@ -2,7 +2,7 @@
 title: 'Divergent (Divergent, #1)'
 author: Veronica Roth
 rating: 2
-date_read: 2013/10/27
+date_read: "2013/10/27"
 number_of_pages: 487
 ---
 

@@ -2,7 +2,7 @@
 title: 'Red Rising (Red Rising Saga, #1)'
 author: Pierce Brown
 rating: 3
-date_read: 2016/12/22
+date_read: "2016/12/22"
 number_of_pages: 382
 ---
 

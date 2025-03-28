@@ -2,7 +2,7 @@
 title: 'Harry Potter and the Sorcerer''s Stone (Harry Potter, # 1)'
 author: J.K. Rowling
 rating: 5
-date_read: 2014/07/21
+date_read: "2014/07/21"
 number_of_pages: 322
 ---
 

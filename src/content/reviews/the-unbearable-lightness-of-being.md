@@ -2,7 +2,7 @@
 title: The Unbearable Lightness of Being
 author: Milan Kundera
 rating: 5
-date_read: 2013/02/19
+date_read: "2013/02/19"
 number_of_pages: 314
 ---
 

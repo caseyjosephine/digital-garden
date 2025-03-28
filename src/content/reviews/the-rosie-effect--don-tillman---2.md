@@ -2,7 +2,7 @@
 title: 'The Rosie Effect (Don Tillman, #2)'
 author: Graeme Simsion
 rating: 2
-date_read: 2016/02/19
+date_read: "2016/02/19"
 number_of_pages: 368
 ---
 

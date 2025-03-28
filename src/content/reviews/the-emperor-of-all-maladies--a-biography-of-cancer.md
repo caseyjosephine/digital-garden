@@ -2,7 +2,7 @@
 title: 'The Emperor of All Maladies: A Biography of Cancer'
 author: Siddhartha Mukherjee
 rating: 5
-date_read: 2013/08/04
+date_read: "2013/08/04"
 number_of_pages: 571
 ---
 

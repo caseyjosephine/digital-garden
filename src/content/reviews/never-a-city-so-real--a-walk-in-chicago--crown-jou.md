@@ -2,7 +2,7 @@
 title: 'Never a City So Real: A Walk in Chicago (Crown Journeys)'
 author: Alex Kotlowitz
 rating: 3
-date_read: 2013/05/23
+date_read: "2013/05/23"
 number_of_pages: 160
 ---
 

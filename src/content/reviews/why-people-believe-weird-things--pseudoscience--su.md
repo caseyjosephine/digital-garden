@@ -3,7 +3,7 @@ title: 'Why People Believe Weird Things: Pseudoscience, Superstition, and Other 
   of Our Time'
 author: Michael Shermer
 rating: 4
-date_read: 2012/08/07
+date_read: "2012/08/07"
 number_of_pages: 384
 ---
 

@@ -2,7 +2,7 @@
 title: 'So You Want to Start a Brewery?: The Lagunitas Story'
 author: Tony Magee
 rating: 3
-date_read: 2016/01/28
+date_read: "2016/01/28"
 number_of_pages: 224
 ---
 

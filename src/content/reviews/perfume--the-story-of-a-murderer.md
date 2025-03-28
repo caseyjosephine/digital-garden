@@ -2,7 +2,7 @@
 title: 'Perfume: The Story of a Murderer'
 author: Patrick Süskind
 rating: 4
-date_read: 2014/09/04
+date_read: "2014/09/04"
 number_of_pages: 263
 ---
 

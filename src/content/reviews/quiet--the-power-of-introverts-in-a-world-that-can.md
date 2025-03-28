@@ -2,7 +2,7 @@
 title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
 author: Susan Cain
 rating: 5
-date_read: 2012/10/04
+date_read: "2012/10/04"
 number_of_pages: 370
 ---
 

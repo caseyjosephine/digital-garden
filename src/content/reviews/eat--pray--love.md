@@ -2,7 +2,7 @@
 title: Eat, Pray, Love
 author: Elizabeth Gilbert
 rating: 2
-date_read: 2013/04/07
+date_read: "2013/04/07"
 number_of_pages: 334
 ---
 

@@ -2,7 +2,7 @@
 title: Heart of Darkness
 author: Joseph Conrad
 rating: 5
-date_read: 2012/10/17
+date_read: "2012/10/17"
 number_of_pages: 188
 ---
 

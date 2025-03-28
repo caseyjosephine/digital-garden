@@ -2,7 +2,7 @@
 title: Notes from a Small Island
 author: Bill Bryson
 rating: 3
-date_read: 2013/06/17
+date_read: "2013/06/17"
 number_of_pages: 324
 ---
 

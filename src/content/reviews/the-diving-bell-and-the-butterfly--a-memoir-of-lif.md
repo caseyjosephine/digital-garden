@@ -2,7 +2,7 @@
 title: 'The Diving Bell and the Butterfly: A Memoir of Life in Death'
 author: Jean-Dominique Bauby
 rating: 5
-date_read: 2012/07/18
+date_read: "2012/07/18"
 number_of_pages: 132
 ---
 

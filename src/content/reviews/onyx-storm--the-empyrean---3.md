@@ -2,7 +2,7 @@
 title: 'Onyx Storm (The Empyrean, #3)'
 author: Rebecca Yarros
 rating: 3
-date_read: 2025/02/28
+date_read: "2025/02/28"
 number_of_pages: 758
 ---
 

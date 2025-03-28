@@ -2,7 +2,7 @@
 title: 'The Selfishness of Others: An Essay on the Fear of Narcissism'
 author: Kristin Dombek
 rating: 5
-date_read: 2016/12/25
+date_read: "2016/12/25"
 number_of_pages: 150
 ---
 

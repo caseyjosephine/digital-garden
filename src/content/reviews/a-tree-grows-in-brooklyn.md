@@ -2,7 +2,7 @@
 title: A Tree Grows in Brooklyn
 author: Betty  Smith
 rating: 5
-date_read: 2012/07/19
+date_read: "2012/07/19"
 number_of_pages: 493
 ---
 

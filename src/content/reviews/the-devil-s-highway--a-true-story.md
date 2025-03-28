@@ -2,7 +2,7 @@
 title: 'The Devil''s Highway: A True Story'
 author: Luis Alberto Urrea
 rating: 4
-date_read: 2013/04/12
+date_read: "2013/04/12"
 number_of_pages: 239
 ---
 

@@ -3,7 +3,7 @@ title: 'Search Inside Yourself: The Unexpected Path to Achieving Success, Happin
   (And World Peace)'
 author: Chade-Meng Tan
 rating: 4
-date_read: 2016/03/09
+date_read: "2016/03/09"
 number_of_pages: 291
 ---
 

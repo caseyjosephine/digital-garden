@@ -2,7 +2,7 @@
 title: 'The Bat (Harry Hole, #1)'
 author: Jo Nesbø
 rating: 3
-date_read: 2014/05/22
+date_read: "2014/05/22"
 number_of_pages: 369
 ---
 

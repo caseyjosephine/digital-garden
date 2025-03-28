@@ -2,7 +2,7 @@
 title: 'The Paradox of Choice: Why More Is Less'
 author: Barry Schwartz
 rating: 3
-date_read: 2016/11/29
+date_read: "2016/11/29"
 number_of_pages: 265
 ---
 

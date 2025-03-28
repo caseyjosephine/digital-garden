@@ -2,7 +2,7 @@
 title: Room
 author: Emma Donoghue
 rating: 2
-date_read: 2013/12/12
+date_read: "2013/12/12"
 number_of_pages: 321
 ---
 

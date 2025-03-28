@@ -2,7 +2,7 @@
 title: 'The Wine Savant: A Guide to the New Wine Culture'
 author: Michael Steinberger
 rating: 4
-date_read: 2014/01/15
+date_read: "2014/01/15"
 number_of_pages: 208
 ---
 

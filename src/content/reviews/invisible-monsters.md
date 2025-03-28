@@ -2,7 +2,7 @@
 title: Invisible Monsters
 author: Chuck Palahniuk
 rating: 5
-date_read: 2005/12/01
+date_read: "2005/12/01"
 number_of_pages: 297
 ---
 

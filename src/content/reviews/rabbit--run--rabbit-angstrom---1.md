@@ -2,7 +2,7 @@
 title: 'Rabbit, Run (Rabbit Angstrom, #1)'
 author: John Updike
 rating: 1
-date_read: 2014/07/04
+date_read: "2014/07/04"
 number_of_pages: 325
 ---
 

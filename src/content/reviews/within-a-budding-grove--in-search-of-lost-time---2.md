@@ -2,7 +2,7 @@
 title: 'Within a Budding Grove (In Search of Lost Time, #2)'
 author: Marcel Proust
 rating: 5
-date_read: 2016/01/20
+date_read: "2016/01/20"
 number_of_pages: 749
 ---
 

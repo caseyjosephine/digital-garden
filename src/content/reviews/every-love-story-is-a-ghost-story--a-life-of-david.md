@@ -2,7 +2,7 @@
 title: 'Every Love Story Is a Ghost Story: A Life of David Foster Wallace'
 author: D.T. Max
 rating: 4
-date_read: 2016/12/07
+date_read: "2016/12/07"
 number_of_pages: 356
 ---
 

@@ -2,7 +2,7 @@
 title: Year of Yes
 author: Shonda Rhimes
 rating: 4
-date_read: 2016/04/06
+date_read: "2016/04/06"
 number_of_pages: 352
 ---
 

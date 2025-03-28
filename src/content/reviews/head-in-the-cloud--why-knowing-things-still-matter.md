@@ -3,7 +3,7 @@ title: 'Head in the Cloud: Why Knowing Things Still Matters When Facts Are So Ea
   to Look Up'
 author: William Poundstone
 rating: 2
-date_read: 2017/09/29
+date_read: "2017/09/29"
 number_of_pages: 352
 ---
 

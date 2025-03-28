@@ -2,7 +2,7 @@
 title: 'Better Than Before: Mastering the Habits of Our Everyday Lives'
 author: Gretchen Rubin
 rating: 4
-date_read: 2016/02/20
+date_read: "2016/02/20"
 number_of_pages: 298
 ---
 

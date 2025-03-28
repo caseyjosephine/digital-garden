@@ -2,7 +2,7 @@
 title: Gone Girl
 author: Gillian Flynn
 rating: 4
-date_read: 2012/07/26
+date_read: "2012/07/26"
 number_of_pages: 399
 ---
 

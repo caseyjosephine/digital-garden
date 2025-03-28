@@ -2,7 +2,7 @@
 title: 'On Immunity: An Inoculation'
 author: Eula Biss
 rating: 5
-date_read: 2016/09/07
+date_read: "2016/09/07"
 number_of_pages: 205
 ---
 

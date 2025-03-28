@@ -3,7 +3,7 @@ title: 'The Spirit Catches You and You Fall Down: A Hmong Child, Her American Do
   and the Collision of Two Cultures'
 author: Anne Fadiman
 rating: 3
-date_read: 2013/12/09
+date_read: "2013/12/09"
 number_of_pages: 341
 ---
 

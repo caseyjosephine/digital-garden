@@ -2,7 +2,7 @@
 title: My Sister’s Keeper
 author: Jodi Picoult
 rating: 2
-date_read: 2014/12/05
+date_read: "2014/12/05"
 number_of_pages: 423
 ---
 

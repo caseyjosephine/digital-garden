@@ -2,7 +2,7 @@
 title: East of Eden
 author: John Steinbeck
 rating: 5
-date_read: 2012/09/14
+date_read: "2012/09/14"
 number_of_pages: 601
 ---
 

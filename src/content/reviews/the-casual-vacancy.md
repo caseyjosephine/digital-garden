@@ -2,7 +2,7 @@
 title: The Casual Vacancy
 author: J.K. Rowling
 rating: 2
-date_read: 2012/10/31
+date_read: "2012/10/31"
 number_of_pages: 503
 ---
 

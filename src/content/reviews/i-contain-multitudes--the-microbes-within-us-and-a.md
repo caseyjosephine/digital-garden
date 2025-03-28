@@ -2,7 +2,7 @@
 title: 'I Contain Multitudes: The Microbes Within Us and a Grander View of Life'
 author: Ed Yong
 rating: 4
-date_read: 2016/12/23
+date_read: "2016/12/23"
 number_of_pages: 368
 ---
 

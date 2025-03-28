@@ -2,7 +2,7 @@
 title: Lucky
 author: Alice Sebold
 rating: 4
-date_read: 2005/03/01
+date_read: "2005/03/01"
 number_of_pages: 246
 ---
 

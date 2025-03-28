@@ -2,7 +2,7 @@
 title: One Flew Over the Cuckoo’s Nest
 author: Ken Kesey
 rating: 2
-date_read: 2016/02/18
+date_read: "2016/02/18"
 number_of_pages: 325
 ---
 

@@ -2,7 +2,7 @@
 title: The Astronaut Wives Club
 author: Lily Koppel
 rating: 2
-date_read: 2013/08/13
+date_read: "2013/08/13"
 number_of_pages: 272
 ---
 

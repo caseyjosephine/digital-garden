@@ -2,7 +2,7 @@
 title: The Couple Next Door
 author: Shari Lapena
 rating: 2
-date_read: 2017/01/12
+date_read: "2017/01/12"
 number_of_pages: 308
 ---
 

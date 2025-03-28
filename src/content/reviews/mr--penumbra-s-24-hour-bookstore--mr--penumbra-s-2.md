@@ -2,7 +2,7 @@
 title: 'Mr. Penumbra''s 24-Hour Bookstore (Mr. Penumbra''s 24-Hour Bookstore, #1)'
 author: Robin Sloan
 rating: 3
-date_read: 2013/06/07
+date_read: "2013/06/07"
 number_of_pages: 288
 ---
 

@@ -2,7 +2,7 @@
 title: 'Dead Until Dark (Sookie Stackhouse, #1)'
 author: Charlaine Harris
 rating: 3
-date_read: 2014/09/17
+date_read: "2014/09/17"
 number_of_pages: 292
 ---
 

@@ -3,7 +3,7 @@ title: 'Tomatoland: How Modern Industrial Agriculture Destroyed Our Most Allurin
   Fruit'
 author: Barry Estabrook
 rating: 4
-date_read: 2012/09/04
+date_read: "2012/09/04"
 number_of_pages: 256
 ---
 

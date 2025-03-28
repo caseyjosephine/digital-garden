@@ -2,7 +2,7 @@
 title: 'Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting'
 author: Pamela Druckerman
 rating: 4
-date_read: 2012/07/10
+date_read: "2012/07/10"
 number_of_pages: 10
 ---
 

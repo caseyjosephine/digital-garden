@@ -2,7 +2,7 @@
 title: 'Consider the Fork: A History of How We Cook and Eat'
 author: Bee Wilson
 rating: 4
-date_read: 2014/08/09
+date_read: "2014/08/09"
 number_of_pages: 327
 ---
 

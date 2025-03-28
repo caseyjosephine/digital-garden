@@ -2,7 +2,7 @@
 title: 'The Sense of Style: The Thinking Person''s Guide to Writing in the 21st Century'
 author: Steven Pinker
 rating: 3
-date_read: 2017/11/29
+date_read: "2017/11/29"
 number_of_pages: 368
 ---
 

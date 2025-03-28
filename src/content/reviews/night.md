@@ -2,7 +2,7 @@
 title: Night
 author: Elie Wiesel
 rating: 5
-date_read: 2013/04/24
+date_read: "2013/04/24"
 number_of_pages: 109
 ---
 

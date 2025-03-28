@@ -2,7 +2,7 @@
 title: The Stand
 author: Stephen        King
 rating: 4
-date_read: 2007/09/01
+date_read: "2007/09/01"
 number_of_pages: 1141
 ---
 

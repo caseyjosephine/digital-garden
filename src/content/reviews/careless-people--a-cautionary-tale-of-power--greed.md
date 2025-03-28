@@ -2,7 +2,7 @@
 title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
 author: Sarah Wynn-Williams
 rating: 5
-date_read: 2025/03/13
+date_read: "2025/03/13"
 number_of_pages: 400
 ---
 

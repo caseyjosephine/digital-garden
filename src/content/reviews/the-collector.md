@@ -2,7 +2,7 @@
 title: The Collector
 author: John Fowles
 rating: 5
-date_read: 2017/09/14
+date_read: "2017/09/14"
 number_of_pages: 272
 ---
 

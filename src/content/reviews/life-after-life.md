@@ -2,7 +2,7 @@
 title: Life After Life
 author: Kate Atkinson
 rating: 2
-date_read: 2014/03/18
+date_read: "2014/03/18"
 number_of_pages: 544
 ---
 

@@ -2,7 +2,7 @@
 title: A Constellation of Vital Phenomena
 author: Anthony Marra
 rating: 5
-date_read: 2014/03/25
+date_read: "2014/03/25"
 number_of_pages: 384
 ---
 

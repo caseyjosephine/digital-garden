@@ -2,7 +2,7 @@
 title: 'Pines (Wayward Pines, #1)'
 author: Blake Crouch
 rating: 3
-date_read: 2014/08/27
+date_read: "2014/08/27"
 number_of_pages: 320
 ---
 

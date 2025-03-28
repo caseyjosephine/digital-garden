@@ -2,7 +2,7 @@
 title: 'Deluxe: How Luxury Lost Its Luster'
 author: Dana Thomas
 rating: 4
-date_read: 2016/12/21
+date_read: "2016/12/21"
 number_of_pages: 384
 ---
 

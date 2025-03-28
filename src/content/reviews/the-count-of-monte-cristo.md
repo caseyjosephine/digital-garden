@@ -2,7 +2,7 @@
 title: The Count of Monte Cristo
 author: Alexandre Dumas
 rating: 5
-date_read: 2012/08/04
+date_read: "2012/08/04"
 number_of_pages: 1276
 ---
 

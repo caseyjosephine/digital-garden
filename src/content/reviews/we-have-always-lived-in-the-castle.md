@@ -2,7 +2,7 @@
 title: We Have Always Lived in the Castle
 author: Shirley Jackson
 rating: 5
-date_read: 2014/03/26
+date_read: "2014/03/26"
 number_of_pages: 152
 ---
 

@@ -3,7 +3,7 @@ title: 'The Map of Knowledge: How Classical Ideas Were Lost and Found: A History
   Seven Cities'
 author: Violet Moller
 rating: 4
-date_read: 2025/01/07
+date_read: "2025/01/07"
 number_of_pages: 304
 ---
 

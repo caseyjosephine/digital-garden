@@ -2,7 +2,7 @@
 title: Water for Elephants
 author: Sara Gruen
 rating: 2
-date_read: 2013/06/04
+date_read: "2013/06/04"
 number_of_pages: 368
 ---
 

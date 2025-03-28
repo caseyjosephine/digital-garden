@@ -2,7 +2,7 @@
 title: Madame Bovary
 author: Gustave Flaubert
 rating: 5
-date_read: 2013/10/26
+date_read: "2013/10/26"
 number_of_pages: 335
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Sirens'' Call: How Attention Became the World''s Most Endangered Resource'
 author: Christopher L. Hayes
 rating: 4
-date_read: 2025/03/25
+date_read: "2025/03/25"
 number_of_pages: 336
 ---
 

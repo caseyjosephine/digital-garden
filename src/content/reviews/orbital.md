@@ -2,7 +2,7 @@
 title: Orbital
 author: Samantha Harvey
 rating: 2
-date_read: 2025/01/06
+date_read: "2025/01/06"
 number_of_pages: 212
 ---
 

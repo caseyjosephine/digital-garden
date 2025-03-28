@@ -2,7 +2,7 @@
 title: The Happiness Project
 author: Gretchen Rubin
 rating: 2
-date_read: 2014/01/04
+date_read: "2014/01/04"
 number_of_pages: 301
 ---
 

@@ -2,7 +2,7 @@
 title: A Walk to Remember
 author: Nicholas Sparks
 rating: 2
-date_read: 2002/01/01
+date_read: "2002/01/01"
 number_of_pages: 240
 ---
 

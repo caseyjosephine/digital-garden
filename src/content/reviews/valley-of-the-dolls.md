@@ -2,7 +2,7 @@
 title: Valley of the Dolls
 author: Jacqueline Susann
 rating: 3
-date_read: 2013/07/12
+date_read: "2013/07/12"
 number_of_pages: 449
 ---
 

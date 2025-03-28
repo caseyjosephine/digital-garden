@@ -2,7 +2,7 @@
 title: 'Angels & Demons (Robert Langdon, #1)'
 author: Dan    Brown
 rating: 3
-date_read: 2004/11/01
+date_read: "2004/11/01"
 number_of_pages: 736
 ---
 

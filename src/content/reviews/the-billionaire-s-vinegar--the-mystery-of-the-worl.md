@@ -3,7 +3,7 @@ title: 'The Billionaire''s Vinegar: The Mystery of the World''s Most Expensive B
   of Wine'
 author: Benjamin      Wallace
 rating: 4
-date_read: 2016/03/27
+date_read: "2016/03/27"
 number_of_pages: 319
 ---
 

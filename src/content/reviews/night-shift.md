@@ -2,7 +2,7 @@
 title: Night Shift
 author: Stephen        King
 rating: 4
-date_read: 2025/02/19
+date_read: "2025/02/19"
 number_of_pages: 344
 ---
 

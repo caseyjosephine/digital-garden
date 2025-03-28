@@ -2,7 +2,7 @@
 title: Tinker, Tailor, Soldier, Spy
 author: John Le Carré
 rating: 2
-date_read: 2016/01/22
+date_read: "2016/01/22"
 number_of_pages: 422
 ---
 

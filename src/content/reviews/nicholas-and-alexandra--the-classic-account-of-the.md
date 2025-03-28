@@ -2,7 +2,7 @@
 title: 'Nicholas and Alexandra: The Classic Account of the Fall of the Romanov Dynasty'
 author: Robert K. Massie
 rating: 4
-date_read: 2013/07/28
+date_read: "2013/07/28"
 number_of_pages: 640
 ---
 

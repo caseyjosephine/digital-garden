@@ -2,7 +2,7 @@
 title: 'Beautiful Lies (Ridley Jones, #1)'
 author: Lisa Unger
 rating: 3
-date_read: 2011/09/01
+date_read: "2011/09/01"
 number_of_pages: 400
 ---
 

@@ -2,7 +2,7 @@
 title: Anna Karenina
 author: Leo Tolstoy
 rating: 5
-date_read: 2011/11/30
+date_read: "2011/11/30"
 number_of_pages: 838
 ---
 

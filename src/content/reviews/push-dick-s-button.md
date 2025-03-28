@@ -2,7 +2,7 @@
 title: Push Dick's Button
 author: Dick Button
 rating: 3
-date_read: 2014/03/26
+date_read: "2014/03/26"
 number_of_pages: 254
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Boy Who Harnessed the Wind: Creating Currents of Electricity and Hope'
 author: William Kamkwamba
 rating: 4
-date_read: 2013/08/20
+date_read: "2013/08/20"
 number_of_pages: 270
 ---
 

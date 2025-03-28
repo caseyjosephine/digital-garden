@@ -2,7 +2,7 @@
 title: The American Girl
 author: Kate  Horsley
 rating: 3
-date_read: 2016/11/25
+date_read: "2016/11/25"
 number_of_pages: 423
 ---
 

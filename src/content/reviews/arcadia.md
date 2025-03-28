@@ -2,7 +2,7 @@
 title: Arcadia
 author: Lauren Groff
 rating: 4
-date_read: 2013/01/19
+date_read: "2013/01/19"
 number_of_pages: 291
 ---
 

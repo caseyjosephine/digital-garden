@@ -2,7 +2,7 @@
 title: 'Z: A Novel of Zelda Fitzgerald'
 author: Therese Anne Fowler
 rating: 4
-date_read: 2013/05/03
+date_read: "2013/05/03"
 number_of_pages: 464
 ---
 

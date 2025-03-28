@@ -2,7 +2,7 @@
 title: 'The Golem and the Jinni (The Golem and the Jinni, #1)'
 author: Helene Wecker
 rating: 3
-date_read: 2014/02/06
+date_read: "2014/02/06"
 number_of_pages: 486
 ---
 

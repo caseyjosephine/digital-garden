@@ -2,7 +2,7 @@
 title: The Phantom Tollbooth
 author: Norton Juster
 rating: 5
-date_read: 1995/01/01
+date_read: "1995/01/01"
 number_of_pages: 248
 ---
 

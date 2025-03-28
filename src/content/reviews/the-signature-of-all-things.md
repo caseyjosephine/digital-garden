@@ -2,7 +2,7 @@
 title: The Signature of All Things
 author: Elizabeth Gilbert
 rating: 4
-date_read: 2015/01/13
+date_read: "2015/01/13"
 number_of_pages: 512
 ---
 

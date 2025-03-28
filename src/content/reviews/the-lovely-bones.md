@@ -2,7 +2,7 @@
 title: The Lovely Bones
 author: Alice Sebold
 rating: 4
-date_read: 2003/01/01
+date_read: "2003/01/01"
 number_of_pages: 372
 ---
 

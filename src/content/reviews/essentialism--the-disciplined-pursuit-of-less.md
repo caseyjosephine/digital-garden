@@ -2,7 +2,7 @@
 title: 'Essentialism: The Disciplined Pursuit of Less'
 author: Greg McKeown
 rating: 3
-date_read: 2016/03/17
+date_read: "2016/03/17"
 number_of_pages: 260
 ---
 

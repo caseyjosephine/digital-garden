@@ -2,7 +2,7 @@
 title: All the Light We Cannot See
 author: Anthony Doerr
 rating: 3
-date_read: 2016/03/29
+date_read: "2016/03/29"
 number_of_pages: 544
 ---
 

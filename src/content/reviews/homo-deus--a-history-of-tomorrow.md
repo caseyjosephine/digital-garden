@@ -2,7 +2,7 @@
 title: 'Homo Deus: A History of Tomorrow'
 author: Yuval Noah Harari
 rating: 1
-date_read: 2018/04/05
+date_read: "2018/04/05"
 number_of_pages: 450
 ---
 

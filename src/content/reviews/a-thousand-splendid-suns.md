@@ -2,7 +2,7 @@
 title: A Thousand Splendid Suns
 author: Khaled Hosseini
 rating: 5
-date_read: 2013/07/01
+date_read: "2013/07/01"
 number_of_pages: 420
 ---
 

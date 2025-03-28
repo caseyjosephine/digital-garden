@@ -2,7 +2,7 @@
 title: Margo's Got Money Troubles
 author: Rufi Thorpe
 rating: 4
-date_read: 2025/01/10
+date_read: "2025/01/10"
 number_of_pages: 304
 ---
 

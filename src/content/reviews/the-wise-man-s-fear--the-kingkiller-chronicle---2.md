@@ -2,7 +2,7 @@
 title: 'The Wise Man''s Fear (The Kingkiller Chronicle, #2)'
 author: Patrick Rothfuss
 rating: 5
-date_read: 2016/03/21
+date_read: "2016/03/21"
 number_of_pages: 994
 ---
 

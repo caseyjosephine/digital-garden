@@ -2,7 +2,7 @@
 title: 'Where She Went (If I Stay, #2)'
 author: Gayle Forman
 rating: 1
-date_read: 2014/06/17
+date_read: "2014/06/17"
 number_of_pages: 264
 ---
 

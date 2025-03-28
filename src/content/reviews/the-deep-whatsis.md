@@ -2,7 +2,7 @@
 title: The Deep Whatsis
 author: Peter Mattei
 rating: 4
-date_read: 2013/12/11
+date_read: "2013/12/11"
 number_of_pages: 256
 ---
 

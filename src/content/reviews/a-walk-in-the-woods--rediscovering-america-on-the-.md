@@ -2,7 +2,7 @@
 title: 'A Walk in the Woods: Rediscovering America on the Appalachian Trail'
 author: Bill Bryson
 rating: 3
-date_read: 2013/04/09
+date_read: "2013/04/09"
 number_of_pages: 276
 ---
 

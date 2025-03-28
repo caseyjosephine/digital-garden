@@ -2,7 +2,7 @@
 title: Pachinko
 author: Min Jin Lee
 rating: 3
-date_read: 2018/06/19
+date_read: "2018/06/19"
 number_of_pages: 490
 ---
 

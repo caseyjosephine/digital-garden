@@ -2,7 +2,7 @@
 title: The Snow Child
 author: Eowyn Ivey
 rating: 4
-date_read: 2013/10/15
+date_read: "2013/10/15"
 number_of_pages: 386
 ---
 

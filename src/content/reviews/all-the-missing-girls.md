@@ -2,7 +2,7 @@
 title: All the Missing Girls
 author: Megan Miranda
 rating: 3
-date_read: 2016/12/28
+date_read: "2016/12/28"
 number_of_pages: 396
 ---
 

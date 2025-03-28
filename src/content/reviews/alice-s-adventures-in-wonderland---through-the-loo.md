@@ -2,7 +2,7 @@
 title: Alice’s Adventures in Wonderland / Through the Looking-Glass
 author: Lewis Carroll
 rating: 5
-date_read: 2005/02/01
+date_read: "2005/02/01"
 number_of_pages: 239
 ---
 

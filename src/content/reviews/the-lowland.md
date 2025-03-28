@@ -2,7 +2,7 @@
 title: The Lowland
 author: Jhumpa Lahiri
 rating: 5
-date_read: 2014/03/02
+date_read: "2014/03/02"
 number_of_pages: 340
 ---
 

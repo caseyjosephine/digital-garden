@@ -2,7 +2,7 @@
 title: I Am Charlotte Simmons
 author: Tom Wolfe
 rating: 2
-date_read: 2013/06/30
+date_read: "2013/06/30"
 number_of_pages: 676
 ---
 

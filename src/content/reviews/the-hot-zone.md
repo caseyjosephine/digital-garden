@@ -2,7 +2,7 @@
 title: The Hot Zone
 author: Richard   Preston
 rating: 4
-date_read: 2012/12/01
+date_read: "2012/12/01"
 number_of_pages: 448
 ---
 

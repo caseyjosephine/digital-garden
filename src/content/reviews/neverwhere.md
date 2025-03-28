@@ -2,7 +2,7 @@
 title: Neverwhere
 author: Neil Gaiman
 rating: 4
-date_read: 2013/05/22
+date_read: "2013/05/22"
 number_of_pages: 370
 ---
 

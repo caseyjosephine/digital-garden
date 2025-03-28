@@ -2,7 +2,7 @@
 title: 'Unbroken: A World War II Story of Survival, Resilience and Redemption'
 author: Laura Hillenbrand
 rating: 4
-date_read: 2013/12/16
+date_read: "2013/12/16"
 number_of_pages: 475
 ---
 

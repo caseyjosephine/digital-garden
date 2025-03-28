@@ -2,7 +2,7 @@
 title: Northanger Abbey
 author: Jane Austen
 rating: 4
-date_read: 2014/03/27
+date_read: "2014/03/27"
 number_of_pages: 254
 ---
 

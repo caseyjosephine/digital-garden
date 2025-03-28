@@ -2,7 +2,7 @@
 title: The Nest
 author: Cynthia D'Aprix Sweeney
 rating: 2
-date_read: 2016/12/28
+date_read: "2016/12/28"
 number_of_pages: 353
 ---
 

@@ -2,7 +2,7 @@
 title: The Girl on the Train
 author: Paula Hawkins
 rating: 3
-date_read: 2015/01/19
+date_read: "2015/01/19"
 number_of_pages: 336
 ---
 

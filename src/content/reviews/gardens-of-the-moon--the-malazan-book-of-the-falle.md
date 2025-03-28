@@ -2,7 +2,7 @@
 title: 'Gardens of the Moon (The Malazan Book of the Fallen, #1)'
 author: Steven Erikson
 rating: 5
-date_read: 2018/03/22
+date_read: "2018/03/22"
 number_of_pages: 666
 ---
 

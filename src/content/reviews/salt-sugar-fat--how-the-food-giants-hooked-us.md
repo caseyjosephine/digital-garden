@@ -2,7 +2,7 @@
 title: 'Salt Sugar Fat: How the Food Giants Hooked Us'
 author: Michael  Moss
 rating: 4
-date_read: 2013/10/04
+date_read: "2013/10/04"
 number_of_pages: 480
 ---
 

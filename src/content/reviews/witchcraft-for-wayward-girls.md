@@ -2,7 +2,7 @@
 title: Witchcraft for Wayward Girls
 author: Grady Hendrix
 rating: 4
-date_read: 2025/03/16
+date_read: "2025/03/16"
 number_of_pages: 492
 ---
 

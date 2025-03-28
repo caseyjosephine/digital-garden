@@ -2,7 +2,7 @@
 title: The Kreutzer Sonata
 author: Leo Tolstoy
 rating: 4
-date_read: 2014/02/27
+date_read: "2014/02/27"
 number_of_pages: 128
 ---
 

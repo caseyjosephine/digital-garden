@@ -2,7 +2,7 @@
 title: 'Uncorked: The Novice''s Guide to Wine'
 author: Paul Kreider
 rating: 3
-date_read: 2013/12/27
+date_read: "2013/12/27"
 number_of_pages: 202
 ---
 

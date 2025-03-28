@@ -2,7 +2,7 @@
 title: The Perks of Being a Wallflower
 author: Stephen Chbosky
 rating: 3
-date_read: 2013/02/15
+date_read: "2013/02/15"
 number_of_pages: 213
 ---
 

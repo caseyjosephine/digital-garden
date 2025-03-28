@@ -2,7 +2,7 @@
 title: The Travelling Cat Chronicles
 author: Hiro Arikawa
 rating: 4
-date_read: 2025/03/24
+date_read: "2025/03/24"
 number_of_pages: 288
 ---
 

@@ -2,7 +2,7 @@
 title: A Heartbreaking Work of Staggering Genius
 author: Dave Eggers
 rating: 2
-date_read: 2014/12/26
+date_read: "2014/12/26"
 number_of_pages: 530
 ---
 

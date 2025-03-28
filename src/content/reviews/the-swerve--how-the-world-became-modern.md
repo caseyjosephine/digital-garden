@@ -2,7 +2,7 @@
 title: 'The Swerve: How the World Became Modern'
 author: Stephen Greenblatt
 rating: 5
-date_read: 2012/10/08
+date_read: "2012/10/08"
 number_of_pages: 356
 ---
 

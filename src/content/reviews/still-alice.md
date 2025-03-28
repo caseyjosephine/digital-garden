@@ -2,7 +2,7 @@
 title: Still Alice
 author: Lisa Genova
 rating: 2
-date_read: 2015/01/24
+date_read: "2015/01/24"
 number_of_pages: 292
 ---
 

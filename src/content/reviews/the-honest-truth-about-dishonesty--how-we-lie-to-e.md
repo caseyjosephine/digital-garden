@@ -2,7 +2,7 @@
 title: 'The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves'
 author: Dan Ariely
 rating: 3
-date_read: 2012/11/13
+date_read: "2012/11/13"
 number_of_pages: 264
 ---
 

@@ -2,7 +2,7 @@
 title: Sputnik Sweetheart
 author: Haruki Murakami
 rating: 5
-date_read: 2016/11/28
+date_read: "2016/11/28"
 number_of_pages: 210
 ---
 

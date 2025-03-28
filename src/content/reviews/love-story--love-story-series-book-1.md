@@ -2,7 +2,7 @@
 title: Love Story (Love Story series Book 1)
 author: Erich Segal
 rating: 2
-date_read: 2014/06/23
+date_read: "2014/06/23"
 number_of_pages: 134
 ---
 

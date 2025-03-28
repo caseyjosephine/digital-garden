@@ -2,7 +2,7 @@
 title: The Woman in White
 author: Wilkie Collins
 rating: 5
-date_read: 2013/11/04
+date_read: "2013/11/04"
 number_of_pages: 783
 ---
 

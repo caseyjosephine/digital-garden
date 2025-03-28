@@ -2,7 +2,7 @@
 title: 'Tubes: A Journey to the Center of the Internet'
 author: Andrew  Blum
 rating: 3
-date_read: 2013/12/20
+date_read: "2013/12/20"
 number_of_pages: 294
 ---
 

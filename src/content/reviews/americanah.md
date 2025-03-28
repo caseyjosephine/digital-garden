@@ -2,7 +2,7 @@
 title: Americanah
 author: Chimamanda Ngozi Adichie
 rating: 4
-date_read: 2014/09/02
+date_read: "2014/09/02"
 number_of_pages: 610
 ---
 

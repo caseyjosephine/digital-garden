@@ -2,7 +2,7 @@
 title: 'Almost French: Love and a New Life in Paris'
 author: Sarah Turnbull
 rating: 3
-date_read: 2007/09/01
+date_read: "2007/09/01"
 number_of_pages: 304
 ---
 

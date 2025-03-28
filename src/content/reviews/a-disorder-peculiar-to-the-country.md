@@ -2,7 +2,7 @@
 title: A Disorder Peculiar to the Country
 author: Ken Kalfus
 rating: 3
-date_read: 2007/07/01
+date_read: "2007/07/01"
 number_of_pages: 256
 ---
 

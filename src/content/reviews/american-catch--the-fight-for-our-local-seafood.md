@@ -2,7 +2,7 @@
 title: 'American Catch: The Fight for Our Local Seafood'
 author: Paul   Greenberg
 rating: 4
-date_read: 2014/07/07
+date_read: "2014/07/07"
 number_of_pages: 320
 ---
 

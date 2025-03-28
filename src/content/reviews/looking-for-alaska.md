@@ -2,7 +2,7 @@
 title: Looking for Alaska
 author: John Green
 rating: 4
-date_read: 2014/04/05
+date_read: "2014/04/05"
 number_of_pages: 221
 ---
 

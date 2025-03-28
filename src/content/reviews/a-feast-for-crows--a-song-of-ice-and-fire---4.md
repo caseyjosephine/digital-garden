@@ -2,7 +2,7 @@
 title: 'A Feast for Crows (A Song of Ice and Fire, #4)'
 author: George R.R. Martin
 rating: 3
-date_read: 2014/08/16
+date_read: "2014/08/16"
 number_of_pages: 1060
 ---
 

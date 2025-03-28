@@ -2,7 +2,7 @@
 title: Sideways
 author: Rex Pickett
 rating: 3
-date_read: 2013/12/28
+date_read: "2013/12/28"
 number_of_pages: 354
 ---
 

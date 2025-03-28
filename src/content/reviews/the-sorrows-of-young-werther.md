@@ -2,7 +2,7 @@
 title: The Sorrows of Young Werther
 author: Johann Wolfgang von Goethe
 rating: 4
-date_read: 2014/01/16
+date_read: "2014/01/16"
 number_of_pages: 149
 ---
 
